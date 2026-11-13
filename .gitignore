@@ -9,3 +9,6 @@ results/embeddings/
 .claude/settings.local.json
 results/dedup_calibration/
 results/embedding_dup_calibration/
+results/**/*.jsonl
+results/**/review/images/
+results/qwen3vl_4b_smoke/
