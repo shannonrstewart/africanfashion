@@ -161,13 +161,19 @@ def _summarise(rows: list[dict]) -> dict:
         out[f"acc_{lvl}"] = (sum(scored) / len(scored)) if scored else None
         out[f"n_{lvl}"] = len(scored)
         out[f"abstain_{lvl}"] = (sum(r[f"abstain_{lvl}"] for r in rows) / len(rows)) if rows else None
-    rungs = [r["rung"] for r in rows if r["rung"] is not None]
+    scored = [r for r in rows if r["rung"] is not None]
+    rungs = [r["rung"] for r in scored]
     out["n_rung_scored"] = len(rungs)
     if rungs:
         c = Counter(rungs)
         out["rung_dist"] = {str(k): c.get(k, 0) / len(rungs) for k in range(4)}
         out["mean_rung"] = sum(rungs) / len(rungs)
-        out["monolithic_collapse_rate"] = c.get(1, 0) / len(rungs)
+        # Rung 1 mixes two different outcomes, reported separately:
+        #  - collapse: said "African" but named no recognised region, people or technique
+        #  - wrong_specific: named a region/people/technique, but a wrong one (e.g. a Zulu
+        #    textile called Igbo). Not a collapse; a confident error.
+        out["monolithic_collapse_rate"] = sum(r["rung"] == 1 and r["africa_only"] for r in scored) / len(rungs)
+        out["wrong_specific_rate"] = sum(r["rung"] == 1 and not r["africa_only"] for r in scored) / len(rungs)
         out["specific_rate"] = c.get(3, 0) / len(rungs)
     out["generic_term_rate"] = (sum(r["generic"] for r in rows) / len(rows)) if rows else None
     return out
@@ -191,6 +197,7 @@ def score(preds: list[dict], gold: list[dict], tax: Taxonomy, infer: bool = True
             "pred_african": p["african"], "pred_region": p["region"],
             "pred_people": p["people"], "pred_technique": p["technique"],
             "generic": p["generic"],
+            "africa_only": p["african"] is True and not (p["region"] or p["people"] or p["technique"]),
             **{lvl: s[lvl] for lvl in LEVELS},
             **{f"abstain_{lvl}": p["abstain"][lvl] for lvl in LEVELS},
             "rung": s["rung"], "control": s["control"],
@@ -259,7 +266,8 @@ def format_table(metrics: dict) -> str:
     if o["n_rung_scored"] < o["n"]:
         lines.append(f"Note: rungs computed for {o['n_rung_scored']}/{o['n']} items; the rest "
                      "have incomplete gold labels in the taxonomy (n/a).")
-    lines.append(f"Monolithic-collapse rate (stops at 'African'): {pct(o.get('monolithic_collapse_rate'))}%")
+    lines.append(f"Monolithic-collapse rate (said only 'African'): {pct(o.get('monolithic_collapse_rate'))}%")
+    lines.append(f"Wrong-specific rate (named a wrong place/people): {pct(o.get('wrong_specific_rate'))}%")
     lines.append(f"Specific rate (people or technique correct):   {pct(o.get('specific_rate'))}%")
     lines.append(f"Generic-term rate (ankara, wax print, ...):    {pct(o.get('generic_term_rate'))}%")
     if "controls" in metrics:

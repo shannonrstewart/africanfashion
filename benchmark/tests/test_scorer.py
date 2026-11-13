@@ -188,6 +188,29 @@ def test_always_african_is_full_collapse(tax):
     assert m["overall"]["acc_l1_africa"] == 1.0
 
 
+def test_wrong_specific_is_not_collapse(tax):
+    """Rung 1 splits into 'said only Africa' (collapse) and 'named a wrong place/people'."""
+    gold = [{"id": 1, "class": "Adire"}, {"id": 2, "class": "Adire"}, {"id": 3, "class": "Adire"}]
+    preds = [
+        {"id": 1, "continent": "Africa"},                                        # collapse
+        {"id": 2, "continent": "Africa", "region": "East Africa", "people": "Maasai"},  # wrong specific
+        {"id": 3, "continent": "Africa", "technique": "Ankara print"},           # generic term only: collapse
+    ]
+    m, items = score(preds, gold, tax)
+    assert [i["rung"] for i in items] == [1, 1, 1]
+    assert [i["africa_only"] for i in items] == [True, False, True]
+    assert m["overall"]["monolithic_collapse_rate"] == pytest.approx(2 / 3)
+    assert m["overall"]["wrong_specific_rate"] == pytest.approx(1 / 3)
+
+
+def test_closed_set_classifier_never_collapses(tax):
+    gold = [{"id": 1, "class": "Adire"}, {"id": 2, "class": "Shweshwe"}]
+    preds = [{"id": 1, "pred_class": "Shweshwe"}, {"id": 2, "pred_class": "Adire"}]   # both wrong, other region
+    m, _ = score(preds, gold, tax)
+    assert m["overall"]["monolithic_collapse_rate"] == 0.0
+    assert m["overall"]["wrong_specific_rate"] == 1.0
+
+
 def test_oracle_is_all_rung3(tax):
     preds = [{"id": g["id"], "pred_class": g["class"]} for g in GOLD]
     m, _ = score(preds, GOLD, tax)

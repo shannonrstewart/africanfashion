@@ -1,0 +1,1261 @@
+idx,split,clean_label,source_label,w,h,small,group,in_expert_sample,forced_test,pred,confidence
+17,test,Adire,Adire,189,267,False,15,False,False,Zulu,0.5985456
+20,test,Adire,Adire,174,290,False,18,False,False,Adire,0.67372864
+22,test,Adire,Adire,201,251,False,20,False,False,Adire,0.7431356
+28,test,Adire,Adire,275,183,False,25,False,False,Adire,0.9946149
+34,test,Adire,Adire,258,195,False,31,False,False,Tiv,0.6890208
+39,test,Adire,Adire,201,251,False,36,False,False,Adire,0.99999833
+51,test,Adire,Adire,264,191,False,47,False,False,Adire,0.9996737
+59,test,Adire,Adire,252,200,False,54,False,False,Adire,0.9999964
+72,test,Adire,Adire,259,194,False,63,False,False,Adire,0.99999976
+73,test,Adire,Adire,259,194,False,64,False,False,Adire,0.99142283
+80,test,Adire,Adire,248,203,False,70,False,False,Adire,0.9935156
+91,test,Adire,Adire,261,193,False,80,False,False,Adire,0.9999989
+94,test,Adire,Adire,259,194,False,82,False,False,Adire,0.9991549
+98,test,Adire,Adire,263,192,False,86,False,False,Adire,0.9999999
+99,test,Adire,Adire,236,200,False,87,False,False,Adire,0.9999956
+122,test,Adire,Adire,275,184,False,109,False,False,Adire,0.99996126
+134,test,Adire,Adire,236,214,False,121,False,False,Adire,0.99998915
+156,test,Adire,Adire,177,285,False,140,False,False,Adire,0.99979085
+157,test,Adire,Adire,194,260,False,141,False,False,Adire,0.9999999
+161,test,Adire,Adire,194,260,False,144,False,False,Adire,0.99999166
+165,test,Adire,Adire,210,240,False,148,False,False,Adire,0.9999889
+178,test,Adire,Adire,315,160,False,161,False,False,Adire,0.98182297
+180,test,Adire,Adire,252,200,False,163,False,False,Tswana-Shweshwe,0.39227083
+181,test,Adire,Adire,168,300,False,164,False,False,Igbo,0.87348753
+197,test,Adire,Adire,193,261,False,178,False,False,Adire,0.99999976
+233,test,Adire,Adire,225,225,False,209,False,False,Adire,1.0
+238,test,Adire,Adire,278,182,False,214,False,False,Adire,0.6935581
+244,test,Adire,Adire,310,163,False,219,False,False,Adire,0.9999883
+249,test,Adire,Adire,258,196,False,224,False,False,Adire,0.99951434
+251,test,Adire,Adire,218,232,False,226,False,False,Adire,0.99999917
+256,test,Adire,Adire,192,263,False,230,False,False,Adire,0.999985
+262,test,Adire,Adire,195,259,False,236,False,False,Adire,0.99715376
+273,test,Adire,Adire,270,187,False,247,False,False,Adire,0.997908
+275,test,Adire,Adire,165,306,False,249,False,False,Adire,0.9999999
+284,test,Adire,Adire,239,211,False,256,False,False,Adire,0.9994814
+285,test,Adire,Adire,211,239,False,257,False,False,Adire,0.99999726
+291,test,Adire,Adire,201,251,False,263,False,False,Zulu,0.30099234
+294,test,Adire,Adire,201,251,False,266,False,False,Adire,0.5241494
+311,test,Adire,Adire,252,200,False,281,False,False,Adire,0.99991083
+313,test,Adire,Adire,252,200,False,283,False,False,Adire,0.9999994
+326,test,Adire,Adire,196,257,False,295,False,False,Adire,0.99999964
+337,test,Adire,Adire,253,199,False,303,False,False,Adire,0.9999999
+345,test,Adire,Adire,183,275,False,311,False,False,Tswana-Shweshwe,0.29075575
+348,test,Adire,Adire,217,232,False,121,False,False,Adire,0.9999995
+355,test,Adire,Adire,275,183,False,318,False,False,Adire,0.9999993
+366,test,Adire,Adire,275,183,False,327,False,False,Adire,0.9999691
+367,test,Adire,Adire,275,183,False,328,False,True,Adire,0.99996495
+375,test,Adire,Adire,194,259,False,336,False,False,Adire,0.99980396
+380,test,Adire,Adire,275,183,False,341,False,False,Igbo,0.7907343
+391,test,Adire,Adire,235,214,False,350,False,False,Adire,0.9992736
+392,test,Adire,Adire,235,214,False,351,False,False,Adire,0.99904543
+394,test,Adire,Adire,262,192,False,353,False,False,Adire,1.0
+397,test,Adire,Adire,198,254,False,356,False,False,Adire,0.9999988
+399,test,Adire,Adire,243,207,False,358,False,False,Adire,0.99999404
+422,test,Adire,Adire,259,194,False,377,False,False,Adire,0.9999988
+429,test,Adire,Adire,194,259,False,381,False,False,Adire,0.99969506
+441,test,Adire,Adire,259,194,False,391,False,False,Adire,0.9999131
+457,test,Adire,Adire,194,259,False,407,False,False,Adire,0.99998033
+469,test,Adire,Adire,276,182,False,414,False,False,Adire,0.9938692
+470,test,Adire,Adire,279,180,False,415,False,False,Igbo,0.46810102
+479,test,Adire,Adire,225,225,False,422,False,False,Adire,0.999908
+482,test,Adire,Adire,225,225,False,425,False,False,Adire,0.9999999
+489,test,Adire,Adire,275,184,False,431,False,False,Adire,0.9999962
+500,test,Adire,Adire,251,201,False,441,False,False,Adire,0.9976476
+507,test,Adire,Adire,203,248,False,448,False,False,Adire,0.99637836
+514,test,Adire,Adire,184,273,False,454,False,False,Adire,0.99991536
+516,test,Adire,Adire,275,183,False,456,False,False,Igbo,0.3374274
+521,test,Adire,Adire,225,225,False,461,False,False,Adire,0.95569736
+525,test,Adire,Adire,225,225,False,465,False,False,Adire,0.99999964
+537,test,Adire,Adire,225,225,False,477,False,False,Igbo,0.9678746
+544,test,Adire,Adire,225,225,False,482,False,False,Adire,0.99229455
+555,test,Adire,Adire,225,225,False,493,False,False,Adire,0.999979
+559,test,Adire,Adire,225,225,False,497,False,False,Adire,0.9972705
+561,test,Adire,Adire,225,225,False,499,False,False,Adire,0.9999999
+581,test,Adire,Adire,225,225,False,518,False,False,Adire,0.99999964
+582,test,Adire,Adire,225,225,False,519,False,False,Adire,0.99942577
+583,test,Adire,Adire,225,225,False,520,False,False,Adire,0.980452
+599,test,Adire,Adire,225,225,False,536,False,False,Adire,0.92649275
+611,test,Adire,Adire,237,213,False,547,False,False,Adire,0.99929786
+619,test,Adire,Adire,201,251,False,554,False,False,Adire,0.9983725
+622,test,Adire,Adire,201,251,False,557,False,False,Adire,0.99969304
+627,test,Adire,Adire,201,251,False,561,False,False,Igbo,0.8811638
+633,test,Adire,Adire,151,334,False,567,False,False,Zulu,0.4305306
+638,test,Adire,Adire,246,205,False,350,False,False,Adire,0.98492604
+647,test,Adire,Adire,212,238,False,580,False,False,Adire,0.99286616
+656,test,Adire,Adire,182,277,False,588,False,False,Adire,0.99997747
+660,test,Adire,Adire,224,225,False,592,False,False,Xhosa-South Africa,0.9570496
+667,test,Adire,Adire,252,200,False,597,False,False,Igbo,0.75926983
+670,test,Adire,Adire,201,251,False,600,False,False,Igbo,0.70162463
+681,test,Adire,Adire,204,247,False,610,True,True,Adire,0.99923515
+684,test,Adire,Adire,221,228,False,612,False,False,Adire,0.99986947
+685,test,Adire,Adire,204,247,False,613,False,False,Adire,0.9997881
+708,test,Adire,Adire,275,183,False,635,False,False,Adire,0.999938
+720,test,Adire,Adire,194,260,False,647,False,False,Adire,0.99999905
+726,test,Adire,Adire,260,194,False,653,False,False,Adire,0.89680755
+740,test,Adire,Adire,300,168,False,667,False,False,Adire,0.9954145
+742,test,Adire,Adire,300,168,False,668,False,False,Adire,0.7471571
+743,test,Adire,Adire,224,225,False,669,False,False,Adire,0.9915119
+745,test,Adire,Adire,300,168,False,668,False,False,Adire,0.9303559
+754,test,Adire,Adire,194,259,False,680,False,False,Adire,0.6753336
+763,test,Igbo,Idgo,762,582,False,686,False,False,Igbo,0.9823345
+769,test,Igbo,Idgo,298,169,False,691,False,False,Tswana-Shweshwe,0.60297114
+781,test,Igbo,Idgo,165,306,False,698,False,False,Igbo,0.9973411
+806,test,Igbo,Idgo,201,251,False,716,False,False,Igbo,0.9999894
+815,test,Igbo,Idgo,201,251,False,723,False,False,Zulu,0.807166
+839,test,Igbo,Idgo,300,168,False,736,False,False,Igbo,0.96762955
+848,test,Igbo,Idgo,340,270,False,743,False,False,Igbo,0.9995684
+850,test,Igbo,Idgo,225,225,False,745,False,False,Tiv,0.32639405
+860,test,Igbo,Idgo,340,270,False,743,False,False,Igbo,0.999887
+870,test,Igbo,Idgo,168,300,False,757,False,False,Adire,0.67855984
+876,test,Igbo,Idgo,225,225,False,761,False,False,Igbo,0.9997429
+886,test,Igbo,Idgo,340,270,False,768,False,False,Igbo,0.99967504
+887,test,Igbo,Idgo,282,178,False,769,False,False,Igbo,0.99677074
+894,test,Igbo,Idgo,225,225,False,772,False,False,Igbo,0.99971443
+898,test,Igbo,Idgo,340,270,False,775,False,False,Igbo,0.9952054
+900,test,Igbo,Idgo,100,100,True,777,False,False,Igbo,0.9678748
+909,test,Igbo,Idgo,100,100,True,780,False,False,Igbo,0.91353416
+912,test,Igbo,Idgo,201,251,False,782,False,False,Igbo,0.9927255
+936,test,Igbo,Idgo,225,225,False,796,False,False,Igbo,0.97294545
+938,test,Igbo,Idgo,183,275,False,797,False,False,Tswana-Shweshwe,0.7308158
+941,test,Igbo,Idgo,212,237,False,799,False,False,Igbo,0.993153
+947,test,Igbo,Idgo,194,259,False,804,False,False,Igbo,0.98415667
+958,test,Igbo,Idgo,340,270,False,813,False,False,Igbo,0.98565763
+968,test,Igbo,Idgo,100,100,True,819,False,False,Igbo,0.9985619
+979,test,Igbo,Idgo,100,100,True,826,False,False,Igbo,0.9999963
+981,test,Igbo,Idgo,100,100,True,828,False,False,Igbo,0.9999825
+986,test,Igbo,Idgo,225,225,False,832,False,False,Igbo,0.9999927
+994,test,Igbo,Idgo,340,270,False,836,False,False,Igbo,0.99999976
+997,test,Igbo,Idgo,194,259,False,838,False,False,Igbo,0.89245355
+1000,test,Igbo,Idgo,225,225,False,839,False,False,Igbo,0.9995353
+1020,test,Igbo,Idgo,340,270,False,853,False,False,Igbo,0.9998969
+1038,test,Igbo,Idgo,194,259,False,864,False,False,Igbo,0.99999285
+1051,test,Igbo,Idgo,225,225,False,873,False,False,Igbo,0.9999846
+1058,test,Igbo,Idgo,183,276,False,879,False,False,Igbo,0.99446094
+1069,test,Igbo,Idgo,194,259,False,887,False,False,Igbo,0.94332755
+1075,test,Igbo,Idgo,200,252,False,890,False,False,Igbo,0.99581724
+1077,test,Igbo,Idgo,100,100,True,891,False,False,Igbo,0.9991041
+1083,test,Igbo,Idgo,225,225,False,896,False,False,Igbo,0.99982435
+1086,test,Igbo,Idgo,225,225,False,898,False,False,Igbo,0.99999845
+1088,test,Igbo,Idgo,168,300,False,899,False,False,Igbo,0.996259
+1096,test,Igbo,Idgo,241,209,False,905,False,False,Igbo,0.99720794
+1097,test,Igbo,Idgo,211,239,False,890,False,False,Igbo,0.9926946
+1100,test,Igbo,Idgo,270,187,False,686,False,False,Igbo,0.9965578
+1103,test,Igbo,Idgo,100,100,True,909,False,False,Igbo,1.0
+1109,test,Igbo,Idgo,201,251,False,914,False,False,Igbo,0.99529016
+1115,test,Igbo,Idgo,100,100,True,917,False,False,Igbo,0.9963469
+1122,test,Igbo,Idgo,194,259,False,922,False,False,Igbo,0.96613485
+1140,test,Igbo,Idgo,225,225,False,931,False,False,Igbo,0.9598291
+1151,test,Igbo,Idgo,189,266,False,938,False,False,Igbo,0.91387427
+1153,test,Igbo,Idgo,100,100,True,939,False,False,Igbo,0.99575716
+1154,test,Igbo,Idgo,340,270,False,940,False,False,Igbo,0.99704367
+1157,test,Igbo,Idgo,297,170,False,943,False,False,Igbo,0.99941766
+1161,test,Igbo,Idgo,155,324,False,945,False,False,Igbo,0.8580167
+1184,test,Igbo,Idgo,864,1080,False,959,False,False,Igbo,0.9999814
+1212,test,Igbo,Idgo,340,270,False,983,False,False,Igbo,0.9992137
+1218,test,Igbo,Idgo,500,500,False,743,False,False,Igbo,0.99998343
+1224,test,Igbo,Idgo,500,500,False,993,False,False,Igbo,0.78039014
+1227,test,Igbo,Idgo,159,159,False,996,False,False,Igbo,0.9998951
+1241,test,Igbo,Idgo,570,1013,False,1005,False,False,Igbo,0.99999607
+1243,test,Igbo,Idgo,570,760,False,1007,False,False,Igbo,0.99776065
+1245,test,Igbo,Idgo,570,760,False,1008,False,False,Igbo,0.9999502
+1252,test,Igbo,Idgo,100,100,True,1012,False,False,Igbo,0.9999926
+1264,test,Igbo,Idgo,570,703,False,1020,False,False,Igbo,0.99962044
+1275,test,Igbo,Idgo,205,246,False,1028,False,False,Zulu,0.776007
+1292,test,Igbo,Idgo,200,252,False,1036,False,False,Igbo,0.9999888
+1299,test,Igbo,Idgo,1080,1426,False,1040,False,False,Igbo,0.79689455
+1303,test,Igbo,Idgo,259,194,False,743,False,False,Igbo,0.99989474
+1310,test,Igbo,Idgo,570,713,False,1049,False,False,Igbo,0.9999596
+1317,test,Igbo,Idgo,300,168,False,1053,False,False,Igbo,0.99972886
+1319,test,Igbo,Idgo,159,159,False,1054,False,False,Zulu,0.55783206
+1320,test,Igbo,Idgo,570,760,False,1055,False,False,Igbo,0.99999213
+1329,test,Igbo,Idgo,259,194,False,743,False,False,Igbo,0.9999862
+1335,test,Igbo,Idgo,570,769,False,1067,False,False,Xhosa-South Africa,0.38724157
+1338,test,Igbo,Idgo,100,100,True,1069,False,False,Igbo,0.9999391
+1345,test,Igbo,Idgo,186,272,False,1075,False,False,Igbo,0.97934705
+1350,test,Igbo,Idgo,300,168,False,1079,False,False,Igbo,0.9991824
+1364,test,Igbo,Idgo,178,282,False,1092,False,False,Igbo,0.99127126
+1366,test,Igbo,Idgo,297,170,False,1093,False,False,Igbo,0.92241776
+1381,test,Igbo,Idgo,201,251,False,1105,False,False,Igbo,0.99986696
+1389,test,Igbo,Idgo,201,251,False,1112,False,False,Igbo,0.99135953
+1393,test,Igbo,Idgo,192,262,False,1115,False,False,Igbo,0.9382103
+1424,test,Igbo,Idgo,223,226,False,1137,False,False,Igbo,0.9959791
+1431,test,Igbo,Idgo,225,225,False,1142,False,False,Igbo,0.9563324
+1454,test,Igbo,Idgo,275,183,False,1160,False,False,Igbo,0.99874216
+1455,test,Igbo,Idgo,202,249,False,1161,False,False,Igbo,0.99752957
+1457,test,Igbo,Idgo,1242,2208,False,1162,False,False,Igbo,0.99945766
+1459,test,Igbo,Idgo,201,251,False,1164,False,False,Igbo,0.9991142
+1469,test,Igbo,Idgo,1242,1242,False,1170,False,False,Igbo,0.9980956
+1472,test,Igbo,Idgo,203,249,False,1173,False,False,Igbo,0.98237383
+1487,test,Igbo,Idgo,183,275,False,1187,False,False,Igbo,0.9997913
+1522,test,Igbo,Idgo,225,225,False,1214,False,False,Igbo,0.9999821
+1537,test,Igbo,Idgo,222,227,False,1226,False,False,Igbo,0.7623964
+1546,test,Igbo,Idgo,275,183,False,1232,False,False,Igbo,0.9999161
+1550,test,Igbo,Idgo,225,225,False,1235,False,False,Igbo,0.9999759
+1553,test,Igbo,Idgo,183,275,False,1238,False,False,Igbo,0.998281
+1554,test,Igbo,Idgo,194,259,False,1239,False,False,Igbo,0.99505794
+1571,test,Igbo,Idgo,275,183,False,1249,False,False,Igbo,0.99361813
+1573,test,Igbo,Idgo,207,243,False,1251,False,False,Igbo,0.99688065
+1583,test,Igbo,Idgo,210,240,False,1258,False,False,Igbo,0.9093355
+1584,test,Igbo,Idgo,183,276,False,1259,False,False,Igbo,0.9008463
+1589,test,Igbo,Idgo,194,259,False,1263,False,False,Igbo,0.9998596
+1591,test,Igbo,Idgo,201,251,False,1265,False,False,Adire,0.6417155
+1595,test,Igbo,Idgo,202,249,False,1269,False,False,Igbo,0.99226224
+1613,test,Igbo,Idgo,1024,768,False,1280,False,False,Igbo,0.9999994
+1618,test,Igbo,Idgo,183,275,False,1285,False,False,Igbo,0.9901148
+1619,test,Igbo,Idgo,297,170,False,1286,False,False,Igbo,0.9854334
+1623,test,Igbo,Idgo,100,100,True,1289,False,False,Igbo,0.9998641
+1630,test,Igbo,Idgo,231,218,False,1294,False,False,Igbo,0.98761076
+1633,test,Igbo,Idgo,194,259,False,1297,False,False,Igbo,0.9999857
+1635,test,Igbo,Idgo,194,259,False,743,False,False,Igbo,0.99786997
+1645,test,Igbo,Idgo,225,225,False,1308,False,False,Igbo,0.8067658
+1653,test,Igbo,Idgo,251,201,False,1315,False,False,Igbo,0.6443362
+1664,test,Igbo,Idgo,280,180,False,1326,False,False,Igbo,0.99921596
+1677,test,Igbo,Idgo,168,300,False,1336,False,False,Igbo,0.8592932
+1682,test,Igbo,Idgo,221,228,False,1339,False,False,Igbo,0.99804986
+1688,test,Igbo,Idgo,204,247,False,1344,False,False,Igbo,0.9792924
+1693,test,Igbo,Idgo,269,187,False,1349,False,False,Igbo,0.9630359
+1697,test,Igbo,Idgo,1180,1498,False,743,False,False,Igbo,0.9999145
+1716,test,Igbo,Idgo,225,225,False,1365,False,False,Igbo,0.99999905
+1717,test,Igbo,Idgo,200,252,False,1366,False,False,Igbo,0.999848
+1718,test,Igbo,Idgo,283,178,False,1367,False,False,Zulu,0.51041216
+1720,test,Igbo,Idgo,259,194,False,743,False,False,Igbo,0.9999951
+1723,test,Igbo,Idgo,186,271,False,1371,False,False,Igbo,0.4797454
+1733,test,Igbo,Idgo,2250,3000,False,743,False,False,Igbo,0.9999465
+1742,test,Igbo,Idgo,219,230,False,1385,False,False,Igbo,0.6162584
+1743,test,Igbo,Idgo,225,225,False,1386,False,False,Igbo,0.99996495
+1752,test,Igbo,Idgo,201,251,False,1394,False,False,Igbo,0.9948874
+1759,test,Igbo,Idgo,225,225,False,1399,False,False,Igbo,0.7581884
+1765,test,Igbo,Idgo,266,190,False,1403,False,False,Igbo,0.79896796
+1766,test,Igbo,Idgo,195,258,False,1404,False,False,Igbo,0.9998995
+1781,test,Igbo,Idgo,690,498,False,1349,False,False,Igbo,0.9608441
+1786,test,Igbo,Idgo,225,225,False,1418,False,False,Igbo,0.9998678
+1793,test,Igbo,Idgo,211,239,False,1424,False,False,Igbo,0.849663
+1801,test,Igbo,Idgo,325,155,False,1430,False,False,Igbo,0.9443278
+1808,test,Igbo,Idgo,704,960,False,1436,False,False,Tswana-Shweshwe,0.965633
+1822,test,Igbo,Idgo,225,225,False,1448,False,False,Igbo,0.9997024
+1834,test,Igbo,Idgo,201,251,False,1459,False,False,Igbo,0.99969184
+1841,test,Igbo,Idgo,201,251,False,1464,False,False,Igbo,0.9998634
+1844,test,Igbo,Idgo,1173,1333,False,1466,False,False,Igbo,0.98662853
+1852,test,Igbo,Idgo,227,222,False,1470,False,False,Igbo,0.9956528
+1854,test,Igbo,Idgo,201,251,False,1472,False,False,Igbo,0.9960632
+1870,test,Igbo,Idgo,202,249,False,1483,False,False,Igala,0.62445587
+1889,test,Igbo,Idgo,201,251,False,1502,False,False,Igbo,0.9991523
+1908,test,Igbo,Idgo,205,246,False,1520,False,False,Igbo,0.9961462
+1913,test,Igbo,Idgo,189,267,False,1525,False,False,Igbo,0.9818401
+1914,test,Igbo,Idgo,270,187,False,1526,False,False,Tiv,0.97825485
+1931,test,Igbo,Idgo,2244,2992,False,1539,False,False,Igbo,0.9320542
+1933,test,Igbo,Idgo,183,275,False,1541,False,False,Igbo,0.6196896
+1936,test,Igbo,Idgo,225,225,False,1543,False,False,Igbo,0.8992049
+1937,test,Igbo,Idgo,100,100,True,1544,False,False,Igbo,0.99923193
+1938,test,Igbo,Idgo,201,250,False,1545,False,False,Igbo,0.9999479
+1944,test,Igbo,Idgo,275,183,False,1549,True,True,Igbo,0.9360888
+1950,test,Igbo,Idgo,201,251,False,1553,False,False,Igbo,0.98466796
+1967,test,Igbo,Idgo,1242,1404,False,1466,False,False,Igbo,0.9792554
+1969,test,Igbo,Idgo,201,251,False,1568,False,False,Igbo,0.9984291
+1976,test,Igbo,Idgo,225,225,False,1574,False,False,Igbo,0.99999523
+2014,test,Igbo,Idgo,225,225,False,743,False,False,Igbo,0.99999106
+2029,test,Igbo,Idgo,225,225,False,1615,False,False,Igbo,0.57480824
+2040,test,Igbo,Idgo,220,220,False,1623,False,False,Igbo,0.9927745
+2044,test,Igbo,Idgo,225,225,False,1625,True,True,Igbo,0.7319523
+2058,test,Igbo,Idgo,200,252,False,1637,False,False,Igbo,0.9999865
+2063,test,Igbo,Idgo,275,183,False,1640,False,False,Igbo,0.9998253
+2078,test,Igbo,Idgo,1440,1800,False,1650,False,True,Igbo,0.9994831
+2096,test,Igbo,Idgo,300,168,False,1667,False,False,Igbo,0.9345842
+2098,test,Igbo,Idgo,184,274,False,1669,False,False,Igbo,0.9999989
+2109,test,Igbo,Idgo,183,275,False,1677,False,False,Igbo,0.9976642
+2116,test,Igbo,Idgo,202,250,False,1684,False,False,Igbo,0.9955063
+2135,test,Igbo,Idgo,297,170,False,1699,False,False,Igbo,0.9178101
+2144,test,Igbo,Idgo,225,225,False,1707,False,False,Igbo,0.978916
+2146,test,Igbo,Idgo,201,251,False,1708,False,False,Igbo,0.7630904
+2152,test,Igbo,Idgo,511,600,False,1710,False,False,Igbo,0.7835077
+2157,test,Igbo,Idgo,201,251,False,1713,False,False,Igbo,0.995748
+2166,test,Igbo,Idgo,260,194,False,1721,False,False,Igbo,0.9038896
+2173,test,Igbo,Idgo,194,259,False,1728,False,False,Igbo,0.9144445
+2180,test,Igbo,Idgo,173,280,False,1735,False,False,Igbo,0.9664776
+2191,test,Igbo,Idgo,228,221,False,1745,False,False,Igbo,0.91266936
+2219,test,Igbo,Idgo,252,200,False,1768,False,False,Igbo,0.99997294
+2224,test,Igbo,Idgo,182,277,False,1770,False,False,Tiv,0.47715905
+2226,test,Igbo,Idgo,252,200,False,1771,False,False,Igbo,0.99648356
+2231,test,Igbo,Idgo,100,100,True,1776,False,False,Igbo,0.99935585
+2232,test,Igbo,Idgo,289,175,False,1777,False,False,Igbo,0.99518543
+2238,test,Igbo,Idgo,225,225,False,1781,False,False,Igbo,0.99408793
+2253,test,Igbo,Idgo,201,251,False,1791,False,False,Igbo,0.9994019
+2262,test,Igbo,Idgo,201,251,False,1799,False,False,Igbo,0.9972837
+2265,test,Igbo,Idgo,100,100,True,1802,False,False,Igbo,0.9938245
+2281,test,Igbo,Idgo,202,250,False,1813,False,False,Igbo,0.99010676
+2283,test,Igbo,Idgo,225,225,False,1815,False,False,Igbo,0.98898214
+2296,test,Igbo,Idgo,300,100,True,1826,False,False,Igbo,0.9891271
+2305,test,Igbo,Idgo,201,251,False,1834,False,False,Igbo,0.9916992
+2311,test,Igbo,Idgo,225,225,False,1840,False,False,Igbo,0.9994641
+2322,test,Igbo,Idgo,828,1005,False,1850,False,False,Igbo,0.99920005
+2327,test,Igbo,Idgo,209,242,False,1855,False,False,Igbo,0.8683078
+2332,test,Igbo,Idgo,194,259,False,743,False,False,Igbo,0.9999516
+2334,test,Igbo,Idgo,1536,2048,False,1862,False,False,Igbo,0.99999464
+2340,test,Igbo,Idgo,168,300,False,1867,False,False,Igbo,0.9811318
+2341,test,Igbo,Idgo,189,267,False,1868,False,False,Igbo,0.9990441
+2347,test,Igbo,Idgo,190,265,False,743,False,False,Igbo,0.99998784
+2351,test,Igbo,Idgo,235,214,False,1877,True,True,Igbo,0.9597415
+2365,test,Igbo,Idgo,201,251,False,1890,False,False,Igbo,0.9067402
+2368,test,Igbo,Idgo,256,197,False,1892,False,False,Igbo,0.59510094
+2384,test,Igbo,Idgo,259,194,False,1907,False,False,Igbo,0.9999976
+2392,test,Igbo,Idgo,190,265,False,1912,False,False,Igbo,0.99934524
+2394,test,Igbo,Idgo,100,100,True,1914,False,False,Igbo,0.9668547
+2399,test,Igbo,Idgo,260,194,False,1918,False,False,Igbo,0.9999951
+2402,test,Igbo,Idgo,275,183,False,1921,False,False,Igbo,0.9953075
+2417,test,Igbo,Idgo,227,222,False,1930,False,False,Igbo,0.933864
+2429,test,Igbo,Idgo,202,249,False,1935,False,False,Zulu,0.95046896
+2465,test,Igbo,Idgo,196,257,False,1020,False,False,Igbo,0.9999567
+2469,test,Igbo,Idgo,592,315,False,1961,False,False,Igbo,0.90859884
+2480,test,Igbo,Idgo,201,251,False,1970,False,False,Igbo,0.82930374
+2485,test,Igbo,Idgo,201,251,False,1975,False,False,Igbo,0.9166962
+2490,test,Igbo,Idgo,225,225,False,1978,False,False,Igbo,0.6556188
+2492,test,Igbo,Idgo,194,259,False,1980,False,False,Igbo,0.99898213
+2503,test,Igbo,Idgo,194,259,False,1989,False,False,Igbo,0.9922855
+2505,test,Igbo,Idgo,816,1024,False,1990,False,False,Igbo,0.98993814
+2510,test,Igbo,Idgo,201,250,False,1993,False,False,Igbo,0.99999917
+2517,test,Igbo,Idgo,750,750,False,1997,False,False,Tiv,0.9483985
+2518,test,Igbo,Idgo,480,360,False,1998,False,False,Igbo,0.9988746
+2528,test,Igbo,Idgo,545,364,False,1399,False,False,Tswana-Shweshwe,0.737743
+2533,test,Igbo,Idgo,1066,1600,False,2013,False,False,Igbo,0.77205914
+2539,test,Igbo,Idgo,800,927,False,2019,False,False,Igbo,0.9982267
+2547,test,Igbo,Idgo,520,631,False,2019,False,False,Igbo,0.9982376
+2567,test,Igbo,Idgo,1080,1350,False,2045,False,False,Igbo,0.9536202
+2582,test,Igbo,Idgo,570,760,False,743,False,False,Igbo,0.9999918
+2635,test,Igbo,Idgo,925,1152,False,2103,False,False,Igbo,0.97176343
+2637,test,Igbo,Idgo,736,1104,False,743,False,False,Igbo,0.9998598
+2645,test,Igbo,Idgo,168,300,False,2111,False,False,Igbo,0.9719462
+2650,test,Igbo,Idgo,600,727,False,2115,False,False,Igbo,0.739075
+2664,test,Igbo,Idgo,184,274,False,2124,False,False,Igbo,0.9999769
+2668,test,Igbo,Idgo,1200,934,False,2127,False,False,Igbo,0.99834585
+2674,test,Igbo,Idgo,201,251,False,2131,False,False,Igbo,0.99911433
+2690,test,Igbo,Idgo,757,1000,False,2145,False,False,Igbo,0.99997926
+2695,test,Igbo,Idgo,1000,667,False,2149,False,False,Igbo,0.9998845
+2698,test,Igbo,Idgo,375,500,False,743,False,False,Igbo,0.9999924
+2700,test,Igbo,Idgo,3072,3072,False,2154,False,False,Igbo,0.45043433
+2704,test,Igbo,Idgo,462,693,False,2158,False,False,Adire,0.9307869
+2715,test,Igbo,Idgo,934,1340,False,743,False,False,Igbo,0.9999362
+2722,test,Igbo,Idgo,1337,1873,False,2173,False,False,Igbo,0.99954283
+2725,test,Igbo,Idgo,749,1219,False,2175,False,False,Igbo,0.9917996
+2740,test,Igbo,Idgo,1080,1345,False,1399,False,False,Zulu,0.3958167
+2753,test,Igbo,Idgo,225,225,False,2197,False,False,Igbo,0.999521
+2760,test,Igbo,Idgo,236,354,False,2204,False,False,Igbo,0.8274864
+2767,test,Igbo,Idgo,1200,1500,False,2207,False,False,Igbo,0.91107506
+2772,test,Igbo,Idgo,564,705,False,2212,False,False,Igbo,0.9337007
+2790,test,Igbo,Idgo,235,294,False,2229,False,False,Igbo,0.9999311
+2793,test,Igbo,Idgo,736,981,False,853,False,False,Igbo,0.9999883
+2795,test,Igbo,Idgo,197,256,False,2234,False,False,Igbo,0.5655103
+2805,test,Igbo,Idgo,499,499,False,743,False,True,Igbo,0.9999982
+2815,test,Igbo,Idgo,236,236,False,2229,False,False,Igbo,0.9999949
+2816,test,Igbo,Idgo,736,920,False,2255,False,False,Igbo,0.8525179
+2823,test,Igbo,Idgo,1066,1600,False,2261,False,False,Igbo,0.9913094
+2826,test,Igbo,Idgo,1920,2560,False,2263,False,False,Igbo,1.0
+2827,test,Igbo,Idgo,1920,2560,False,2263,False,False,Igbo,0.99999976
+2841,test,Igbo,Idgo,1080,1346,False,2276,False,False,Igbo,0.999332
+2845,test,Igbo,Idgo,750,937,False,2280,False,False,Igbo,0.67047864
+2850,test,Igbo,Idgo,1080,607,False,2285,False,False,Zulu,0.68712837
+2871,test,Igbo,Idgo,600,600,False,743,False,False,Igbo,0.9999894
+2881,test,Igbo,Idgo,600,767,False,2308,False,False,Adire,0.5638515
+2893,test,Igbo,Idgo,3072,3072,False,2318,False,False,Igbo,0.98878807
+2895,test,Igbo,Idgo,1000,667,False,2319,False,False,Igbo,0.61296743
+2908,test,Igbo,Idgo,1000,1000,False,2332,False,False,Igbo,0.9999995
+2911,test,Igbo,Idgo,696,496,False,2334,False,False,Igbo,0.99634784
+2918,test,Igbo,Idgo,480,600,False,2341,False,False,Igbo,0.9926805
+2921,test,Igbo,Idgo,401,600,False,1399,False,False,Zulu,0.7458148
+2923,test,Igbo,Idgo,168,300,False,2345,False,False,Igbo,0.99989057
+2926,test,Igbo,Idgo,424,595,False,2348,False,False,Igbo,0.99757
+2931,test,Igbo,Idgo,240,300,False,2352,False,False,Igbo,0.9982494
+2946,test,Igbo,Idgo,375,500,False,2363,False,False,Igbo,0.99999857
+2948,test,Igbo,Idgo,750,1000,False,743,False,False,Igbo,0.99987006
+2954,test,Igbo,Idgo,225,225,False,2370,False,False,Igbo,0.9860072
+2957,test,Igbo,Idgo,670,549,False,2373,False,False,Igbo,0.9733969
+2961,test,Igbo,Idgo,626,417,False,2377,False,False,Igbo,0.9999883
+2979,test,Igbo,Idgo,640,640,False,2392,False,False,Igbo,0.9826522
+2982,test,Igbo,Idgo,1080,1350,False,2394,False,False,Igbo,0.9884537
+2988,test,Igbo,Idgo,723,1087,False,743,False,False,Igbo,0.9999633
+2994,test,Igbo,Idgo,478,661,False,2403,False,False,Igbo,0.8448987
+3001,test,Igbo,Idgo,413,585,False,2409,False,False,Igbo,0.9704221
+3005,test,Igbo,Idgo,479,579,False,2413,False,False,Igbo,0.9627203
+3013,test,Igbo,Idgo,236,392,False,1173,False,False,Igbo,0.6879961
+3021,test,Igbo,Idgo,640,882,False,743,False,False,Igbo,0.9999796
+3037,test,Igbo,Idgo,273,181,False,743,False,False,Igbo,0.999907
+3047,test,Igbo,Idgo,168,299,False,2448,False,False,Igbo,0.9971136
+3048,test,Igbo,Idgo,1964,3000,False,743,False,False,Igbo,0.9997346
+3058,test,Igbo,Idgo,1080,1350,False,2459,False,False,Igbo,0.99973017
+3067,test,Igbo,Idgo,239,210,False,2468,False,False,Igbo,0.9994468
+3083,test,Igbo,Idgo,236,320,False,2481,False,False,Igbo,0.9999372
+3092,test,Igbo,Idgo,736,492,False,686,False,False,Igbo,0.9744254
+3100,test,Igbo,Idgo,600,603,False,2496,False,False,Igbo,0.9991893
+3103,test,Igbo,Idgo,736,920,False,2499,False,False,Igbo,0.99608743
+3117,test,Igbo,Idgo,360,301,False,686,False,False,Igbo,0.9996499
+3120,test,Igbo,Idgo,542,735,False,743,False,False,Igbo,0.9999919
+3131,test,Igbo,Idgo,1707,2560,False,2522,False,False,Igbo,0.99286336
+3132,test,Igbo,Idgo,479,589,False,2523,False,False,Igbo,0.9589732
+3133,test,Igbo,Idgo,478,319,False,686,False,False,Igbo,0.991091
+3142,test,Igbo,Idgo,1000,1000,False,2533,False,False,Igbo,0.9999989
+3150,test,Igbo,Idgo,1000,1000,False,2541,False,False,Igbo,0.9989471
+3152,test,Igbo,Idgo,800,800,False,2543,False,False,Igbo,0.96937346
+3156,test,Igbo,Idgo,480,360,False,2547,False,False,Igbo,0.9998596
+3173,test,Igbo,Idgo,100,100,True,2556,False,False,Igbo,0.29352328
+3186,test,Igbo,Idgo,313,384,False,2563,False,False,Igbo,0.47638607
+3199,test,Igbo,Idgo,960,1280,False,2570,True,True,Igbo,0.9990957
+3214,test,Igbo,Idgo,225,225,False,2578,False,False,Igbo,0.5544931
+3215,test,Igbo,Idgo,100,100,True,2579,False,False,Xhosa-South Africa,0.74858665
+3216,test,Igbo,Idgo,264,191,False,2580,False,False,Igbo,1.0
+3243,test,Igbo,Idgo,201,250,False,2597,False,False,Igbo,0.99957556
+3246,test,Igbo,Idgo,300,168,False,2598,False,False,Igbo,0.985202
+3260,test,Igbo,Idgo,100,100,True,2609,False,False,Igbo,0.99999976
+3273,test,Igbo,Idgo,598,744,False,2620,False,False,Igbo,0.9986731
+3283,test,Igbo,Idgo,183,276,False,2627,False,False,Igbo,0.9992066
+3296,test,Igbo,Idgo,100,100,True,2637,False,False,Igbo,0.9995365
+3309,test,Igbo,Idgo,615,340,False,2645,False,False,Igbo,0.8405343
+3314,test,Igbo,Idgo,225,225,False,2649,False,False,Igbo,0.999997
+3344,test,Igbo,Idgo,225,225,False,2665,False,False,Igbo,0.99999535
+3345,test,Igbo,Idgo,225,225,False,2666,True,True,Igbo,0.9938035
+3355,test,Igbo,Idgo,276,183,False,2672,False,False,Igbo,0.5717409
+3367,test,Igbo,Idgo,201,250,False,2678,False,False,Igbo,0.9991897
+3376,test,Igbo,Idgo,224,224,False,743,False,False,Igbo,0.9999875
+3381,test,Igbo,Idgo,250,202,False,2687,False,False,Igbo,0.9991903
+3393,test,Igbo,Idgo,203,249,False,2694,False,False,Igbo,0.9864456
+3400,test,Igbo,Idgo,271,186,False,1961,False,False,Igbo,0.9740016
+3418,test,Igbo,Idgo,100,100,True,2708,False,False,Igbo,0.9875882
+3445,test,Igbo,Idgo,100,100,True,2723,False,False,Igbo,0.99680424
+3452,test,Igbo,Idgo,300,168,False,2727,False,False,Igbo,0.99729687
+3463,test,Igbo,Idgo,223,226,False,2733,False,False,Igbo,0.99150604
+3484,test,Igbo,Idgo,173,291,False,2748,False,False,Igbo,0.9999168
+3490,test,Igbo,Idgo,223,226,False,2751,False,False,Igbo,0.9972445
+3505,test,Igbo,Idgo,100,100,True,2763,False,False,Igbo,0.9999844
+3511,test,Igbo,Idgo,194,259,False,2768,False,False,Igbo,0.99709904
+3556,test,Igbo,Idgo,190,265,False,2793,False,False,Igbo,0.9051266
+3565,test,Igbo,Idgo,100,100,True,2801,False,False,Igbo,0.9994186
+3584,test,Igbo,Idgo,300,168,False,2814,False,False,Tiv,0.59837
+3587,test,Igbo,Idgo,225,225,False,2815,False,False,Igbo,0.9976895
+3603,test,Igbo,Idgo,216,233,False,2823,False,False,Igbo,0.9994149
+3609,test,Igbo,Idgo,100,100,True,2827,False,False,Igala,0.8612831
+3613,test,Igbo,Idgo,175,216,False,2523,False,False,Igbo,0.99456644
+3628,test,Igbo,Idgo,300,300,False,743,False,False,Igbo,0.99971265
+3639,test,Igbo,Idgo,100,100,True,743,False,False,Igbo,0.99998915
+3640,test,Igbo,Idgo,300,300,False,743,False,False,Igbo,0.9998493
+3658,test,Igbo,Idgo,225,225,False,2855,False,False,Igbo,0.9396123
+3664,test,Igbo,Idgo,300,300,False,743,False,False,Igbo,0.9999827
+3666,test,Igbo,Idgo,183,275,False,2861,False,False,Igbo,0.57492304
+3679,test,Igbo,Idgo,100,100,True,777,False,False,Igbo,0.9222771
+3689,test,Igbo,Idgo,600,583,False,686,True,True,Igbo,0.98442185
+3702,test,Igbo,Idgo,100,100,True,1289,False,False,Igbo,0.99996305
+3706,test,Igbo,Idgo,211,239,False,2886,False,False,Igbo,0.9974239
+3707,test,Igbo,Idgo,201,251,False,2887,False,False,Igbo,0.7349459
+3712,test,Igbo,Idgo,199,254,False,2888,False,False,Igbo,0.9958597
+3714,test,Igbo,Idgo,100,100,True,2889,False,False,Igbo,0.54229474
+3718,test,Igbo,Idgo,225,225,False,2892,False,False,Igbo,0.9507892
+3727,test,Igbo,Idgo,340,270,False,2899,False,False,Igbo,1.0
+3734,test,Igbo,Idgo,183,276,False,2902,False,False,Igbo,0.62981725
+3744,test,Igbo,Idgo,225,225,False,2908,False,False,Igbo,0.9999683
+3751,test,Igbo,Idgo,340,270,False,2914,False,False,Igbo,0.9990754
+3762,test,Igbo,Idgo,100,100,True,2921,False,False,Igbo,0.99919134
+3764,test,Igbo,Idgo,168,299,False,2923,False,False,Igbo,0.9987295
+3776,test,Igbo,Idgo,173,291,False,2931,False,False,Igbo,0.9990337
+3784,test,Igbo,Idgo,225,225,False,2936,False,False,Igbo,0.99939716
+3812,test,Igbo,Idgo,100,100,True,2953,False,False,Igbo,0.9847423
+3813,test,Igbo,Idgo,340,270,False,743,False,False,Igbo,0.9992692
+3820,test,Igbo,Idgo,201,251,False,2958,False,False,Igbo,0.98656255
+3823,test,Igbo,Idgo,201,251,False,2960,False,False,Igbo,0.99728155
+3826,test,Igbo,Idgo,210,240,False,2963,False,False,Igbo,0.99998665
+3829,test,Igbo,Idgo,224,225,False,2965,False,False,Igbo,0.99866986
+3836,test,Igbo,Idgo,100,100,True,2969,False,False,Igbo,0.83194077
+3840,test,Igbo,Idgo,181,279,False,2971,False,False,Igbo,0.9999944
+3849,test,Igbo,Idgo,340,270,False,2977,False,False,Igbo,0.80747616
+3862,test,Igbo,Idgo,225,225,False,2982,False,False,Igbo,0.9999329
+3864,test,Igbo,Idgo,310,163,False,2983,False,False,Igbo,0.81430084
+3869,test,Igbo,Idgo,340,270,False,2986,False,False,Igala,0.7808677
+3873,test,Igbo,Idgo,299,168,False,2988,False,False,Igbo,0.9955844
+3880,test,Igbo,Idgo,100,100,True,2993,False,False,Igbo,0.9998312
+3881,test,Igbo,Idgo,340,270,False,686,False,False,Igbo,0.996795
+3895,test,Igbo,Idgo,300,168,False,3003,False,False,Igbo,0.97822374
+3901,test,Igbo,Idgo,225,225,False,832,False,False,Igbo,0.9999876
+3925,test,Igbo,Idgo,205,245,False,3022,False,False,Igbo,0.997001
+3927,test,Igbo,Idgo,159,318,False,3024,False,False,Igbo,0.99969995
+3935,test,Igbo,Idgo,201,251,False,3028,False,False,Igbo,0.98611826
+3953,test,Idoma,Idoma,294,300,False,3041,False,False,Igbo,0.9505581
+3956,test,Idoma,Idoma,236,354,False,3042,False,True,Idoma,0.9897104
+3977,test,Idoma,Idoma,640,778,False,3053,False,False,Igbo,0.44655287
+3982,test,Idoma,Idoma,225,225,False,3055,False,False,Idoma,0.96747094
+3989,test,Idoma,Idoma,573,863,False,3056,False,True,Idoma,0.9999082
+3991,test,Idoma,Idoma,194,259,False,3057,False,True,Idoma,0.9892825
+4010,test,Idoma,Idoma,201,251,False,3064,False,False,Idoma,0.9063915
+4019,test,Idoma,Idoma,526,789,False,3069,False,True,Igala,0.6679003
+4055,test,Idoma,Idoma,640,640,False,3082,False,False,Zulu,0.7033229
+4067,test,Idoma,Idoma,248,300,False,3088,False,True,Tiv,0.82291347
+4068,test,Idoma,Idoma,537,497,False,3089,False,False,Idoma,0.6893525
+4091,test,Idoma,Idoma,225,225,False,3093,True,True,Idoma,0.99999046
+4098,test,Idoma,Idoma,225,225,False,3097,False,False,Idoma,0.9999838
+4124,test,Idoma,Idoma,258,195,False,3103,False,False,Idoma,0.9980432
+4152,test,Idoma,Idoma,640,841,False,3107,False,True,Igbo,0.44029382
+4171,test,Idoma,Idoma,225,225,False,3111,False,False,Idoma,0.98655474
+4239,test,Idoma,Idoma,183,275,False,3126,False,False,Idoma,0.9999639
+4240,test,Idoma,Idoma,480,480,False,3127,False,False,Idoma,0.9426883
+4277,test,Idoma,Idoma,427,640,False,3137,False,False,Idoma,0.8582726
+4290,test,Idoma,Idoma,720,1080,False,3140,False,False,Idoma,0.9980319
+4303,test,Idoma,Idoma,480,640,False,3144,False,True,Igbo,0.4579491
+4304,test,Idoma,Idoma,173,292,False,3145,False,False,Idoma,0.99999726
+4375,test,Idoma,Idoma,1060,1500,False,3154,False,False,Idoma,0.99956244
+4389,test,Idoma,Idoma,100,100,True,3157,False,False,Idoma,0.9999988
+4391,test,Idoma,Idoma,100,100,True,3158,False,False,Idoma,0.99819046
+4438,test,Idoma,Idoma,1534,1470,False,3169,False,False,Tiv,0.8842674
+4450,test,Idoma,Idoma,2000,3000,False,3171,False,False,Igbo,0.95016974
+4460,test,Idoma,Idoma,275,183,False,3172,False,False,Idoma,0.9999006
+4485,test,Idoma,Idoma,225,225,False,3175,False,False,Idoma,0.98620296
+4498,test,Idoma,Idoma,1024,597,False,3178,False,False,Tiv,0.57664967
+4522,test,Idoma,Idoma,300,282,False,3089,False,False,Idoma,0.89739627
+4525,test,Idoma,Idoma,370,250,False,3182,True,True,Idoma,0.99284726
+4542,test,Idoma,Idoma,201,251,False,3186,False,False,Idoma,1.0
+4573,test,Idoma,Idoma,900,481,False,3189,False,False,Idoma,0.8843999
+4648,test,Idoma,Idoma,183,275,False,3198,False,False,Igbo,0.8995656
+4667,test,Idoma,Idoma,260,194,False,3208,False,False,Idoma,0.9899512
+4671,test,Idoma,Idoma,201,251,False,3210,False,True,Idoma,0.9811187
+4679,test,Idoma,Idoma,260,194,False,3213,False,False,Idoma,0.8718026
+4703,test,Idoma,Idoma,201,251,False,3220,False,False,Idoma,0.94956595
+4704,test,Idoma,Idoma,202,250,False,3221,False,False,Idoma,0.98047596
+4761,test,Idoma,Idoma,194,259,False,3247,False,False,Idoma,0.93588495
+4765,test,Idoma,Idoma,275,183,False,3250,False,False,Tiv,0.989791
+4774,test,Idoma,Idoma,183,275,False,3256,False,False,Igbo,0.7109525
+4776,test,Idoma,Idoma,155,325,False,3258,False,False,Idoma,0.99994195
+4818,test,Idoma,Idoma,184,274,False,3291,False,False,Idoma,0.99821365
+4834,test,Idoma,Idoma,225,225,False,3299,False,False,Idoma,0.9740986
+4838,test,Idoma,Idoma,194,259,False,3303,False,False,Idoma,0.6280395
+4848,test,Idoma,Idoma,1280,720,False,3311,False,False,Idoma,0.9991279
+4859,test,Idoma,Idoma,670,536,False,3322,False,False,Igbo,0.5444605
+4861,test,Idoma,Idoma,640,480,False,3324,False,False,Idoma,0.9798876
+4867,test,Idoma,Idoma,600,400,False,3329,False,False,Idoma,0.8631926
+4879,test,Igala,Igala,1000,1500,False,3339,False,False,Igala,0.8086454
+4892,test,Igala,Igala,260,194,False,3348,False,False,Igala,0.98968095
+4897,test,Igala,Igala,640,640,False,3351,False,False,Igala,0.97418505
+4919,test,Igala,Igala,225,225,False,3365,False,False,Igbo,0.8919024
+4927,test,Igala,Igala,225,225,False,3369,False,False,Igala,0.96630836
+4933,test,Igala,Igala,183,275,False,3372,False,False,Igala,0.9980002
+4953,test,Igala,Igala,502,630,False,3384,False,False,Igala,0.9999329
+4955,test,Igala,Igala,502,718,False,3384,False,False,Igala,0.99992394
+4958,test,Igala,Igala,750,1500,False,3388,False,False,Igala,0.99982125
+4983,test,Igala,Igala,260,194,False,3406,True,True,Igala,0.98947036
+5008,test,Igala,Igala,267,189,False,3421,False,False,Igala,0.9843284
+5009,test,Igala,Igala,188,268,False,3422,False,False,Igala,0.862998
+5012,test,Igala,Igala,794,1148,False,3423,False,False,Igala,0.98770624
+5029,test,Igala,Igala,201,251,False,3435,False,False,Igala,0.9999094
+5030,test,Igala,Igala,260,194,False,3436,False,False,Igala,0.32222286
+5046,test,Igala,Igala,183,275,False,3448,False,False,Igala,0.9314526
+5052,test,Igala,Igala,201,250,False,3452,False,False,Igala,0.8450638
+5064,test,Igala,Igala,183,275,False,3461,False,False,Igala,0.95205736
+5071,test,Igala,Igala,601,599,False,3465,False,False,Igala,0.9950164
+5087,test,Igala,Igala,201,251,False,3472,False,False,Igala,0.9999958
+5099,test,Igala,Igala,260,194,False,3479,False,False,Igala,0.44704372
+5100,test,Igala,Igala,260,194,False,3480,False,False,Zulu,0.6768476
+5106,test,Igala,Igala,686,960,False,3485,False,False,Igala,0.99844235
+5116,test,Igala,Igala,100,100,True,3492,False,False,Igala,0.9808811
+5124,test,Igala,Igala,1122,571,False,3497,False,False,Igala,0.9973525
+5126,test,Igala,Igala,600,731,False,3498,False,False,Igala,0.9746824
+5138,test,Igala,Igala,640,800,False,3505,False,False,Igala,0.99915373
+5142,test,Igala,Igala,201,251,False,3509,False,False,Igala,0.9957157
+5159,test,Igala,Igala,600,580,False,3519,False,False,Igala,0.6735251
+5162,test,Igala,Igala,1024,768,False,3520,False,False,Tiv,0.765325
+5173,test,Igala,Igala,206,244,False,3525,False,False,Igala,0.48402667
+5204,test,Igala,Igala,720,900,False,3543,False,False,Igbo,0.9789924
+5205,test,Igala,Igala,198,254,False,3544,False,False,Igala,0.9837922
+5210,test,Igala,Igala,600,572,False,3547,False,False,Igala,0.9868217
+5216,test,Igala,Igala,570,704,False,3550,False,False,Tswana-Shweshwe,0.55084664
+5218,test,Igala,Igala,752,398,False,3552,False,False,Igala,0.9230113
+5223,test,Igala,Igala,720,900,False,3554,False,False,Tiv,0.4332392
+5251,test,Tiv,Tiv,3120,4160,False,3569,False,False,Zulu,0.8941939
+5252,test,Tiv,Tiv,1600,1148,False,3570,False,False,Tiv,0.989479
+5257,test,Tiv,Tiv,1296,968,False,3575,False,False,Adire,0.5266707
+5262,test,Tiv,Tiv,399,600,False,3578,False,False,Tiv,0.9844864
+5264,test,Tiv,Tiv,686,960,False,3580,False,False,Tiv,0.8355817
+5268,test,Tiv,Tiv,276,183,False,3584,False,False,Igbo,0.79902226
+5269,test,Tiv,Tiv,1080,1349,False,3585,False,False,Tswana-Shweshwe,0.99640477
+5273,test,Tiv,Tiv,471,599,False,3588,False,False,Tiv,0.9760501
+5299,test,Tiv,Tiv,624,255,False,3609,False,False,Tiv,0.99999475
+5302,test,Tiv,Tiv,320,309,False,3612,False,False,Tiv,0.99998474
+5303,test,Tiv,Tiv,400,404,False,3613,False,False,Tiv,0.9990245
+5312,test,Tiv,Tiv,640,426,False,3622,False,False,Igbo,0.6928526
+5317,test,Tiv,Tiv,518,436,False,3626,False,False,Tiv,0.82367826
+5324,test,Tiv,Tiv,600,320,False,3631,False,False,Tiv,0.59477836
+5348,test,Tiv,Tiv,840,889,False,3649,False,False,Tiv,0.78882843
+5352,test,Tiv,Tiv,960,640,False,3652,False,False,Tiv,0.99946135
+5361,test,Tiv,Tiv,383,231,False,3659,False,False,Tiv,0.99997973
+5366,test,Tiv,Tiv,1008,465,False,3663,False,False,Tiv,0.9531857
+5368,test,Tiv,Tiv,585,463,False,3659,False,False,Tiv,0.99998474
+5374,test,Tiv,Tiv,600,450,False,3671,False,False,Tiv,0.9442165
+5379,test,Tiv,Tiv,720,405,False,3674,True,True,Tiv,0.999874
+5386,test,Tiv,Tiv,220,124,True,3676,False,False,Adire,0.99765116
+5400,test,Tiv,Tiv,272,185,False,3682,False,False,Tiv,0.9991949
+5422,test,Tiv,Tiv,225,225,False,3691,False,False,Tiv,0.98512495
+5431,test,Tiv,Tiv,223,226,False,3695,False,False,Tiv,0.98637295
+5433,test,Tiv,Tiv,275,183,False,3697,False,False,Tiv,0.9993961
+5436,test,Tiv,Tiv,402,600,False,3700,False,False,Tiv,0.9425202
+5440,test,Tiv,Tiv,220,147,False,3702,False,False,Tiv,0.8518716
+5473,test,Tiv,Tiv,480,319,False,3723,False,False,Tiv,0.9937289
+5485,test,Tiv,Tiv,960,640,False,3733,False,False,Tiv,0.9999933
+5506,test,Tiv,Tiv,320,180,False,3749,False,False,Tiv,0.98642343
+5522,test,Tiv,Tiv,600,524,False,3762,False,False,Tiv,0.9913071
+5523,test,Tiv,Tiv,1024,698,False,3763,False,False,Tiv,0.9998116
+5541,test,Tiv,Tiv,600,585,False,3777,False,False,Tiv,0.6773187
+5550,test,Tiv,Tiv,1672,1026,False,3784,False,False,Zulu,0.9538399
+5557,test,Tiv,Tiv,600,586,False,3790,False,False,Tiv,0.9187244
+5558,test,Tiv,Tiv,600,596,False,3791,False,False,Tiv,0.9371742
+5569,test,Tiv,Tiv,2560,1509,False,3802,False,False,Tiv,0.53650963
+5575,test,Tiv,Tiv,480,671,False,3808,False,True,Zulu,0.7843273
+5578,test,Tiv,Tiv,689,445,False,3810,False,False,Tiv,0.9998462
+5579,test,Tiv,Tiv,642,564,False,3811,False,False,Tiv,0.8943956
+5580,test,Tiv,Tiv,1080,720,False,3812,False,False,Tiv,0.9994554
+5581,test,Tiv,Tiv,1000,600,False,3812,False,False,Tiv,0.9994981
+5585,test,Tiv,Tiv,843,1795,False,3816,False,False,Tiv,0.5803204
+5587,test,Tiv,Tiv,480,310,False,3818,False,False,Adire,0.5563302
+5599,test,Tiv,Tiv,640,640,False,3828,False,False,Tiv,0.97969806
+5602,test,Tiv,Tiv,678,381,False,3763,False,False,Tiv,0.9998909
+5603,test,Tiv,Tiv,600,522,False,3830,False,False,Tiv,0.9995383
+5630,test,Tiv,Tiv,674,421,False,3763,False,False,Tiv,0.9995542
+5632,test,Tiv,Tiv,1000,600,False,3851,False,False,Tiv,0.9998988
+5639,test,Tiv,Tiv,840,600,False,3578,False,False,Tiv,0.99566925
+5645,test,Tiv,Tiv,640,640,False,3860,False,False,Tiv,0.9996679
+5658,test,Tiv,Tiv,600,400,False,3871,False,False,Tiv,0.99999857
+5664,test,Tiv,Tiv,180,200,False,3877,False,False,Idoma,0.61734515
+5672,test,Tiv,Tiv,640,360,False,3851,False,False,Tiv,0.99942553
+5674,test,Tiv,Tiv,300,200,False,3851,False,True,Tiv,0.9999633
+5682,test,Tiv,Tiv,1280,720,False,3851,False,False,Tiv,0.9999237
+5686,test,Tiv,Tiv,678,452,False,3894,False,False,Tiv,0.8519372
+5696,test,Tiv,Tiv,1200,900,False,3899,False,False,Igbo,0.9444314
+5755,test,Tiv,Tiv,1007,1024,False,3945,False,False,Idoma,0.8479019
+5760,test,Tiv,Tiv,819,1024,False,3950,False,False,Tiv,0.9283073
+5767,test,Tswana-Shweshwe,Tswana-Shweshwe,450,464,False,3956,False,False,Tswana-Shweshwe,0.496845
+5773,test,Tswana-Shweshwe,Tswana-Shweshwe,702,782,False,3961,False,False,Igbo,0.84709907
+5775,test,Tswana-Shweshwe,Tswana-Shweshwe,937,937,False,3963,False,False,Tswana-Shweshwe,0.99999905
+5783,test,Tswana-Shweshwe,Tswana-Shweshwe,1440,1799,False,3969,False,False,Tswana-Shweshwe,0.9687145
+5784,test,Tswana-Shweshwe,Tswana-Shweshwe,1440,1800,False,3970,False,False,Tswana-Shweshwe,0.9888137
+5792,test,Tswana-Shweshwe,Tswana-Shweshwe,696,839,False,3978,False,False,Tswana-Shweshwe,0.99906677
+5798,test,Tswana-Shweshwe,Tswana-Shweshwe,612,612,False,3983,False,False,Tswana-Shweshwe,0.999119
+5829,test,Tswana-Shweshwe,Tswana-Shweshwe,600,582,False,4013,False,False,Tswana-Shweshwe,0.9841913
+5830,test,Tswana-Shweshwe,Tswana-Shweshwe,600,596,False,4014,False,False,Tswana-Shweshwe,0.98831314
+5833,test,Tswana-Shweshwe,Tswana-Shweshwe,600,671,False,3983,False,False,Tswana-Shweshwe,0.9988354
+5835,test,Tswana-Shweshwe,Tswana-Shweshwe,850,1067,False,4019,False,False,Tswana-Shweshwe,0.9999753
+5844,test,Tswana-Shweshwe,Tswana-Shweshwe,1440,1800,False,4027,False,False,Tswana-Shweshwe,0.97367305
+5846,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4029,False,False,Tswana-Shweshwe,0.99781466
+5850,test,Tswana-Shweshwe,Tswana-Shweshwe,960,960,False,4033,False,False,Tswana-Shweshwe,0.9978478
+5863,test,Tswana-Shweshwe,Tswana-Shweshwe,800,795,False,4045,False,False,Tswana-Shweshwe,0.8888611
+5865,test,Tswana-Shweshwe,Tswana-Shweshwe,800,1000,False,4047,False,False,Tswana-Shweshwe,0.91324437
+5867,test,Tswana-Shweshwe,Tswana-Shweshwe,800,827,False,4049,False,False,Tswana-Shweshwe,0.9999349
+5871,test,Tswana-Shweshwe,Tswana-Shweshwe,800,985,False,4052,False,False,Tswana-Shweshwe,0.99997425
+5874,test,Tswana-Shweshwe,Tswana-Shweshwe,800,996,False,4054,False,False,Tswana-Shweshwe,0.98518306
+5888,test,Tswana-Shweshwe,Tswana-Shweshwe,600,880,False,4065,False,False,Tswana-Shweshwe,0.9971418
+5893,test,Tswana-Shweshwe,Tswana-Shweshwe,1024,1024,False,4069,False,False,Tswana-Shweshwe,0.97827864
+5905,test,Tswana-Shweshwe,Tswana-Shweshwe,478,385,False,4081,False,False,Tswana-Shweshwe,0.9994166
+5914,test,Tswana-Shweshwe,Tswana-Shweshwe,830,1024,False,4090,False,False,Tswana-Shweshwe,0.656178
+5916,test,Tswana-Shweshwe,Tswana-Shweshwe,768,945,False,3978,False,False,Tswana-Shweshwe,0.9990583
+5917,test,Tswana-Shweshwe,Tswana-Shweshwe,564,846,False,4092,False,False,Tswana-Shweshwe,0.92854196
+5925,test,Tswana-Shweshwe,Tswana-Shweshwe,563,559,False,4100,False,False,Xhosa-South Africa,0.6430021
+5928,test,Tswana-Shweshwe,Tswana-Shweshwe,720,804,False,4102,False,False,Tswana-Shweshwe,0.8635047
+5931,test,Tswana-Shweshwe,Tswana-Shweshwe,564,705,False,4105,False,False,Tswana-Shweshwe,0.9772397
+5939,test,Tswana-Shweshwe,Tswana-Shweshwe,742,486,False,4112,False,False,Xhosa-South Africa,0.7163268
+5940,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4113,False,False,Tswana-Shweshwe,0.99405766
+5981,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1350,False,4152,False,False,Tswana-Shweshwe,0.9999646
+5982,test,Tswana-Shweshwe,Tswana-Shweshwe,1068,1068,False,4153,False,False,Tswana-Shweshwe,0.99954754
+5984,test,Tswana-Shweshwe,Tswana-Shweshwe,960,960,False,4155,False,False,Tswana-Shweshwe,0.9999993
+5999,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4164,False,False,Tswana-Shweshwe,0.67408437
+6003,test,Tswana-Shweshwe,Tswana-Shweshwe,452,627,False,4168,False,False,Tswana-Shweshwe,0.9986551
+6005,test,Tswana-Shweshwe,Tswana-Shweshwe,768,960,False,4170,False,False,Tswana-Shweshwe,0.9989931
+6031,test,Tswana-Shweshwe,Tswana-Shweshwe,500,500,False,4195,False,False,Tswana-Shweshwe,0.99968183
+6032,test,Tswana-Shweshwe,Tswana-Shweshwe,960,1126,False,4196,False,False,Tswana-Shweshwe,0.8579688
+6047,test,Tswana-Shweshwe,Tswana-Shweshwe,236,295,False,4209,False,False,Tswana-Shweshwe,0.99978775
+6067,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4229,True,True,Tswana-Shweshwe,0.97337735
+6072,test,Tswana-Shweshwe,Tswana-Shweshwe,600,720,False,4234,False,False,Tswana-Shweshwe,0.9956938
+6088,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1350,False,4247,False,False,Tswana-Shweshwe,0.9997342
+6094,test,Tswana-Shweshwe,Tswana-Shweshwe,1440,1777,False,4253,False,False,Tswana-Shweshwe,0.99434847
+6095,test,Tswana-Shweshwe,Tswana-Shweshwe,750,750,False,4254,False,False,Tswana-Shweshwe,0.9998642
+6097,test,Tswana-Shweshwe,Tswana-Shweshwe,1440,1800,False,4256,False,False,Tswana-Shweshwe,0.9995529
+6098,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4257,False,False,Tswana-Shweshwe,0.9239618
+6101,test,Tswana-Shweshwe,Tswana-Shweshwe,750,747,False,4260,False,False,Tswana-Shweshwe,0.99953103
+6111,test,Tswana-Shweshwe,Tswana-Shweshwe,640,799,False,4268,False,False,Tswana-Shweshwe,0.97773665
+6126,test,Tswana-Shweshwe,Tswana-Shweshwe,474,592,False,4280,False,False,Zulu,0.9269297
+6132,test,Tswana-Shweshwe,Tswana-Shweshwe,480,480,False,4284,False,False,Tswana-Shweshwe,0.9795289
+6133,test,Tswana-Shweshwe,Tswana-Shweshwe,235,286,False,4285,False,False,Tswana-Shweshwe,0.99924636
+6139,test,Tswana-Shweshwe,Tswana-Shweshwe,507,545,False,4291,False,False,Tswana-Shweshwe,0.99103117
+6142,test,Tswana-Shweshwe,Tswana-Shweshwe,570,570,False,4294,False,False,Xhosa-South Africa,0.37561354
+6151,test,Tswana-Shweshwe,Tswana-Shweshwe,1200,675,False,4301,False,False,Tswana-Shweshwe,0.9973738
+6153,test,Tswana-Shweshwe,Tswana-Shweshwe,720,736,False,4302,False,False,Tswana-Shweshwe,0.9993537
+6155,test,Tswana-Shweshwe,Tswana-Shweshwe,1200,960,False,4303,False,False,Tswana-Shweshwe,0.9998598
+6156,test,Tswana-Shweshwe,Tswana-Shweshwe,563,844,False,4304,False,False,Igbo,0.70635635
+6159,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1350,False,4307,False,False,Tswana-Shweshwe,0.8466386
+6160,test,Tswana-Shweshwe,Tswana-Shweshwe,740,866,False,4308,False,False,Zulu,0.75735724
+6167,test,Tswana-Shweshwe,Tswana-Shweshwe,592,454,False,4313,False,False,Tswana-Shweshwe,0.975194
+6168,test,Tswana-Shweshwe,Tswana-Shweshwe,236,236,False,4314,False,False,Tswana-Shweshwe,0.9959638
+6172,test,Tswana-Shweshwe,Tswana-Shweshwe,620,620,False,4318,False,False,Tswana-Shweshwe,0.9646622
+6173,test,Tswana-Shweshwe,Tswana-Shweshwe,512,640,False,4319,False,False,Igbo,0.78290284
+6183,test,Tswana-Shweshwe,Tswana-Shweshwe,480,713,False,4326,False,False,Tswana-Shweshwe,0.9945939
+6185,test,Tswana-Shweshwe,Tswana-Shweshwe,720,960,False,4328,False,False,Tswana-Shweshwe,0.9541502
+6204,test,Tswana-Shweshwe,Tswana-Shweshwe,736,857,False,4344,True,True,Tswana-Shweshwe,0.99897194
+6208,test,Tswana-Shweshwe,Tswana-Shweshwe,960,1200,False,4347,False,False,Tswana-Shweshwe,0.9908043
+6215,test,Tswana-Shweshwe,Tswana-Shweshwe,482,603,False,4153,False,False,Tswana-Shweshwe,0.9963813
+6226,test,Tswana-Shweshwe,Tswana-Shweshwe,236,329,False,4359,False,False,Tswana-Shweshwe,0.9998778
+6231,test,Tswana-Shweshwe,Tswana-Shweshwe,712,949,False,4364,False,False,Xhosa-South Africa,0.5992027
+6255,test,Tswana-Shweshwe,Tswana-Shweshwe,564,705,False,4381,False,False,Tswana-Shweshwe,0.97938573
+6264,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1349,False,4388,False,False,Tswana-Shweshwe,0.9998242
+6279,test,Tswana-Shweshwe,Tswana-Shweshwe,554,554,False,4402,False,False,Tswana-Shweshwe,0.7053812
+6283,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,4406,False,False,Tswana-Shweshwe,0.97823286
+6288,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,4411,False,False,Tswana-Shweshwe,0.9822265
+6292,test,Tswana-Shweshwe,Tswana-Shweshwe,448,448,False,4415,False,False,Tswana-Shweshwe,0.982908
+6294,test,Tswana-Shweshwe,Tswana-Shweshwe,965,1200,False,4417,False,False,Tswana-Shweshwe,0.9994307
+6295,test,Tswana-Shweshwe,Tswana-Shweshwe,900,1125,False,4033,False,False,Tswana-Shweshwe,0.99731654
+6299,test,Tswana-Shweshwe,Tswana-Shweshwe,800,794,False,4420,False,False,Tswana-Shweshwe,0.98905367
+6302,test,Tswana-Shweshwe,Tswana-Shweshwe,960,1196,False,4422,False,False,Tswana-Shweshwe,0.9999404
+6305,test,Tswana-Shweshwe,Tswana-Shweshwe,997,1200,False,4425,False,False,Tswana-Shweshwe,0.7960102
+6314,test,Tswana-Shweshwe,Tswana-Shweshwe,750,750,False,4433,False,False,Tswana-Shweshwe,0.99957687
+6329,test,Tswana-Shweshwe,Tswana-Shweshwe,750,750,False,4448,False,False,Tswana-Shweshwe,0.9832319
+6358,test,Tswana-Shweshwe,Tswana-Shweshwe,800,837,False,4473,False,False,Xhosa-South Africa,0.5112553
+6360,test,Tswana-Shweshwe,Tswana-Shweshwe,640,740,False,4475,False,False,Tswana-Shweshwe,0.99523807
+6398,test,Tswana-Shweshwe,Tswana-Shweshwe,420,420,False,4504,True,True,Tswana-Shweshwe,0.9629263
+6409,test,Tswana-Shweshwe,Tswana-Shweshwe,714,803,False,4514,False,False,Adire,0.59692544
+6413,test,Tswana-Shweshwe,Tswana-Shweshwe,1280,720,False,4518,False,False,Tswana-Shweshwe,0.9961216
+6414,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4519,False,False,Tswana-Shweshwe,0.99272317
+6424,test,Tswana-Shweshwe,Tswana-Shweshwe,1000,600,False,4528,False,False,Tswana-Shweshwe,0.9993855
+6435,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4535,False,False,Tswana-Shweshwe,0.99512476
+6455,test,Tswana-Shweshwe,Tswana-Shweshwe,480,492,False,4552,False,False,Tswana-Shweshwe,0.8280495
+6468,test,Tswana-Shweshwe,Tswana-Shweshwe,564,739,False,4563,False,False,Tswana-Shweshwe,0.99999714
+6470,test,Tswana-Shweshwe,Tswana-Shweshwe,872,1067,False,4565,False,False,Tswana-Shweshwe,0.9901466
+6479,test,Tswana-Shweshwe,Tswana-Shweshwe,440,555,False,3983,False,False,Tswana-Shweshwe,0.9987167
+6485,test,Tswana-Shweshwe,Tswana-Shweshwe,720,720,False,4302,False,False,Tswana-Shweshwe,0.999338
+6496,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1347,False,4589,False,False,Zulu,0.8384295
+6497,test,Tswana-Shweshwe,Tswana-Shweshwe,485,515,False,4590,False,False,Tswana-Shweshwe,0.98567665
+6502,test,Tswana-Shweshwe,Tswana-Shweshwe,960,1200,False,4594,False,False,Tswana-Shweshwe,0.90381336
+6516,test,Tswana-Shweshwe,Tswana-Shweshwe,342,512,False,4607,False,False,Tswana-Shweshwe,0.99990094
+6522,test,Tswana-Shweshwe,Tswana-Shweshwe,450,450,False,4611,False,False,Tswana-Shweshwe,0.9995425
+6532,test,Tswana-Shweshwe,Tswana-Shweshwe,564,693,False,4617,False,False,Tswana-Shweshwe,0.8619039
+6538,test,Tswana-Shweshwe,Tswana-Shweshwe,549,687,False,4623,False,False,Xhosa-South Africa,0.5829019
+6543,test,Tswana-Shweshwe,Tswana-Shweshwe,1051,1314,False,4627,False,False,Tswana-Shweshwe,0.64917225
+6563,test,Tswana-Shweshwe,Tswana-Shweshwe,480,360,False,4644,False,False,Tswana-Shweshwe,0.99686253
+6566,test,Tswana-Shweshwe,Tswana-Shweshwe,480,360,False,4647,False,False,Tswana-Shweshwe,0.8541411
+6582,test,Tswana-Shweshwe,Tswana-Shweshwe,570,637,False,4663,False,False,Tswana-Shweshwe,0.99290186
+6608,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,4675,False,False,Tswana-Shweshwe,0.9934956
+6618,test,Tswana-Shweshwe,Tswana-Shweshwe,967,598,False,4684,False,False,Tswana-Shweshwe,0.9994981
+6631,test,Tswana-Shweshwe,Tswana-Shweshwe,626,738,False,4694,False,False,Xhosa-South Africa,0.5125268
+6635,test,Tswana-Shweshwe,Tswana-Shweshwe,480,477,False,4698,False,False,Tswana-Shweshwe,0.9764072
+6665,test,Tswana-Shweshwe,Tswana-Shweshwe,564,752,False,4725,False,False,Tswana-Shweshwe,0.9991055
+6683,test,Tswana-Shweshwe,Tswana-Shweshwe,540,658,False,4741,False,False,Tswana-Shweshwe,0.92454374
+6686,test,Tswana-Shweshwe,Tswana-Shweshwe,480,477,False,4744,False,False,Tswana-Shweshwe,0.99666816
+6687,test,Tswana-Shweshwe,Tswana-Shweshwe,540,627,False,4745,False,False,Tswana-Shweshwe,0.76634514
+6688,test,Tswana-Shweshwe,Tswana-Shweshwe,540,664,False,4746,False,False,Tswana-Shweshwe,0.79258204
+6694,test,Tswana-Shweshwe,Tswana-Shweshwe,540,539,False,4752,False,False,Tswana-Shweshwe,0.98675483
+6701,test,Xhosa-South Africa,Xhosa-South Africa,236,295,False,4758,False,False,Xhosa-South Africa,0.99974865
+6726,test,Xhosa-South Africa,Xhosa-South Africa,937,1171,False,4771,False,False,Xhosa-South Africa,0.9997726
+6730,test,Xhosa-South Africa,Xhosa-South Africa,201,251,False,4773,False,False,Zulu,0.951111
+6743,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,4775,False,False,Xhosa-South Africa,0.9985556
+6759,test,Xhosa-South Africa,Xhosa-South Africa,735,788,False,4784,False,False,Xhosa-South Africa,0.9995658
+6831,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,4813,False,False,Xhosa-South Africa,0.77156276
+6841,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,4819,False,False,Xhosa-South Africa,0.9999765
+6843,test,Xhosa-South Africa,Xhosa-South Africa,191,264,False,4820,False,False,Xhosa-South Africa,0.98693085
+6850,test,Xhosa-South Africa,Xhosa-South Africa,204,248,False,4824,False,False,Tswana-Shweshwe,0.9787219
+6874,test,Xhosa-South Africa,Xhosa-South Africa,183,275,False,4830,False,False,Tswana-Shweshwe,0.70743376
+6899,test,Xhosa-South Africa,Xhosa-South Africa,201,251,False,4839,False,False,Xhosa-South Africa,0.9994288
+6926,test,Xhosa-South Africa,Xhosa-South Africa,552,691,False,4845,False,False,Xhosa-South Africa,0.66535044
+6933,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,4848,False,False,Xhosa-South Africa,0.96587944
+6944,test,Xhosa-South Africa,Xhosa-South Africa,194,259,False,4853,False,False,Tiv,0.5539766
+6974,test,Xhosa-South Africa,Xhosa-South Africa,190,265,False,4870,False,False,Xhosa-South Africa,0.9972229
+6995,test,Xhosa-South Africa,Xhosa-South Africa,510,730,False,4884,False,False,Xhosa-South Africa,0.9683415
+6996,test,Xhosa-South Africa,Xhosa-South Africa,540,540,False,4885,False,False,Xhosa-South Africa,0.9248796
+7003,test,Xhosa-South Africa,Xhosa-South Africa,480,524,False,4552,False,False,Tswana-Shweshwe,0.87793756
+7004,test,Xhosa-South Africa,Xhosa-South Africa,480,479,False,4892,False,False,Xhosa-South Africa,0.98707736
+7010,test,Xhosa-South Africa,Xhosa-South Africa,540,633,False,4897,False,False,Xhosa-South Africa,0.99995244
+7013,test,Xhosa-South Africa,Xhosa-South Africa,480,534,False,4899,False,False,Xhosa-South Africa,0.76019466
+7036,test,Xhosa-South Africa,Xhosa-South Africa,1280,720,False,4917,False,False,Xhosa-South Africa,0.5050413
+7038,test,Xhosa-South Africa,Xhosa-South Africa,1280,720,False,4919,False,False,Xhosa-South Africa,0.9997454
+7042,test,Xhosa-South Africa,Xhosa-South Africa,320,180,False,4923,False,False,Xhosa-South Africa,0.989019
+7051,test,Xhosa-South Africa,Xhosa-South Africa,1200,600,False,4931,False,False,Xhosa-South Africa,0.99716896
+7056,test,Xhosa-South Africa,Xhosa-South Africa,1200,600,False,4935,False,False,Xhosa-South Africa,0.99918216
+7075,test,Xhosa-South Africa,Xhosa-South Africa,600,739,False,4951,False,False,Xhosa-South Africa,0.99979275
+7079,test,Xhosa-South Africa,Xhosa-South Africa,600,595,False,4955,False,False,Xhosa-South Africa,0.9917691
+7091,test,Xhosa-South Africa,Xhosa-South Africa,600,572,False,4967,False,False,Xhosa-South Africa,0.98981816
+7099,test,Xhosa-South Africa,Xhosa-South Africa,600,696,False,4972,False,False,Xhosa-South Africa,0.9872685
+7100,test,Xhosa-South Africa,Xhosa-South Africa,600,735,False,4973,False,False,Xhosa-South Africa,0.9998455
+7104,test,Xhosa-South Africa,Xhosa-South Africa,600,631,False,4976,False,False,Xhosa-South Africa,0.9952128
+7114,test,Xhosa-South Africa,Xhosa-South Africa,564,564,False,4985,False,False,Xhosa-South Africa,0.98625433
+7116,test,Xhosa-South Africa,Xhosa-South Africa,800,882,False,4987,False,False,Xhosa-South Africa,0.60923326
+7117,test,Xhosa-South Africa,Xhosa-South Africa,800,763,False,4988,False,False,Xhosa-South Africa,0.9638196
+7120,test,Xhosa-South Africa,Xhosa-South Africa,700,672,False,4990,False,False,Xhosa-South Africa,0.9996799
+7121,test,Xhosa-South Africa,Xhosa-South Africa,640,480,False,4923,False,False,Xhosa-South Africa,0.95935196
+7133,test,Xhosa-South Africa,Xhosa-South Africa,1080,1221,False,5001,False,False,Xhosa-South Africa,0.9998987
+7135,test,Xhosa-South Africa,Xhosa-South Africa,564,705,False,5003,False,False,Tswana-Shweshwe,0.7571384
+7145,test,Xhosa-South Africa,Xhosa-South Africa,1080,1349,False,5013,False,False,Tswana-Shweshwe,0.49805188
+7156,test,Xhosa-South Africa,Xhosa-South Africa,534,716,False,4988,False,False,Xhosa-South Africa,0.9885938
+7174,test,Xhosa-South Africa,Xhosa-South Africa,1080,1080,False,5037,False,False,Xhosa-South Africa,0.99458355
+7184,test,Xhosa-South Africa,Xhosa-South Africa,236,295,False,5046,False,False,Xhosa-South Africa,0.99942386
+7185,test,Xhosa-South Africa,Xhosa-South Africa,937,1171,False,5047,False,False,Xhosa-South Africa,0.926027
+7186,test,Xhosa-South Africa,Xhosa-South Africa,640,960,False,5048,False,False,Xhosa-South Africa,0.99974746
+7196,test,Xhosa-South Africa,Xhosa-South Africa,399,646,False,5057,False,True,Xhosa-South Africa,0.9932549
+7200,test,Xhosa-South Africa,Xhosa-South Africa,540,571,False,5061,False,False,Xhosa-South Africa,0.9985007
+7209,test,Xhosa-South Africa,Xhosa-South Africa,1080,1102,False,5069,False,False,Xhosa-South Africa,0.36026722
+7220,test,Xhosa-South Africa,Xhosa-South Africa,640,800,False,5079,False,False,Xhosa-South Africa,0.9996462
+7221,test,Xhosa-South Africa,Xhosa-South Africa,640,800,False,5080,False,False,Xhosa-South Africa,0.97645366
+7230,test,Xhosa-South Africa,Xhosa-South Africa,640,800,False,5089,False,False,Xhosa-South Africa,0.99983156
+7246,test,Xhosa-South Africa,Xhosa-South Africa,1280,720,False,5103,False,False,Xhosa-South Africa,0.9941512
+7253,test,Xhosa-South Africa,Xhosa-South Africa,1280,720,False,5110,False,False,Xhosa-South Africa,0.99981624
+7254,test,Xhosa-South Africa,Xhosa-South Africa,1280,720,False,5111,False,False,Xhosa-South Africa,0.9990645
+7255,test,Xhosa-South Africa,Xhosa-South Africa,1000,600,False,5112,False,False,Xhosa-South Africa,0.9998995
+7261,test,Xhosa-South Africa,Xhosa-South Africa,1200,675,False,5118,False,False,Tswana-Shweshwe,0.7109725
+7262,test,Xhosa-South Africa,Xhosa-South Africa,660,330,False,5112,False,False,Xhosa-South Africa,0.9999857
+7264,test,Xhosa-South Africa,Xhosa-South Africa,1440,1800,False,5121,False,False,Xhosa-South Africa,0.9984676
+7269,test,Xhosa-South Africa,Xhosa-South Africa,1080,1350,False,5125,False,False,Xhosa-South Africa,0.99928844
+7270,test,Xhosa-South Africa,Xhosa-South Africa,1600,1600,False,5126,False,False,Xhosa-South Africa,0.99924445
+7278,test,Xhosa-South Africa,Xhosa-South Africa,480,480,False,5134,False,False,Xhosa-South Africa,0.999744
+7289,test,Xhosa-South Africa,Xhosa-South Africa,1600,1600,False,5143,False,False,Xhosa-South Africa,0.99988043
+7300,test,Xhosa-South Africa,Xhosa-South Africa,564,841,False,5153,False,False,Xhosa-South Africa,0.99999344
+7304,test,Xhosa-South Africa,Xhosa-South Africa,563,679,False,5156,False,False,Xhosa-South Africa,0.99851733
+7311,test,Xhosa-South Africa,Xhosa-South Africa,480,547,False,5162,False,False,Xhosa-South Africa,0.9992787
+7318,test,Xhosa-South Africa,Xhosa-South Africa,540,720,False,5167,False,False,Xhosa-South Africa,0.96514
+7323,test,Xhosa-South Africa,Xhosa-South Africa,735,900,False,5171,False,False,Xhosa-South Africa,0.99996185
+7330,test,Xhosa-South Africa,Xhosa-South Africa,736,1592,False,5175,False,False,Xhosa-South Africa,0.98853326
+7331,test,Xhosa-South Africa,Xhosa-South Africa,1200,675,False,5176,False,False,Zulu,0.9601608
+7340,test,Xhosa-South Africa,Xhosa-South Africa,842,946,False,5185,False,False,Xhosa-South Africa,0.9992094
+7346,test,Xhosa-South Africa,Xhosa-South Africa,1200,600,False,5190,True,True,Xhosa-South Africa,0.9729681
+7363,test,Xhosa-South Africa,Xhosa-South Africa,564,695,False,4985,False,False,Xhosa-South Africa,0.93247515
+7401,test,Xhosa-South Africa,Xhosa-South Africa,300,375,False,4819,False,False,Xhosa-South Africa,0.99995756
+7414,test,Xhosa-South Africa,Xhosa-South Africa,736,885,False,5241,False,False,Xhosa-South Africa,0.9172573
+7429,test,Xhosa-South Africa,Xhosa-South Africa,1080,1080,False,5253,False,False,Xhosa-South Africa,0.9998733
+7445,test,Xhosa-South Africa,Xhosa-South Africa,800,827,False,5264,False,False,Xhosa-South Africa,0.99948174
+7485,test,Xhosa-South Africa,Xhosa-South Africa,150,149,False,5283,False,False,Xhosa-South Africa,0.9017792
+7494,test,Xhosa-South Africa,Xhosa-South Africa,800,737,False,5289,False,False,Xhosa-South Africa,0.99971646
+7509,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,5293,False,False,Xhosa-South Africa,0.9671076
+7515,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,5295,False,False,Xhosa-South Africa,0.9999304
+7531,test,Xhosa-South Africa,Xhosa-South Africa,236,236,False,5303,False,False,Xhosa-South Africa,0.999703
+7542,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,5308,False,False,Xhosa-South Africa,0.9941426
+7551,test,Xhosa-South Africa,Xhosa-South Africa,233,217,False,5314,False,False,Xhosa-South Africa,0.9831887
+7564,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,5319,False,False,Xhosa-South Africa,0.9597853
+7592,test,Xhosa-South Africa,Xhosa-South Africa,300,168,False,5329,False,False,Tswana-Shweshwe,0.9267783
+7603,test,Xhosa-South Africa,Xhosa-South Africa,958,1280,False,5333,False,False,Xhosa-South Africa,0.99973375
+7612,test,Xhosa-South Africa,Xhosa-South Africa,186,270,False,5337,False,False,Xhosa-South Africa,0.68639296
+7615,test,Xhosa-South Africa,Xhosa-South Africa,958,1280,False,5339,False,False,Xhosa-South Africa,0.9994822
+7659,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,5356,False,False,Xhosa-South Africa,0.6705983
+7714,test,Xhosa-South Africa,Xhosa-South Africa,201,251,False,5374,False,False,Zulu,0.6477995
+7740,test,Xhosa-South Africa,Xhosa-South Africa,203,248,False,5381,False,False,Xhosa-South Africa,0.9993351
+7741,test,Xhosa-South Africa,Xhosa-South Africa,240,300,False,5382,False,True,Xhosa-South Africa,0.43254054
+7777,test,Xhosa-South Africa,Xhosa-South Africa,212,237,False,5400,False,False,Xhosa-South Africa,0.9949293
+7787,test,Xhosa-South Africa,Xhosa-South Africa,236,295,False,5153,False,False,Xhosa-South Africa,0.99998593
+7789,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,5407,False,False,Igbo,0.9790451
+7798,test,Xhosa-South Africa,Xhosa-South Africa,700,700,False,5409,False,False,Xhosa-South Africa,0.97984433
+7819,test,Xhosa-South Africa,Xhosa-South Africa,225,224,False,5417,False,False,Xhosa-South Africa,0.9991929
+7831,test,Xhosa-South Africa,Xhosa-South Africa,540,540,False,5421,False,False,Xhosa-South Africa,0.99961853
+7841,test,Xhosa-South Africa,Xhosa-South Africa,254,198,False,4988,False,False,Xhosa-South Africa,0.98606455
+7873,test,Zulu,Zulu,100,100,True,5435,False,False,Zulu,0.998444
+7876,test,Zulu,Zulu,736,1019,False,5438,False,False,Zulu,0.99666935
+7902,test,Zulu,Zulu,100,100,True,5452,False,False,Zulu,0.999456
+7904,test,Zulu,Zulu,736,920,False,5453,False,False,Zulu,0.9977931
+7961,test,Zulu,Zulu,201,250,False,5474,False,False,Zulu,0.9848718
+7965,test,Zulu,Zulu,267,189,False,5476,False,False,Zulu,0.9963404
+7972,test,Zulu,Zulu,205,246,False,5479,False,False,Zulu,0.9036745
+7974,test,Zulu,Zulu,169,205,False,5480,False,False,Igbo,0.41303748
+7978,test,Zulu,Zulu,269,187,False,5481,False,False,Zulu,0.8289803
+7990,test,Zulu,Zulu,201,250,False,5487,False,False,Zulu,0.9961985
+8070,test,Zulu,Zulu,269,188,False,5481,False,False,Zulu,0.83260137
+8092,test,Zulu,Zulu,201,250,False,5521,False,False,Zulu,0.8127438
+8097,test,Zulu,Zulu,207,244,False,5522,False,False,Zulu,0.99736077
+8107,test,Zulu,Zulu,186,271,False,5527,False,False,Zulu,0.5624012
+8128,test,Zulu,Zulu,275,183,False,5531,False,False,Zulu,0.99978596
+8129,test,Zulu,Zulu,183,275,False,5532,False,False,Zulu,0.9998827
+8140,test,Zulu,Zulu,187,269,False,5538,False,False,Igbo,0.9862688
+8153,test,Zulu,Zulu,225,224,False,5541,False,False,Igbo,0.9067177
+8171,test,Zulu,Zulu,214,235,False,5549,False,False,Tswana-Shweshwe,0.65332294
+8179,test,Zulu,Zulu,256,197,False,5555,False,False,Igbo,0.68655354
+8216,test,Zulu,Zulu,600,352,False,5476,False,False,Zulu,0.9963142
+8220,test,Zulu,Zulu,198,254,False,5583,False,False,Zulu,0.94791996
+8230,test,Zulu,Zulu,225,225,False,5592,False,False,Zulu,0.99457574
+8232,test,Zulu,Zulu,275,183,False,5594,False,False,Zulu,0.7456898
+8234,test,Zulu,Zulu,692,960,False,5438,False,True,Zulu,0.990706
+8250,test,Zulu,Zulu,275,183,False,5605,False,False,Zulu,0.99393094
+8258,test,Zulu,Zulu,225,224,False,5610,False,False,Zulu,0.4308322
+8290,test,Zulu,Zulu,259,194,False,5633,False,False,Zulu,0.9895465
+8303,test,Zulu,Zulu,183,275,False,5640,False,False,Zulu,0.9989089
+8312,test,Zulu,Zulu,180,279,False,5646,False,False,Zulu,0.9265873
+8313,test,Zulu,Zulu,225,224,False,5647,False,False,Zulu,0.8653143
+8315,test,Zulu,Zulu,176,280,False,5649,False,False,Zulu,0.9953512
+8324,test,Zulu,Zulu,262,193,False,5657,False,False,Zulu,0.98612845
+8326,test,Zulu,Zulu,275,183,False,5659,False,False,Zulu,0.80013573
+8354,test,Zulu,Zulu,100,100,True,5676,False,False,Igbo,0.9490166
+8361,test,Zulu,Zulu,194,259,False,5680,False,False,Igbo,0.32747552
+8369,test,Zulu,Zulu,262,192,False,5685,False,False,Zulu,0.98645556
+8382,test,Zulu,Zulu,275,183,False,5694,False,False,Zulu,0.4788731
+8386,test,Zulu,Zulu,177,285,False,5698,False,False,Zulu,0.91442025
+8408,test,Zulu,Zulu,275,183,False,5716,False,False,Zulu,0.85341686
+8411,test,Zulu,Zulu,262,192,False,5719,False,False,Zulu,0.99196666
+8427,test,Zulu,Zulu,225,225,False,5732,False,False,Xhosa-South Africa,0.9457055
+8431,test,Zulu,Zulu,236,295,False,5735,False,False,Zulu,0.99081427
+8433,test,Zulu,Zulu,183,275,False,5737,False,False,Zulu,0.91561747
+8467,test,Zulu,Zulu,236,354,False,5762,False,False,Zulu,0.9985954
+8471,test,Zulu,Zulu,225,225,False,5766,False,False,Igbo,0.8413054
+8475,test,Zulu,Zulu,100,100,True,5770,False,False,Zulu,0.92548144
+8480,test,Zulu,Zulu,273,184,False,5773,False,False,Xhosa-South Africa,0.92094684
+8486,test,Zulu,Zulu,312,162,False,5779,False,False,Zulu,0.3258335
+8513,test,Zulu,Zulu,203,248,False,5798,False,False,Zulu,0.9996282
+8518,test,Zulu,Zulu,201,251,False,5802,False,False,Zulu,0.877165
+8520,test,Zulu,Zulu,225,225,False,5803,False,False,Igbo,0.5718741
+8522,test,Zulu,Zulu,206,244,False,5804,False,False,Zulu,0.99759704
+8526,test,Zulu,Zulu,100,100,True,5807,False,False,Xhosa-South Africa,0.5157969
+8539,test,Zulu,Zulu,225,225,False,5818,False,False,Igala,0.37756836
+8547,test,Zulu,Zulu,505,640,False,5826,False,False,Zulu,0.87254304
+8549,test,Zulu,Zulu,800,533,False,5828,True,True,Zulu,0.9945023
+8553,test,Zulu,Zulu,640,427,False,5831,False,False,Zulu,0.98871195
+8566,test,Zulu,Zulu,480,480,False,5842,False,False,Zulu,0.91890675
+8582,test,Zulu,Zulu,540,673,False,5855,False,False,Zulu,0.9971071
+8584,test,Zulu,Zulu,540,591,False,5856,False,False,Tswana-Shweshwe,0.9353373
+8585,test,Zulu,Zulu,540,664,False,5857,False,False,Zulu,0.99129784
+8592,test,Zulu,Zulu,540,540,False,5864,False,False,Zulu,0.9998134
+8603,test,Zulu,Zulu,540,668,False,5873,False,False,Xhosa-South Africa,0.6666351
+8605,test,Zulu,Zulu,540,609,False,5875,False,True,Zulu,0.99836785
+8607,test,Zulu,Zulu,540,671,False,5877,False,False,Zulu,0.997696
+8613,test,Zulu,Zulu,540,540,False,5882,False,False,Xhosa-South Africa,0.7993831
+8615,test,Zulu,Zulu,540,356,False,5884,False,False,Igala,0.44821778
+8617,test,Zulu,Zulu,540,672,False,5886,False,False,Zulu,0.9995697
+8625,test,Zulu,Zulu,1200,800,False,5893,False,False,Zulu,0.99991477
+8626,test,Zulu,Zulu,1300,956,False,5894,False,False,Xhosa-South Africa,0.5328204
+8629,test,Zulu,Zulu,1065,1300,False,5897,False,False,Zulu,0.9983354
+8653,test,Zulu,Zulu,1280,720,False,5918,False,False,Zulu,0.9973907
+8657,test,Zulu,Zulu,1280,720,False,5921,False,False,Tswana-Shweshwe,0.99858934
+8681,test,Zulu,Zulu,1300,923,False,5941,False,False,Zulu,0.9886762
+8682,test,Zulu,Zulu,1440,1440,False,5942,False,False,Zulu,0.9942622
+8688,test,Zulu,Zulu,640,800,False,5946,False,False,Zulu,0.48029876
+8694,test,Zulu,Zulu,225,300,False,5951,False,False,Zulu,0.65158534
+8699,test,Zulu,Zulu,640,448,False,5955,False,False,Zulu,0.99978787
+8703,test,Zulu,Zulu,1200,600,False,5958,False,False,Xhosa-South Africa,0.51024455
+8706,test,Zulu,Zulu,866,1390,False,5961,False,False,Zulu,0.9987129
+8710,test,Zulu,Zulu,640,466,False,5965,False,False,Zulu,0.97816604
+8712,test,Zulu,Zulu,1080,1224,False,5967,False,False,Zulu,0.99928373
+8715,test,Zulu,Zulu,600,742,False,5969,False,False,Zulu,0.99980503
+8724,test,Zulu,Zulu,600,598,False,5978,False,False,Zulu,0.9903233
+8745,test,Zulu,Zulu,600,587,False,5997,False,False,Zulu,0.5570524
+8748,test,Zulu,Zulu,600,703,False,6000,False,False,Zulu,0.9999958
+8756,test,Zulu,Zulu,236,295,False,6007,False,False,Zulu,0.9983637
+8758,test,Zulu,Zulu,600,591,False,6009,False,False,Zulu,0.98720855
+8774,test,Zulu,Zulu,600,747,False,6023,False,False,Zulu,0.99929285
+8783,test,Zulu,Zulu,600,736,False,6030,False,False,Zulu,0.9983529
+8796,test,Zulu,Zulu,700,618,False,6042,False,False,Tswana-Shweshwe,0.5638333
+8814,test,Zulu,Zulu,499,502,False,6059,False,False,Igbo,0.43092436
+8824,test,Zulu,Zulu,1300,800,False,6069,False,False,Igbo,0.84644204
+8827,test,Zulu,Zulu,1300,966,False,6072,False,False,Zulu,0.9995192
+8828,test,Zulu,Zulu,750,938,False,6073,False,False,Zulu,0.97608745
+8849,test,Zulu,Zulu,1300,1387,False,6093,False,False,Zulu,0.9970186
+8853,test,Zulu,Zulu,866,1390,False,6097,False,False,Zulu,0.9775768
+8866,test,Zulu,Zulu,1300,956,False,6110,False,False,Zulu,0.93049026
+8872,test,Zulu,Zulu,1080,1350,False,6116,False,False,Zulu,0.88354766
+8877,test,Zulu,Zulu,400,600,False,6121,False,False,Zulu,0.9973679
+8883,test,Zulu,Zulu,236,330,False,6127,False,False,Zulu,0.9998802
+8884,test,Zulu,Zulu,499,495,False,6128,False,False,Zulu,0.97645426
+8907,test,Zulu,Zulu,480,540,False,6147,False,False,Zulu,0.99957794
+8918,test,Zulu,Zulu,1004,1004,False,6154,False,False,Zulu,0.97729665
+8921,test,Zulu,Zulu,736,1309,False,6156,False,False,Zulu,0.98328525
+8929,test,Zulu,Zulu,1200,1600,False,6162,False,False,Zulu,0.40260416
+8944,test,Zulu,Zulu,177,284,False,6173,False,False,Zulu,0.689556
+8966,test,Zulu,Zulu,554,557,False,6190,False,False,Zulu,0.9992699
+8972,test,Zulu,Zulu,547,684,False,6194,False,False,Zulu,0.83658445
+8977,test,Zulu,Zulu,800,450,False,6198,False,False,Zulu,0.99737895
+8998,test,Zulu,Zulu,634,1023,False,6218,False,False,Zulu,0.9999602
+9004,test,Zulu,Zulu,2048,1363,False,6221,False,False,Zulu,0.7358454
+9013,test,Zulu,Zulu,790,632,False,6229,False,False,Tswana-Shweshwe,0.874505
+9014,test,Zulu,Zulu,1080,1350,False,6230,False,False,Xhosa-South Africa,0.49522692
+9025,test,Zulu,Zulu,800,956,False,6240,False,False,Zulu,0.95121056
+9028,test,Zulu,Zulu,235,301,False,6243,False,False,Xhosa-South Africa,0.34694558
+9030,test,Zulu,Zulu,750,938,False,6245,False,False,Zulu,0.8463566
+9059,test,Zulu,Zulu,750,750,False,6268,False,False,Zulu,0.9999045
+9061,test,Zulu,Zulu,332,500,False,6269,False,False,Zulu,0.9296081
+9063,test,Zulu,Zulu,640,640,False,6270,False,False,Zulu,0.9961511
+9069,test,Zulu,Zulu,150,150,False,6275,False,False,Zulu,0.9235623
+9082,test,Zulu,Zulu,166,250,False,6284,False,False,Zulu,0.97405124
+9089,test,Zulu,Zulu,616,636,False,6290,False,False,Tswana-Shweshwe,0.9354974
+9091,test,Zulu,Zulu,676,676,False,6291,False,False,Zulu,0.99958664
+9130,test,Zulu,Zulu,236,295,False,6320,False,False,Tswana-Shweshwe,0.65511125
+9137,test,Zulu,Zulu,860,1051,False,6326,False,False,Zulu,0.46777338
+9142,test,Zulu,Zulu,373,500,False,6331,False,False,Zulu,0.9999901
+9146,test,Zulu,Zulu,720,900,False,6335,False,False,Zulu,0.49349207
+9155,test,Zulu,Zulu,340,600,False,6343,False,False,Zulu,0.99926573
+9160,test,Zulu,Zulu,640,468,False,6346,False,False,Zulu,0.7905473
+9161,test,Zulu,Zulu,1280,854,False,6347,False,False,Zulu,0.9996294
+9168,test,Zulu,Zulu,736,863,False,6354,False,False,Zulu,0.9986701
+9173,test,Zulu,Zulu,370,283,False,6347,False,False,Zulu,0.99958056
+9175,test,Zulu,Zulu,809,1501,False,6360,False,False,Zulu,0.99717665
+9178,test,Zulu,Zulu,736,920,False,6363,False,False,Zulu,0.9159149
+9183,test,Zulu,Zulu,100,100,True,6367,False,False,Zulu,0.9999813
+9185,test,Zulu,Zulu,485,598,False,6347,False,False,Zulu,0.99998105
+9197,test,Zulu,Zulu,1300,956,False,5955,False,False,Zulu,0.9992261
+9205,test,Zulu,Zulu,407,600,False,6386,False,False,Zulu,0.99754673
+9214,test,Zulu,Zulu,200,252,False,6392,False,False,Zulu,0.9997259
+9220,test,Zulu,Zulu,750,1334,False,6397,False,False,Zulu,0.9984951
+9222,test,Zulu,Zulu,1080,1350,False,6398,False,False,Tswana-Shweshwe,0.97079706
+9235,test,Zulu,Zulu,720,985,False,6408,False,False,Zulu,0.9491305
+9238,test,Zulu,Zulu,1080,1350,False,6411,False,False,Zulu,0.9967014
+9246,test,Zulu,Zulu,600,818,False,6418,False,False,Zulu,0.99997544
+9258,test,Zulu,Zulu,809,809,False,6427,False,False,Zulu,0.33457136
+9284,test,Zulu,Zulu,735,919,False,6447,False,False,Zulu,0.72958124
+9290,test,Zulu,Zulu,461,1024,False,6452,False,False,Zulu,0.99985254
+9293,test,Zulu,Zulu,593,791,False,6455,False,False,Zulu,0.9968623
+9309,test,Zulu,Zulu,2000,3000,False,6469,False,False,Zulu,0.9985738
+9316,test,Zulu,Zulu,201,251,False,6471,False,False,Zulu,0.988633
+9321,test,Zulu,Zulu,216,234,False,6472,False,False,Zulu,0.9997508
+9341,test,Zulu,Zulu,201,251,False,6484,False,False,Zulu,0.9999932
+9379,test,Zulu,Zulu,490,497,False,6495,False,False,Zulu,0.7191803
+9397,test,Zulu,Zulu,275,183,False,6504,False,False,Igbo,0.7876111
+9407,test,Zulu,Zulu,207,243,False,6000,False,False,Zulu,0.9999976
+9409,test,Zulu,Zulu,300,168,False,4647,False,False,Igbo,0.49200353
+9411,test,Zulu,Zulu,100,100,True,6516,False,False,Igbo,0.74870896
+9424,test,Zulu,Zulu,100,100,True,6520,False,False,Zulu,0.9882791
+9444,test,Zulu,Zulu,202,249,False,6532,False,False,Zulu,0.999943
+9471,test,Zulu,Zulu,232,217,False,6544,False,False,Zulu,0.99972814
+9483,test,Zulu,Zulu,260,194,False,6549,False,False,Tiv,0.8457414
+9529,test,Zulu,Zulu,281,179,False,6567,False,False,Zulu,0.6762149
+9538,test,Zulu,Zulu,194,259,False,6569,False,False,Zulu,0.99528176
+9542,test,Zulu,Zulu,221,228,False,6571,False,False,Zulu,0.995688
+9555,test,Zulu,Zulu,201,251,False,5807,False,False,Zulu,0.69205964
+9571,test,Zulu,Zulu,1000,1000,False,6392,False,False,Zulu,0.9996141
+9580,test,Zulu,Zulu,275,183,False,6593,False,False,Zulu,0.99837035
+9589,test,Zulu,Zulu,203,249,False,6598,False,False,Zulu,0.9828316
+9639,test,Zulu,Zulu,201,251,False,6614,False,False,Igbo,0.6774412
+9643,test,Zulu,Zulu,720,720,False,6616,False,False,Zulu,0.9999901
+9657,test,Zulu,Zulu,275,183,False,6624,False,False,Zulu,0.9905956
+9677,test,Zulu,Zulu,201,251,False,6162,False,False,Zulu,0.9188984
+9686,test,Zulu,Zulu,700,754,False,6392,False,False,Zulu,0.99901175
+9727,test,Zulu,Zulu,275,183,False,6648,False,False,Zulu,0.5789411
+9740,test,Zulu,Zulu,300,168,False,6652,False,False,Zulu,0.7646371
+9787,test,Adire,Adire,251,201,False,6666,False,False,Igbo,0.5621996
+9796,test,Adire,Adire,275,183,False,668,False,False,Adire,0.8060943
+9808,test,Adire,Adire,210,240,False,6681,False,False,Adire,1.0
+9811,test,Adire,Adire,225,224,False,6684,False,False,Adire,0.9998337
+9813,test,Adire,Adire,252,200,False,327,False,False,Adire,0.99994826
+9826,test,Adire,Adire,244,206,False,6696,False,False,Adire,1.0
+9866,test,Adire,Adire,275,183,False,6724,False,False,Adire,0.7160648
+9879,test,Adire,Adire,249,203,False,6733,False,False,Adire,0.9972258
+9884,test,Adire,Adire,220,229,False,6738,False,False,Adire,0.9999995
+9887,test,Adire,Adire,261,193,False,6741,False,False,Adire,0.9999633
+9916,test,Adire,Adire,181,278,False,6764,False,False,Adire,0.9898789
+9924,test,Adire,Adire,179,281,False,6770,False,False,Adire,0.99998033
+9934,test,Adire,Adire,259,194,False,6780,False,False,Adire,0.99999523
+9940,test,Adire,Adire,194,259,False,6786,False,False,Adire,0.9986395
+9949,test,Adire,Adire,194,259,False,6795,False,False,Adire,0.9994091
+9950,test,Adire,Adire,183,275,False,6764,False,False,Adire,0.9675886
+9957,test,Adire,Adire,239,210,False,6802,False,False,Adire,0.99999607
+9958,test,Adire,Adire,224,224,False,6803,False,False,Adire,0.7126643
+9963,test,Adire,Adire,194,259,False,6808,False,False,Adire,1.0
+9964,test,Adire,Adire,194,259,False,6809,False,False,Adire,0.91510254
+9968,test,Adire,Adire,194,259,False,6813,False,False,Adire,0.9999317
+9977,test,Adire,Adire,259,194,False,6820,False,False,Adire,0.9714309
+9979,test,Adire,Adire,259,194,False,6822,False,True,Adire,0.9999988
+9993,test,Adire,Adire,272,185,False,536,False,False,Adire,0.98031473
+9994,test,Adire,Adire,194,259,False,6837,False,False,Adire,0.99904877
+10002,test,Adire,Adire,299,168,False,6844,False,False,Adire,0.9994398
+10004,test,Adire,Adire,383,131,False,6846,False,False,Adire,0.99960583
+10009,test,Adire,Adire,206,206,False,6850,False,False,Adire,0.8819292
+10013,test,Adire,Adire,206,206,False,6854,False,False,Adire,0.9271563
+10016,test,Adire,Adire,206,206,False,6857,False,False,Adire,0.94826454
+10035,test,Adire,Adire,315,315,False,6876,False,False,Adire,0.89248085
+10046,test,Adire,Adire,480,360,False,6887,False,False,Igbo,0.99442875
+10048,test,Adire,Adire,480,714,False,6889,False,False,Adire,0.5618092
+10050,test,Adire,Adire,480,340,False,6891,False,False,Igala,0.7957168
+10051,test,Adire,Adire,480,640,False,6892,False,False,Tiv,0.71608454
+10079,test,Idoma,Idama,1076,902,False,6909,False,True,Idoma,0.9998598
+10083,test,Idoma,Idama,640,796,False,6910,True,True,Idoma,0.9977366
+10089,test,Idoma,Idama,719,480,False,6911,False,False,Idoma,0.99836427
+10090,test,Idoma,Idama,194,259,False,6912,False,False,Tiv,0.3402186
+10111,test,Idoma,Idama,1709,2560,False,6917,False,False,Idoma,0.9999789
+10140,test,Idoma,Idama,1000,1000,False,6923,False,False,Idoma,0.99999845
+10152,test,Idoma,Idama,154,300,False,6926,False,False,Idoma,0.99999404
+10158,test,Idoma,Idama,1000,1000,False,6928,False,False,Idoma,0.99995863
+10164,test,Idoma,Idama,720,540,False,6930,False,True,Idoma,0.99999774
+10211,test,Idoma,Idama,830,1080,False,6938,False,False,Idoma,0.9732521
+10218,test,Idoma,Idama,299,168,False,3208,False,False,Idoma,0.9718593
+10226,test,Idoma,Idama,217,233,False,6947,False,False,Idoma,0.6249035
+10238,test,Idoma,Idama,259,194,False,6952,False,True,Igbo,0.46279407
+10257,test,Idoma,Idama,540,675,False,6962,False,False,Idoma,0.9998988
+10273,test,Idoma,Idama,2000,1366,False,6968,False,True,Idoma,0.9993216
+10281,test,Igala,Igala,168,300,False,6972,False,False,Igala,0.9957004
+10318,test,Igala,Igala,217,233,False,6985,False,False,Tiv,0.68584216
+10339,test,Igala,Igala,183,275,False,6993,True,True,Idoma,0.99739265
+10353,test,Igala,Igala,100,100,True,7003,False,False,Igala,0.99534684
+10385,test,Igala,Igala,184,274,False,7022,False,False,Igala,0.9991399
+10402,test,Igala,Igala,202,249,False,7031,False,False,Igala,0.9758689
+10431,test,Igala,Igala,256,197,False,7042,False,False,Igala,0.9964669
+10436,test,Igala,Igala,209,241,False,3498,False,False,Igala,0.98581296
+10437,test,Igala,Igala,202,249,False,3525,False,False,Idoma,0.33380866
+10454,test,Igala,Igala,201,251,False,7059,False,False,Igala,0.92996913
+10459,test,Igala,Igala,201,251,False,7063,False,True,Igala,0.96320885
+10464,test,Igala,Igala,183,275,False,7065,False,False,Igala,0.9978294
+10470,test,Igala,Igala,168,300,False,7069,False,False,Igala,0.99998045
+10494,test,Igbo,Igbo,296,170,False,7084,False,False,Igbo,0.99972016
+10495,test,Igbo,Igbo,199,253,False,2413,False,False,Igbo,0.92590463
+10501,test,Igbo,Igbo,204,247,False,7089,False,False,Igbo,0.99848586
+10509,test,Igbo,Igbo,225,225,False,7092,True,True,Igbo,0.9863717
+10510,test,Igbo,Igbo,231,218,False,7093,False,False,Igbo,0.7752517
+10515,test,Igbo,Igbo,275,183,False,7097,False,False,Xhosa-South Africa,0.39495298
+10520,test,Igbo,Igbo,201,250,False,7100,False,False,Igbo,0.49794137
+10532,test,Igbo,Igbo,202,249,False,2986,False,False,Igala,0.81091666
+10534,test,Igbo,Igbo,252,200,False,7107,False,False,Igbo,0.9994808
+10536,test,Igbo,Igbo,194,259,False,7109,False,False,Igbo,0.95203555
+10559,test,Igbo,Igbo,202,249,False,7119,False,False,Igbo,0.9894037
+10569,test,Igbo,Igbo,206,244,False,2413,False,False,Igbo,0.98769915
+10577,test,Igbo,Igbo,225,225,False,7131,False,False,Igbo,0.9999379
+10583,test,Igbo,Igbo,168,299,False,839,False,False,Igbo,0.9972703
+10585,test,Igbo,Igbo,213,236,False,7136,True,True,Igbo,0.99897754
+10593,test,Igbo,Igbo,194,259,False,7141,False,False,Igbo,0.9995993
+10613,test,Igbo,Igbo,205,246,False,7153,False,False,Igbo,0.9999826
+10621,test,Igbo,Igbo,183,275,False,7160,False,False,Zulu,0.9314943
+10624,test,Igbo,Igbo,225,225,False,7162,False,False,Igbo,1.0
+10641,test,Igbo,Igbo,252,200,False,7177,False,False,Igbo,0.98631
+10662,test,Igbo,Igbo,300,168,False,7194,False,False,Igbo,0.9914596
+10676,test,Igbo,Igbo,190,265,False,7205,False,False,Igbo,0.9626976
+10686,test,Igbo,Igbo,207,243,False,7213,False,False,Igbo,0.90892863
+10692,test,Igbo,Igbo,300,168,False,1998,False,False,Igbo,0.9937298
+10709,test,Igbo,Igbo,225,225,False,7235,False,False,Igbo,0.9782827
+10732,test,Igbo,Igbo,183,275,False,7251,True,True,Igbo,0.99987686
+10751,test,Igbo,Igbo,181,278,False,7265,False,False,Igbo,0.99928516
+10759,test,Igbo,Igbo,268,188,False,7271,False,False,Igbo,0.99689746
+10789,test,Igbo,Igbo,183,275,False,7296,False,False,Igbo,0.9969867
+10797,test,Igbo,Igbo,263,192,False,1399,False,False,Igbo,0.98412067
+10800,test,Igbo,Igbo,100,100,True,7305,False,False,Igbo,0.99488884
+10801,test,Igbo,Igbo,194,259,False,7306,False,False,Igbo,0.97167957
+10817,test,Igbo,Igbo,177,285,False,7315,False,False,Igbo,0.99939215
+10820,test,Igbo,Igbo,201,251,False,7318,False,False,Igbo,0.5449642
+10821,test,Igbo,Igbo,100,100,True,743,False,False,Igbo,0.99998593
+10822,test,Igbo,Igbo,170,297,False,7320,False,False,Igbo,0.7716344
+10823,test,Igbo,Igbo,225,225,False,7321,False,False,Igbo,0.9533043
+10830,test,Igbo,Igbo,225,225,False,7327,False,False,Igbo,0.9998827
+10848,test,Igbo,Igbo,300,168,False,1998,False,False,Igbo,0.9903702
+10852,test,Igbo,Igbo,168,300,False,7343,True,True,Igbo,0.99942136
+10853,test,Igbo,Igbo,275,183,False,7344,False,False,Igbo,0.9967243
+10854,test,Igbo,Igbo,201,251,False,7345,False,False,Igbo,0.99976546
+10859,test,Igbo,Igbo,275,183,False,7350,False,False,Zulu,0.9437197
+10863,test,Igbo,Igbo,170,297,False,7354,False,False,Igbo,0.9997193
+10878,test,Igbo,Igbo,217,232,False,7367,False,False,Igbo,0.7169462
+10890,test,Igbo,Igbo,100,100,True,7377,False,False,Igbo,0.99998367
+10895,test,Igbo,Igbo,189,267,False,7380,False,False,Igbo,0.99475646
+10903,test,Igbo,Igbo,201,251,False,7387,False,False,Igbo,0.9996779
+10908,test,Igbo,Igbo,173,290,False,7391,False,False,Igbo,0.9991571
+10925,test,Igbo,Igbo,201,251,False,7407,False,False,Igbo,0.99935
+10930,test,Igbo,Igbo,231,218,False,7409,False,False,Igbo,0.96849847
+10946,test,Igbo,Igbo,211,239,False,7422,True,True,Igbo,0.982337
+10952,test,Igbo,Igbo,203,249,False,7427,False,False,Igbo,0.99989545
+10970,test,Igbo,Igbo,252,200,False,7443,False,False,Igbo,0.920415
+10981,test,Igbo,Igbo,270,180,False,2861,False,False,Zulu,0.47343558
+10987,test,Igbo,Igbo,266,190,False,7455,True,True,Igala,0.6298134
+10990,test,Igbo,Igbo,225,225,False,7458,True,True,Igbo,0.99994016
+11001,test,Igbo,Igbo,300,168,False,7468,False,False,Adire,0.79743916
+11003,test,Igbo,Igbo,229,220,False,7470,False,False,Igbo,0.997497
+11006,test,Igbo,Igbo,202,249,False,7471,False,False,Igbo,0.9814802
+11021,test,Igbo,Igbo,304,166,False,7485,False,False,Igbo,0.8275743
+11028,test,Igbo,Igbo,212,238,False,7491,False,False,Igbo,0.98320276
+11030,test,Igbo,Igbo,225,225,False,7493,False,False,Igbo,0.8496551
+11040,test,Igbo,Igbo,273,184,False,7503,False,False,Tiv,0.7989894
+11044,test,Igbo,Igbo,100,100,True,2115,False,False,Igbo,0.7406406
+11046,test,Igbo,Igbo,300,168,False,7508,False,False,Igbo,0.99979275
+11047,test,Igbo,Igbo,204,247,False,7509,False,False,Igbo,0.9973042
+11048,test,Igbo,Igbo,184,273,False,7510,False,False,Igbo,0.9992169
+11049,test,Igbo,Igbo,298,169,False,7511,False,False,Igbo,0.9998654
+11073,test,Igbo,Igbo,259,194,False,7528,False,False,Igbo,0.9986511
+11081,test,Igbo,Igbo,289,175,False,1367,False,False,Igbo,0.9276594
+11084,test,Igbo,Igbo,252,200,False,7536,False,False,Igbo,0.9923809
+11085,test,Igbo,Igbo,195,258,False,7537,False,False,Igbo,0.64507824
+11088,test,Igbo,Igbo,184,274,False,7539,False,False,Igbo,0.81683046
+11098,test,Igbo,Igbo,207,243,False,7548,False,False,Igbo,0.89919335
+11101,test,Igbo,Igbo,178,283,False,7551,False,False,Igbo,0.9480099
+11112,test,Igbo,Igbo,252,200,False,7561,True,True,Igbo,0.9991394
+11121,test,Igbo,Igbo,173,292,False,7569,False,False,Igbo,0.9968352
+11137,test,Igbo,Igbo,251,201,False,2580,False,False,Igbo,1.0
+11161,test,Igbo,Igbo,342,147,False,7598,False,False,Igbo,0.9993001
+11174,test,Tiv,Tiv,960,640,False,7610,False,False,Tiv,0.98414457
+11184,test,Tiv,Tiv,714,892,False,7620,False,False,Idoma,0.43360862
+11185,test,Tiv,Tiv,399,599,False,3588,False,False,Tiv,0.9762999
+11187,test,Tiv,Tiv,960,686,False,7623,False,False,Tiv,0.9999927
+11193,test,Tiv,Tiv,1029,1200,False,7629,False,False,Tiv,0.86761004
+11194,test,Tiv,Tiv,720,900,False,7630,False,False,Tiv,0.9002049
+11198,test,Tiv,Tiv,960,720,False,7634,False,False,Tiv,0.94602937
+11253,test,Tiv,Tiv,274,184,False,7659,False,False,Zulu,0.6588713
+11258,test,Tiv,Tiv,259,194,False,7663,False,False,Tiv,0.9663752
+11286,test,Tiv,Tiv,225,225,False,7677,False,False,Tiv,0.999954
+11306,test,Tiv,Tiv,223,226,False,7686,False,False,Tiv,0.48464802
+11310,test,Tiv,Tiv,170,254,False,7689,False,False,Adire,0.9096402
+11325,test,Tiv,Tiv,318,159,False,7699,False,False,Igbo,0.6255303
+11327,test,Tiv,Tiv,194,259,False,7701,False,False,Tiv,0.6465551
+11345,test,Tiv,Tiv,201,251,False,7620,False,False,Idoma,0.28873524
+11360,test,Tiv,Tiv,100,100,True,7721,False,False,Tiv,0.7519475
+11361,test,Tiv,Tiv,225,225,False,7722,False,False,Tiv,0.93074715
+11376,test,Tswana-Shweshwe,Tswana-Shweshwe,720,900,False,7731,False,False,Tswana-Shweshwe,0.9294741
+11382,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,7737,False,False,Tswana-Shweshwe,0.9980951
+11388,test,Tswana-Shweshwe,Tswana-Shweshwe,300,300,False,7742,False,False,Tswana-Shweshwe,0.9792398
+11391,test,Tswana-Shweshwe,Tswana-Shweshwe,461,620,False,7745,False,False,Tswana-Shweshwe,0.85908574
+11396,test,Tswana-Shweshwe,Tswana-Shweshwe,236,465,False,7750,False,False,Tswana-Shweshwe,0.9516016
+11399,test,Tswana-Shweshwe,Tswana-Shweshwe,736,1296,False,7752,False,False,Tswana-Shweshwe,0.96618
+11415,test,Tswana-Shweshwe,Tswana-Shweshwe,473,469,False,7762,False,False,Tswana-Shweshwe,0.9519014
+11419,test,Tswana-Shweshwe,Tswana-Shweshwe,473,592,False,7765,False,False,Tswana-Shweshwe,0.99910504
+11427,test,Tswana-Shweshwe,Tswana-Shweshwe,480,551,False,7770,False,False,Tswana-Shweshwe,0.9966275
+11428,test,Tswana-Shweshwe,Tswana-Shweshwe,522,571,False,4291,False,False,Tswana-Shweshwe,0.99483126
+11432,test,Tswana-Shweshwe,Tswana-Shweshwe,564,564,False,7774,False,False,Tswana-Shweshwe,0.96275485
+11435,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,7776,False,False,Tswana-Shweshwe,0.9942123
+11436,test,Tswana-Shweshwe,Tswana-Shweshwe,866,1390,False,7777,False,False,Adire,0.60124856
+11448,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,7787,False,False,Tswana-Shweshwe,0.9999943
+11450,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1350,False,7789,False,False,Tswana-Shweshwe,0.95716923
+11475,test,Tswana-Shweshwe,Tswana-Shweshwe,419,554,False,7806,False,False,Tswana-Shweshwe,0.9992255
+11490,test,Tswana-Shweshwe,Tswana-Shweshwe,720,884,False,7818,False,False,Igbo,0.6051274
+11493,test,Tswana-Shweshwe,Tswana-Shweshwe,736,919,False,3983,False,False,Tswana-Shweshwe,0.9958825
+11500,test,Tswana-Shweshwe,Tswana-Shweshwe,564,564,False,7827,False,False,Tswana-Shweshwe,0.9993338
+11505,test,Tswana-Shweshwe,Tswana-Shweshwe,480,360,False,7832,False,False,Tswana-Shweshwe,0.97676426
+11513,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,7839,False,False,Tswana-Shweshwe,0.9978802
+11532,test,Tswana-Shweshwe,Tswana-Shweshwe,1365,1593,False,7855,False,False,Tswana-Shweshwe,0.96324337
+11547,test,Tswana-Shweshwe,Tswana-Shweshwe,236,335,False,7866,False,False,Tswana-Shweshwe,0.99993026
+11548,test,Tswana-Shweshwe,Tswana-Shweshwe,640,960,False,7867,False,False,Tswana-Shweshwe,0.9980088
+11556,test,Tswana-Shweshwe,Tswana-Shweshwe,235,301,False,7875,False,False,Tswana-Shweshwe,0.9999187
+11560,test,Tswana-Shweshwe,Tswana-Shweshwe,600,900,False,7879,False,False,Tswana-Shweshwe,0.98959535
+11581,test,Tswana-Shweshwe,Tswana-Shweshwe,563,673,False,7895,False,False,Tswana-Shweshwe,0.99987495
+11584,test,Tswana-Shweshwe,Tswana-Shweshwe,720,844,False,4049,False,False,Tswana-Shweshwe,0.9996892
+11596,test,Tswana-Shweshwe,Tswana-Shweshwe,540,540,False,7906,False,False,Tswana-Shweshwe,0.9997497
+11608,test,Tswana-Shweshwe,Tswana-Shweshwe,740,846,False,7918,False,False,Tswana-Shweshwe,0.8854068
+11620,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,7927,False,False,Tswana-Shweshwe,0.9387684
+11622,test,Tswana-Shweshwe,Tswana-Shweshwe,720,720,False,7929,False,False,Zulu,0.70263135
+11623,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1350,False,7930,False,False,Tswana-Shweshwe,0.9810144
+11628,test,Tswana-Shweshwe,Tswana-Shweshwe,563,684,False,7935,False,False,Tswana-Shweshwe,0.9999831
+11639,test,Tswana-Shweshwe,Tswana-Shweshwe,720,900,False,7944,False,False,Tswana-Shweshwe,0.9541121
+11642,test,Tswana-Shweshwe,Tswana-Shweshwe,719,899,False,7946,False,False,Tswana-Shweshwe,0.99347913
+11648,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1300,False,7951,False,False,Tswana-Shweshwe,0.7704436
+11654,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1350,False,7957,False,False,Tswana-Shweshwe,0.99999547
+11661,test,Tswana-Shweshwe,Tswana-Shweshwe,800,800,False,7964,False,False,Tswana-Shweshwe,0.38941994
+11663,test,Tswana-Shweshwe,Tswana-Shweshwe,641,960,False,7966,False,False,Zulu,0.6469948
+11668,test,Tswana-Shweshwe,Tswana-Shweshwe,640,640,False,7970,False,False,Tswana-Shweshwe,0.90846455
+11674,test,Tswana-Shweshwe,Tswana-Shweshwe,961,1200,False,4519,False,False,Tswana-Shweshwe,0.9999151
+11682,test,Tswana-Shweshwe,Tswana-Shweshwe,750,750,False,7980,False,False,Tswana-Shweshwe,0.9971733
+11705,test,Tswana-Shweshwe,Tswana-Shweshwe,720,720,False,7998,False,False,Tswana-Shweshwe,0.96725714
+11721,test,Tswana-Shweshwe,Tswana-Shweshwe,540,540,False,8012,False,False,Tswana-Shweshwe,0.99999404
+11742,test,Tswana-Shweshwe,Tswana-Shweshwe,1080,1080,False,8031,False,False,Tswana-Shweshwe,0.9566925
+11752,test,Tswana-Shweshwe,Tswana-Shweshwe,564,564,False,8039,False,False,Zulu,0.4951107
+11797,test,Xhosa-South Africa,Xhosa-South Africa,1080,1341,False,8077,False,False,Xhosa-South Africa,0.99928635
+11850,test,Xhosa-South Africa,Xhosa-South Africa,1200,936,False,8118,False,False,Xhosa-South Africa,0.99956757
+11858,test,Xhosa-South Africa,Xhosa-South Africa,1280,720,False,8126,False,False,Xhosa-South Africa,0.9996517
+11859,test,Xhosa-South Africa,Xhosa-South Africa,999,999,False,8127,False,False,Xhosa-South Africa,0.999954
+11863,test,Xhosa-South Africa,Xhosa-South Africa,480,360,False,8131,False,False,Xhosa-South Africa,0.7757227
+11883,test,Xhosa-South Africa,Xhosa-South Africa,188,269,False,8136,False,False,Xhosa-South Africa,0.47528088
+11885,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,8137,False,False,Xhosa-South Africa,0.9998534
+11894,test,Xhosa-South Africa,Xhosa-South Africa,275,183,False,8144,False,False,Xhosa-South Africa,0.99562585
+11895,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,8145,False,False,Xhosa-South Africa,0.9949044
+11913,test,Xhosa-South Africa,Xhosa-South Africa,228,221,False,8148,False,False,Xhosa-South Africa,0.9977704
+11928,test,Xhosa-South Africa,Xhosa-South Africa,204,248,False,5381,False,False,Xhosa-South Africa,0.99955887
+11941,test,Xhosa-South Africa,Xhosa-South Africa,202,250,False,8159,False,False,Xhosa-South Africa,0.8176373
+11951,test,Xhosa-South Africa,Xhosa-South Africa,201,251,False,8166,False,False,Xhosa-South Africa,0.9999695
+11972,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,8173,False,False,Xhosa-South Africa,0.9998783
+12016,test,Xhosa-South Africa,Xhosa-South Africa,299,168,False,8185,False,False,Zulu,0.7059989
+12040,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,8192,False,False,Xhosa-South Africa,0.95317215
+12061,test,Xhosa-South Africa,Xhosa-South Africa,225,225,False,8196,False,False,Xhosa-South Africa,0.9989478
+12062,test,Xhosa-South Africa,Xhosa-South Africa,201,251,False,8197,False,False,Xhosa-South Africa,0.97017336
+12068,test,Xhosa-South Africa,Xhosa-South Africa,213,237,False,8199,False,False,Xhosa-South Africa,0.9765098
+12077,test,Xhosa-South Africa,Xhosa-South Africa,100,100,True,8205,False,False,Xhosa-South Africa,0.9569386
+12078,test,Xhosa-South Africa,Xhosa-South Africa,197,255,False,5289,False,False,Xhosa-South Africa,0.9988288
+12092,test,Xhosa-South Africa,Xhosa-South Africa,194,260,False,8214,False,False,Tswana-Shweshwe,0.79758817
+12098,test,Zulu,Zulu,201,250,False,8216,False,False,Igbo,0.65488094
+12105,test,Zulu,Zulu,336,150,False,8219,False,False,Zulu,0.99977857
+12148,test,Zulu,Zulu,168,300,False,8229,False,False,Zulu,0.9695273
+12169,test,Zulu,Zulu,207,244,False,8232,False,False,Zulu,0.9489268
+12174,test,Zulu,Zulu,194,260,False,8233,False,False,Igbo,0.9479775
+12176,test,Zulu,Zulu,200,252,False,6455,False,False,Zulu,0.99004304
+12210,test,Zulu,Zulu,100,100,True,8241,False,False,Zulu,0.9999447
+12242,test,Zulu,Zulu,200,253,False,8249,False,False,Zulu,0.9989303
+12243,test,Zulu,Zulu,187,269,False,8250,False,False,Zulu,0.9740199
+12277,test,Zulu,Zulu,100,100,True,8259,False,False,Zulu,0.63576996
+12287,test,Zulu,Zulu,218,231,False,8262,False,False,Igbo,0.89354295
+12338,test,Zulu,Zulu,100,100,True,8278,False,False,Zulu,0.43075907

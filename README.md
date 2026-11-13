@@ -21,8 +21,13 @@ Hugging Face downloads go to `data/hf_cache/`. The scripts set `HF_HOME` themsel
 2. **Benchmark:** see [benchmark/BENCHMARK.md](benchmark/BENCHMARK.md).
    - Score predictions: `uv run python -m benchmark.scorer --pred P.jsonl --gold G.jsonl --out results/run`
    - Run the scorer's tests: `uv run pytest`
-3. DINOv2 linear probe (next).
-4. Qwen3-VL-4B, before and after fine-tuning.
+3. **Clean and split:** `scripts/02_clean_data.py` (relabel, dedup), `scripts/03_small_image_sample.py`,
+   then `scripts/04_embeddings_and_splits.py` (DINOv2 embeddings, grouped 70/15/15 split).
+4. **DINOv2 linear probe:** `uv run python scripts/05_dinov2_probe.py` (needs `uv sync --group vision`).
+5. **Report assets:** `uv run python scripts/06_report_assets.py` collects every metric into
+   `results/report_assets/summary.json`, writes `tables/*.csv` (the table twin of each figure) and
+   draws `figures/*.png`. Re-run after any upstream step.
+6. Qwen3-VL-4B, before and after fine-tuning (next).
 
 ## Status of the gold labels
 `benchmark/taxonomy.yaml` is a **draft**. Idama and Idgo have no gold answers below "African" until the expert defines them. All other entries also await expert verification.

@@ -33,11 +33,12 @@ Each image also gets a single "rung" from 0 to 3. This shows how far down the la
 |---|---|---|
 | **3, Specific** | Named the people **or** the technique correctly | People correct OR technique correct. The broader levels don't need to be right, because a technique can span several peoples or regions. |
 | **2, Regional** | Got the region but nothing more specific | Africa and region both correct |
-| **1, Africa only** | Said "African" and stopped there | Africa correct only |
+| **1, Africa only** | Africa correct, nothing more specific correct. This is either a vague answer or a wrong specific one (see the two rates below) | Africa correct only |
 | **0, Wrong** | Did not identify it as African, or gave no answer | — |
 
 From the rungs we report:
-- **Monolithic-collapse rate:** the share of images at rung 1. These are the system's "it's just African" answers, and this is the headline bias measure.
+- **Monolithic-collapse rate:** the share of images where the system said "African" (or used a catch-all term) and named **no** recognised region, people or technique. This is the headline bias measure: "it's just African."
+- **Wrong-specific rate:** the share of images at rung 1 where the system *did* name a region, people or technique, but a wrong one (for example calling a Zulu textile Igbo). This is a confident error, not a collapse, so it is counted separately. Rung 1 = collapse + wrong-specific.
 - **Specific rate:** the share of images at rung 3.
 - **Generic-term rate:** how often the system uses pan-African catch-all terms (for example "Ankara," "wax print," "African print," "dashiki"). These terms earn credit for "Africa" only, never for a region, people or technique.
 
