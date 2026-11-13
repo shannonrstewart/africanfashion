@@ -12,3 +12,4 @@ results/embedding_dup_calibration/
 results/**/*.jsonl
 results/**/review/images/
 results/qwen3vl_4b_smoke/
+!results/**/*_raw.jsonl
