@@ -1,0 +1,11 @@
+Look at the textile or clothing in this image and identify its cultural origin as specifically as you can.
+
+Respond with only a JSON object with these keys:
+- "continent": the continent where this textile or style originates
+- "region": the region within that continent (for example "Northern Europe" or "East Asia")
+- "country": the country of origin
+- "people": the people, ethnic group or community the textile or style is associated with
+- "technique": the name of the textile, cloth type or making technique
+- "confidence": a number from 0 to 1
+
+Use null for any key you cannot determine. Do not include any text outside the JSON object.

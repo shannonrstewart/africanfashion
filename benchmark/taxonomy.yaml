@@ -1,0 +1,188 @@
+# Granularity-ladder taxonomy for the African textile provenance benchmark.
+#
+# status: draft. Every entry still needs expert verification. Fields marked
+# TODO(expert) are open questions; empty lists mean "not scoreable at this
+# level until the expert supplies a value".
+#
+# Matching: aliases are matched case-insensitively with accents removed
+# ("Yorùbá" == "yoruba"). In structured answer fields the canonical name also
+# matches and apostrophes are ignored ("A'nger" == "Anger"); in free text only
+# the listed aliases match, with apostrophes kept.
+
+version: "0.1-draft"
+status: draft
+
+# Ladder L2: regions. Keys are canonical region names.
+regions:
+  West: [west africa, west african, western africa, west african region]
+  South: [southern africa, southern african, south african region]
+  East: [east africa, east african, eastern africa, horn of africa]
+  North: [north africa, north african, northern africa, maghreb]
+  Central: [central africa, central african]
+
+# Countries map onto a region so a stated country credits the region
+# (e.g. "Nigerian" -> West). Countries are not a scored rung.
+countries:
+  Nigeria: {region: West, aliases: [nigeria, nigerian]}
+  Ghana: {region: West, aliases: [ghana, ghanaian]}
+  Mali: {region: West, aliases: [mali, malian]}
+  Senegal: {region: West, aliases: [senegal, senegalese]}
+  Cote d'Ivoire: {region: West, aliases: [cote d'ivoire, ivory coast, ivorian]}
+  Benin: {region: West, aliases: [benin republic, beninese, republic of benin]}
+  Togo: {region: West, aliases: [togo, togolese]}
+  Burkina Faso: {region: West, aliases: [burkina faso, burkinabe]}
+  Sierra Leone: {region: West, aliases: [sierra leone, sierra leonean]}
+  Liberia: {region: West, aliases: [liberia, liberian]}
+  Guinea: {region: West, aliases: [guinea, guinean]}
+  Gambia: {region: West, aliases: [gambia, gambian]}
+  Niger: {region: West, aliases: [niger republic, nigerien]}
+  South Africa: {region: South, aliases: [south africa, south african]}
+  Lesotho: {region: South, aliases: [lesotho, basotho nation]}
+  Botswana: {region: South, aliases: [botswana]}
+  Eswatini: {region: South, aliases: [eswatini, swaziland]}
+  Namibia: {region: South, aliases: [namibia, namibian]}
+  Zimbabwe: {region: South, aliases: [zimbabwe, zimbabwean]}
+  Mozambique: {region: South, aliases: [mozambique, mozambican]}
+  Zambia: {region: South, aliases: [zambia, zambian]}
+  Kenya: {region: East, aliases: [kenya, kenyan]}
+  Tanzania: {region: East, aliases: [tanzania, tanzanian]}
+  Uganda: {region: East, aliases: [uganda, ugandan]}
+  Ethiopia: {region: East, aliases: [ethiopia, ethiopian]}
+  Rwanda: {region: East, aliases: [rwanda, rwandan]}
+  Somalia: {region: East, aliases: [somalia, somali]}
+  Cameroon: {region: Central, aliases: [cameroon, cameroonian]}
+  DR Congo: {region: Central, aliases: [congo, congolese, drc]}
+  Gabon: {region: Central, aliases: [gabon, gabonese]}
+  Morocco: {region: North, aliases: [morocco, moroccan]}
+  Egypt: {region: North, aliases: [egypt, egyptian]}
+  Algeria: {region: North, aliases: [algeria, algerian]}
+  Tunisia: {region: North, aliases: [tunisia, tunisian]}
+
+# Ladder L3: peoples. Includes the dataset's peoples plus peoples that
+# models commonly default to (so wrong-but-specific answers are recognised).
+peoples:
+  Yoruba: {region: West, aliases: [yoruba]}
+  Igbo: {region: West, aliases: [igbo, ibo]}
+  Idoma: {region: West, aliases: [idoma]}
+  Igala: {region: West, aliases: [igala]}
+  Tiv: {region: West, aliases: [tiv]}
+  Hausa: {region: West, aliases: [hausa]}
+  Fulani: {region: West, aliases: [fulani, fula, fulbe, peul]}
+  Edo: {region: West, aliases: [edo, bini, benin kingdom]}
+  Efik: {region: West, aliases: [efik]}
+  Ijaw: {region: West, aliases: [ijaw, izon, ijo]}
+  Ejagham: {region: West, aliases: [ejagham, ekoi]}
+  Akan: {region: West, aliases: [akan, asante, ashanti]}
+  Ewe: {region: West, aliases: [ewe]}
+  Bamana: {region: West, aliases: [bamana, bambara]}
+  Zulu: {region: South, aliases: [zulu, amazulu]}
+  Xhosa: {region: South, aliases: [xhosa, amaxhosa]}
+  Sotho: {region: South, aliases: [sotho, basotho, sesotho]}
+  Tswana: {region: South, aliases: [tswana, batswana, setswana]}
+  Ndebele: {region: South, aliases: [ndebele, amandebele]}
+  Swazi: {region: South, aliases: [swazi, emaswati]}
+  Pedi: {region: South, aliases: [pedi, bapedi]}
+  Venda: {region: South, aliases: [venda, vhavenda]}
+  Herero: {region: South, aliases: [herero, ovaherero]}
+  Maasai: {region: East, aliases: [maasai, masai]}
+  Kuba: {region: Central, aliases: [kuba, bakuba]}
+
+# Ladder L4: named textiles / techniques. `peoples` lists who it is
+# associated with (a technique may span several peoples).
+techniques:
+  Adire: {peoples: [Yoruba], region: West, aliases: [adire, adire eleko, adire oniko, adire alabere, adire eleso]}
+  Aso Oke: {peoples: [Yoruba], region: West, aliases: [aso oke, aso-oke, asooke]}
+  # Textiles named by the expert (2026-11-13), spelled as she wrote them:
+  Apa: {peoples: [Idoma], region: West, aliases: [apa, apa cloth]}
+  Edema: {peoples: [Idoma], region: West, aliases: [edema, edema cloth]}
+  Achi: {peoples: [Igala], region: West, aliases: [achi, achi cloth]}
+  Ebulejonu: {peoples: [Igala], region: West, aliases: [ebulejonu, ebule jonu]}
+  Isi agu: {peoples: [Igbo], region: West, aliases: [isiagu, isi agu]}
+  # In free text only "a'nger" (with apostrophe) or "anger cloth" match, so the
+  # English word "anger" is not mistaken for the Tiv cloth.
+  A'nger: {peoples: [Tiv], region: West, aliases: [a'nger, anger cloth]}
+  Kente: {peoples: [Akan, Ewe], region: West, aliases: [kente]}
+  Bogolan: {peoples: [Bamana], region: West, aliases: [bogolan, bogolanfini, mudcloth, mud cloth]}
+  Adinkra: {peoples: [Akan], region: West, aliases: [adinkra]}
+  Shweshwe: {peoples: [Sotho, Tswana, Xhosa], region: South, aliases: [shweshwe, isishweshwe, seshoeshoe, sishweshwe, german print, blaudruck]}
+  Umbhaco: {peoples: [Xhosa], region: South, aliases: [umbhaco]}
+  Isicholo: {peoples: [Zulu], region: South, aliases: [isicholo]}
+  Zulu Beadwork: {peoples: [Zulu], region: South, aliases: [zulu beadwork, ubuhlalu, love letter beadwork]}
+  Ndebele Beadwork: {peoples: [Ndebele], region: South, aliases: [ndebele beadwork, ndebele beading]}
+  Basotho Blanket: {peoples: [Sotho], region: South, aliases: [basotho blanket, seanamarena]}
+  Shuka: {peoples: [Maasai], region: East, aliases: [shuka]}
+  Kuba Cloth: {peoples: [Kuba], region: Central, aliases: [kuba cloth, raffia cloth]}
+
+# Pan-African / generic terms. They credit "African" (L1) only: no region,
+# people or technique. Their frequency is tracked as a symptom of the
+# "monolithic Africa" collapse.
+generic_terms: [african print, african wax print, wax print, dutch wax, ankara, kitenge, chitenge, kanga, dashiki, tribal print, african pattern, african fabric, african textile, ethnic print]
+
+# Source dataset labels that are misspellings, as confirmed by the expert
+# (2026-11-13). Applied before anything else: source label -> canonical class.
+source_label_map:
+  Idgo: Igbo
+  Idama: Idoma
+
+# One entry per canonical class: the gold answer at each rung.
+# Everything outside Adire/Idoma/Igala/Igbo/Tiv is still an unverified draft.
+classes:
+  Adire:
+    label_kind: technique
+    region: West
+    countries: [Nigeria]
+    peoples: [Yoruba]
+    techniques: [Adire]       # expert-verified
+    notes: "Expert: Adire is a textile; the people to credit is Yoruba."
+  # Textile lists below (L4) come from the expert and are CLASS-LEVEL: she
+  # described them as "commonly used" by each people, so naming any one of them
+  # is credited, but they are not verified image by image.
+  Idoma:                      # includes the source label "Idama" (expert-confirmed)
+    label_kind: people
+    region: West
+    countries: [Nigeria]
+    peoples: [Idoma]
+    techniques: [Apa, Edema]
+    notes: "Expert: Apa and Edema are commonly used in Idoma fashion. Source labels Idoma + Idama merged."
+  Igala:
+    label_kind: people
+    region: West
+    countries: [Nigeria]
+    peoples: [Igala]
+    techniques: [Achi, Ebulejonu]
+    notes: "Expert: Achi and Ebulejonu are commonly used in Igala fashion."
+  Igbo:                       # includes the source label "Idgo" (expert-confirmed)
+    label_kind: people
+    region: West
+    countries: [Nigeria]
+    peoples: [Igbo]
+    techniques: [Isi agu]
+    notes: "Expert: Isi agu. Source labels Igbo + Idgo merged."
+  Tiv:
+    label_kind: people
+    region: West
+    countries: [Nigeria]
+    peoples: [Tiv]
+    techniques: [A'nger]
+    notes: Expert-supplied technique. Contains some non-textile images (e.g. landscapes).
+  Tswana-Shweshwe:
+    label_kind: technique
+    region: South
+    countries: [South Africa, Lesotho, Botswana]
+    peoples: [Tswana, Sotho, Xhosa]  # TODO(expert): Shweshwe is worn across several peoples
+    techniques: [Shweshwe]
+    notes: Indigo/brown/red discharge-printed cotton; history linked to European blaudruck.
+  Xhosa-South Africa:
+    label_kind: people
+    region: South
+    countries: [South Africa]
+    peoples: [Xhosa]
+    techniques: [Umbhaco]
+    notes: Umbhaco with black braid bands; many contemporary designer pieces.
+  Zulu:
+    label_kind: people
+    region: South
+    countries: [South Africa]
+    peoples: [Zulu]
+    techniques: [Zulu Beadwork, Isicholo]  # TODO(expert)
+    notes: Beadwork and isicholo hats; some Shweshwe garments; stock-photo watermarks present.

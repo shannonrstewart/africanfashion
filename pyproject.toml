@@ -1,0 +1,41 @@
+[project]
+name = "africanfashion"
+version = "0.1.0"
+description = "Granularity-ladder benchmark and provenance models for African textiles"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "datasets>=3.0",
+    "pillow>=10.0",
+    "pandas>=2.2",
+    "openpyxl>=3.1",
+    "pyyaml>=6.0",
+    "numpy>=1.26",
+    "tqdm>=4.66",
+    "imagehash>=4.3",
+    "matplotlib>=3.9",
+]
+
+[dependency-groups]
+dev = ["pytest>=8.0"]
+# Step 3: DINOv2 classifier. Install with: uv sync --group vision
+vision = [
+    "torch>=2.5",
+    "torchvision>=0.20",
+    "transformers>=4.50",
+    "scikit-learn>=1.5",
+]
+# Step 4: VLM fine-tuning. Install with: uv sync --group vision --group vlm
+vlm = [
+    "accelerate>=1.0",
+    "peft>=0.13",
+    "trl>=0.12",
+    "bitsandbytes>=0.44",
+]
+
+[tool.uv]
+default-groups = ["dev"]
+package = false
+
+[tool.pytest.ini_options]
+testpaths = ["benchmark/tests"]
+pythonpath = ["."]
