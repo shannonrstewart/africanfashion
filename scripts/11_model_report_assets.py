@@ -44,22 +44,23 @@ RES, OUT, TAB = ra.RES, ra.OUT, ra.TAB
 PX, SURF, INK, INK2, MUTED, GRID, BASE, GRAY, BLUE = ra.PX, ra.SURF, ra.INK, ra.INK2, ra.MUTED, ra.GRID, ra.BASE, ra.GRAY, ra.BLUE
 SEED = 42
 
-# Categorical slots 1-3 of the reference palette, in fixed order (validated: all checks pass; aqua is below 3:1
-# contrast on the surface, so every bar carries a direct value label and a table twin exists).
+# Colour = model (palette slots 1-3: blue Qwen, orange Gemma, aqua DINOv2); shade = condition (light tint = zero-shot,
+# full colour = fine-tuned). Tints are chosen to clear a 2:1 contrast floor on the surface (blue step 250; the orange
+# tint is the slot colour mixed 35% toward the surface). Every bar carries a direct value label and a table twin exists.
 MODELS = {
-    "zs": {"label": "Qwen zero-shot", "long": "Qwen3-VL-4B, zero-shot", "color": "#2a78d6",
+    "zs": {"label": "Qwen zero-shot", "long": "Qwen3-VL-4B, zero-shot", "color": "#86b6ef",
            "dir": RES / "qwen3vl_4b_zeroshot" / "structured", "raw": RES / "qwen3vl_4b_zeroshot" / "structured_raw.jsonl"},
-    "ft": {"label": "Qwen fine-tuned (LoRA)", "long": "Qwen3-VL-4B, LoRA fine-tuned", "color": "#eb6834",
+    "ft": {"label": "Qwen fine-tuned (LoRA)", "long": "Qwen3-VL-4B, LoRA fine-tuned", "color": "#2a78d6",
            "dir": RES / "qwen3vl_4b_lora_eval" / "structured", "raw": RES / "qwen3vl_4b_lora_eval" / "structured_raw.jsonl"},
     "dino": {"label": "DINOv2 linear probe", "long": "DINOv2 linear probe", "color": "#1baf7a",
              "dir": RES / "dinov2_probe" / "ladder", "raw": None},
 }
-MODELS["gzs"] = {"label": "Gemma zero-shot", "long": "Gemma 4 E4B, zero-shot", "color": "#eda100",
+MODELS["gzs"] = {"label": "Gemma zero-shot", "long": "Gemma 4 E4B, zero-shot", "color": "#f19c7a",
                  "dir": RES / "gemma4_e4b_zeroshot" / "structured", "raw": RES / "gemma4_e4b_zeroshot" / "structured_raw.jsonl"}
-MODELS["gft"] = {"label": "Gemma fine-tuned (LoRA)", "long": "Gemma 4 E4B, LoRA fine-tuned", "color": "#e87ba4",
+MODELS["gft"] = {"label": "Gemma fine-tuned (LoRA)", "long": "Gemma 4 E4B, LoRA fine-tuned", "color": "#eb6834",
                  "dir": RES / "gemma4_e4b_lora_eval" / "structured", "raw": RES / "gemma4_e4b_lora_eval" / "structured_raw.jsonl"}
 # models whose results exist; display order groups zero-shot / fine-tuned / classifier
-MODELS = {k: MODELS[k] for k in ("zs", "gzs", "ft", "gft", "dino") if (MODELS[k]["dir"] / "metrics.json").exists()}
+MODELS = {k: MODELS[k] for k in ("zs", "ft", "gzs", "gft", "dino") if (MODELS[k]["dir"] / "metrics.json").exists()}
 KEYS = ["acc_l1_africa", "acc_l2_region", "acc_l3_people", "acc_l4_technique"]
 LEVELS = ["L1 Africa", "L2 Region", "L3 People", "L4 Textile"]
 RUNG_TXT = {3: "specific", 2: "region only", 1: "Africa only", 0: "no credit"}
@@ -201,8 +202,8 @@ def fig_compare_ladder(S):
     fig, ax = ra.new_fig(800, 150 + 4 * pitch, left=100, right=60, top=104, bottom=40)
     ra.heading(fig, title_people(),
                f"Accuracy at each ladder level on {S['n_test']:,} held-out test images; same images, same scorer for all {len(MODELS)} systems",
-               "Sources: results/qwen3vl_4b_*, gemma4_e4b_*, dinov2_probe. "
-               "DINOv2 picks from a fixed class list, so Africa is 100% by design.")
+               "Light shade = zero-shot, full shade = fine-tuned (LoRA). Sources: results/qwen3vl_4b_*, gemma4_e4b_*, dinov2_probe. "
+               "DINOv2 uses a fixed class list.")
     ra.legend_row(fig, [(m["color"], m["label"]) for _, m in ms], 64)
     grouped_hbars(fig, ax, rows, [(m["color"], m["label"]) for _, m in ms])
     ra.save(fig, "fig7_model_ladder_comparison")
@@ -214,8 +215,12 @@ def fig_compare_rungs(S):
     z0, zr3 = MODELS["zs"]["overall"]["rung_dist"], MODELS["zs"]["overall"]["specific_rate"]
     f = MODELS["ft"]["overall"]
     fig, ax = ra.new_fig(800, 180 + len(order) * 44, left=172, right=30, top=104, bottom=40)
+    g = MODELS.get("gzs"), MODELS.get("gft")
     ra.heading(fig, "Share of images reaching each rung, by system" if "ft" not in MODELS else
-               f"Specific answers: {100 * zr3:.0f}% Qwen zero-shot, {100 * f['specific_rate']:.0f}% after fine-tuning",
+               (f"Specific answers: {100 * zr3:.0f}% / {100 * g[0]['overall']['specific_rate']:.0f}% zero-shot, "
+                f"{100 * f['specific_rate']:.0f}% / {100 * g[1]['overall']['specific_rate']:.0f}% tuned (Qwen / Gemma)"
+                if g[0] and g[1] else
+                f"Specific answers: {100 * zr3:.0f}% Qwen zero-shot, {100 * f['specific_rate']:.0f}% after fine-tuning"),
                "Deepest correct rung per test image. Rung 3 = people or textile named correctly.",
                "Rung 1 (Africa only) includes wrong-specific answers such as the wrong people; "
                "rung 0 = not credited as African or no answer.")
@@ -234,17 +239,24 @@ def fig_compare_by_class(S):
     rows = [(c, [100 * m["per_class"][c]["specific_rate"] for m in ms]) for c in classes]
     ftv = {c: 100 * MODELS["ft"]["per_class"][c]["specific_rate"] for c in classes}
     zsv = {c: 100 * MODELS["zs"]["per_class"][c]["specific_rate"] for c in classes}
-    worst = min(ftv, key=ftv.get)
+    pairs = [(ftv, zsv)]
+    if "gft" in MODELS and "gzs" in MODELS:
+        pairs.append(({c: 100 * MODELS["gft"]["per_class"][c]["specific_rate"] for c in classes},
+                      {c: 100 * MODELS["gzs"]["per_class"][c]["specific_rate"] for c in classes}))
+    improved = all(a[c] > b[c] for a, b in pairs for c in classes)
+    low = {c: min(a[c] for a, _ in pairs) for c in classes}
+    worst = min(low, key=low.get)
+    hi = max(a[worst] for a, _ in pairs)
     best_zs = max(zsv, key=zsv.get)
-    improved = all(ftv[c] > zsv[c] for c in classes)
-    title = (f"Fine-tuning improves every class; the lowest is {worst} at {ftv[worst]:.0f}%" if improved else
-             f"Fine-tuning helps most classes; the lowest is {worst} at {ftv[worst]:.0f}%")
+    who = "both models" if len(pairs) > 1 else "Qwen"
+    title = (f"Tuning improves every class for {who}; weakest: {worst} ({low[worst]:.0f}-{hi:.0f}%)" if improved else
+             f"Tuning helps most classes for {who}; weakest: {worst} ({low[worst]:.0f}-{hi:.0f}%)")
     pitch = len(ms) * 12 + 14
     fig, ax = ra.new_fig(800, 150 + 8 * pitch, left=150, right=60, top=104, bottom=40)
     ra.heading(fig, title,
                f"Share of test images where the people or textile is named correctly (rung 3), per class. "
                f"Zero-shot best: {best_zs} ({zsv[best_zs]:.0f}%).",
-               "Source: per-class metrics of each run. Gold for Tswana-Shweshwe, Xhosa and Zulu is still a draft.")
+               "Light shade = zero-shot, full = fine-tuned. Gold for Tswana-Shweshwe, Xhosa and Zulu is a draft.")
     ra.legend_row(fig, [(m["color"], m["label"]) for m in ms], 64)
     grouped_hbars(fig, ax, rows, [(m["color"], m["label"]) for m in ms], thick=10 if len(ms) < 5 else 8)
     ra.save(fig, "fig9_specific_rate_by_class")
