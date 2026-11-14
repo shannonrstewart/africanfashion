@@ -63,6 +63,7 @@ def main() -> None:
     ap.add_argument("--out", default=str(ROOT / "results" / "qwen3vl_4b_zeroshot"))
     ap.add_argument("--batch", type=int, default=8)
     ap.add_argument("--prompt-file", default=None, help="override prompt for a diagnostic run (protocol name 'custom')")
+    ap.add_argument("--adapter", default=None, help="LoRA adapter dir to merge in (fine-tuned evaluation)")
     ap.add_argument("--ids-file", default=None, help="text file of dataset idx values to restrict to")
     args = ap.parse_args()
     out = Path(args.out)
@@ -85,12 +86,17 @@ def main() -> None:
     proc = AutoProcessor.from_pretrained(MODEL_ID)
     proc.tokenizer.padding_side = "left"
     model = AutoModelForImageTextToText.from_pretrained(MODEL_ID, dtype=torch.bfloat16, device_map="cuda")
+    if args.adapter:
+        from peft import PeftModel
+        model = PeftModel.from_pretrained(model, args.adapter)
+        model = model.merge_and_unload()
     model.eval()
     write_run_meta(out, kind="zeroshot_vlm", model=MODEL_ID,
                    prompts={p: PROMPTS[p] for p in args.protocols},
                    decoding={"do_sample": False, "max_new_tokens": {p: MAX_NEW[p] for p in args.protocols},
                              "dtype": "bfloat16", "max_image_side": MAX_SIDE, "batch": args.batch},
-                   params={"n_items": len(te), "ids_file": args.ids_file, "limit": args.limit})
+                   params={"n_items": len(te), "ids_file": args.ids_file, "limit": args.limit,
+                           "adapter": args.adapter})
     tax = Taxonomy.load()
     gold = [{"id": str(r.idx), "class": r.clean_label} for r in te.itertuples()]
 

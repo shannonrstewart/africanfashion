@@ -1,0 +1,1261 @@
+id,gold_class,pred_african,pred_region,pred_people,pred_technique,generic,africa_only,l1_africa,l2_region,l3_people,l4_technique,abstain_l1_africa,abstain_l2_region,abstain_l3_people,abstain_l4_technique,rung,control
+17,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+20,Adire,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+22,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+28,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+34,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+39,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+51,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+59,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+72,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+73,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+80,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+91,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+94,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+98,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+99,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+122,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+134,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+156,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+157,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+161,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+165,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+178,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+180,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+181,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+197,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+233,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+238,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+244,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+249,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+251,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+256,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+262,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+273,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+275,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+284,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+285,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+291,Adire,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+294,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+311,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+313,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+326,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+337,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+345,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+348,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+355,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+366,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+367,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+375,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+380,Adire,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+391,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+392,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+394,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+397,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+399,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+422,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+429,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+441,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+457,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+469,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+470,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+479,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+482,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+489,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+500,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+507,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+514,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+516,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+521,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+525,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+537,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+544,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+555,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+559,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+561,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+581,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+582,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+583,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+599,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+611,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+619,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+622,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+627,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+633,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+638,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+647,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+656,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+660,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+667,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+670,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+681,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+684,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+685,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+708,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+720,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+726,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+740,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+742,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+743,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+745,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+754,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+763,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+769,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+781,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+806,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+815,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+839,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+848,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+850,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+860,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+870,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+876,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+886,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+887,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+894,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+898,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+900,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+909,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+912,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+936,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+938,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+941,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+947,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+958,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+968,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+979,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+981,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+986,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+994,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+997,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1000,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1020,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1038,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1051,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1058,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1069,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1075,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1077,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1083,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1086,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1088,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1096,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1097,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1100,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1103,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1109,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1115,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1122,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1140,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1151,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1153,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1154,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1157,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1161,Igbo,True,West,Tiv,A'nger,False,False,True,True,False,False,False,False,False,False,2,False
+1184,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1212,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1218,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1224,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1227,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1241,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1243,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1245,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1252,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1264,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1275,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1292,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1299,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1303,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1310,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1317,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1319,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1320,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1329,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1335,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1338,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1345,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1350,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1364,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1366,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1381,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1389,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1393,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1424,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1431,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1454,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1455,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1457,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1459,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1469,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1472,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1487,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1522,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1537,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1546,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1550,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1553,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1554,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1571,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1573,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1583,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1584,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+1589,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1591,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+1595,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1613,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1618,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1619,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1623,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1630,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1633,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1635,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1645,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1653,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1664,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1677,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1682,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1688,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1693,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1697,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1716,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1717,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1718,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1720,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1723,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+1733,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1742,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+1743,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1752,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1759,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1765,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1766,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1781,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1786,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1793,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1801,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1808,Igbo,True,South,Tswana,Shweshwe,False,False,True,False,False,False,False,False,False,False,1,False
+1822,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1834,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1841,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1844,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1852,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1854,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1870,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1889,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1908,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1913,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1914,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1931,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1933,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1936,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1937,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1938,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1944,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1950,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1967,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1969,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+1976,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2014,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2029,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2040,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2044,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2058,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2063,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2078,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2096,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2098,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2109,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2116,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2135,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2144,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2146,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2152,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2157,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2166,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2173,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2180,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2191,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2219,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2224,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+2226,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2231,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2232,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2238,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2253,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2262,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2265,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2281,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2283,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2296,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2305,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2311,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2322,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2327,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2332,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2334,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2340,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2341,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2347,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2351,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2365,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2368,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2384,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2392,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2394,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2399,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2402,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2417,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2429,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2465,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2469,Igbo,True,South,Tswana,Shweshwe,False,False,True,False,False,False,False,False,False,False,1,False
+2480,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2485,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2490,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2492,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2503,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2505,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2510,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2517,Igbo,True,West,Tiv,A'nger,False,False,True,True,False,False,False,False,False,False,2,False
+2518,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2528,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2533,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2539,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2547,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2567,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2582,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2635,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2637,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2645,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2650,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2664,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2668,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2674,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2690,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2695,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2698,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2700,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2704,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2715,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2722,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2725,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2740,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2753,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2760,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2767,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2772,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2790,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2793,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2795,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2805,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2815,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2816,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2823,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2826,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2827,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2841,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2845,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2850,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2871,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2881,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2893,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2895,Igbo,True,South,Xhosa,Umbhaco,False,False,True,False,False,False,False,False,False,False,1,False
+2908,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2911,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2918,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2921,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2923,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2926,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2931,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2946,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2948,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2954,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2957,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2961,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2979,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2982,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2988,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+2994,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3001,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3005,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3013,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3021,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3037,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3047,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3048,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3058,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3067,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3083,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3092,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3100,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+3103,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3117,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3120,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3131,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3132,Igbo,True,South,Tswana,Shweshwe,False,False,True,False,False,False,False,False,False,False,1,False
+3133,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3142,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3150,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3152,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3156,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3173,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3186,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3199,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3214,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3215,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3216,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3243,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3246,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3260,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3273,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3283,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3296,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3309,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3314,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3344,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3345,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3355,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3367,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3376,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3381,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3393,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3400,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3418,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3445,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3452,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3463,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3484,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3490,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3505,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3511,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3556,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3565,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3584,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3587,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3603,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3609,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3613,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3628,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3639,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3640,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3658,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3664,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3666,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3679,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3689,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3702,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3706,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3707,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3712,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3714,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3718,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3727,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3734,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3744,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3751,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3762,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3764,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3776,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3784,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3812,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3813,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3820,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3823,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3826,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3829,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3836,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3840,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3849,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3862,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3864,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3869,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3873,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3880,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3881,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3895,Igbo,True,West,Idoma,Apa,False,False,True,True,False,False,False,False,False,False,2,False
+3901,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3925,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3927,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3935,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+3953,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+3956,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+3977,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+3982,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+3989,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+3991,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4010,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4019,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4055,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4067,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4068,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4091,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4098,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4124,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4152,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4171,Idoma,True,West,Tiv,A'nger,False,False,True,True,False,False,False,False,False,False,2,False
+4239,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4240,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4277,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4290,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4303,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4304,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4375,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4389,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4391,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4438,Idoma,True,West,Igala,Achi,False,False,True,True,False,False,False,False,False,False,2,False
+4450,Idoma,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+4460,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4485,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4498,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4522,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4525,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4542,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4573,Idoma,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+4648,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4667,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4671,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4679,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4703,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4704,Idoma,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+4761,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4765,Idoma,True,West,Tiv,A'nger,False,False,True,True,False,False,False,False,False,False,2,False
+4774,Idoma,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+4776,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4818,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4834,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4838,Idoma,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+4848,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4859,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4861,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4867,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+4879,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4892,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4897,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4919,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4927,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4933,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4953,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4955,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4958,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+4983,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5008,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5009,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5012,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5029,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5030,Igala,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+5046,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5052,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5064,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5071,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5087,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5099,Igala,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5100,Igala,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+5106,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5116,Igala,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5124,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5126,Igala,True,South,Xhosa,Umbhaco,False,False,True,False,False,False,False,False,False,False,1,False
+5138,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5142,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5159,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5162,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5173,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5204,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5205,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5210,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5216,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5218,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5223,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+5251,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5252,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5257,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5262,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5264,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5268,Tiv,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5269,Tiv,True,South,Tswana,Shweshwe,False,False,True,False,False,False,False,False,False,False,1,False
+5273,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5299,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5302,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5303,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5312,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5317,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5324,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5348,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5352,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5361,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5366,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5368,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5374,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5379,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5386,Tiv,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+5400,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5422,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5431,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5433,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5436,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5440,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5473,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5485,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5506,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5522,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5523,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5541,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5550,Tiv,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5557,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5558,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5569,Tiv,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5575,Tiv,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5578,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5579,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5580,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5581,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5585,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5587,Tiv,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+5599,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5602,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5603,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5630,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5632,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5639,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5645,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5658,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5664,Tiv,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+5672,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5674,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5682,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5686,Tiv,True,West,Yoruba,Adire,False,False,True,True,False,False,False,False,False,False,2,False
+5696,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5755,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5760,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+5767,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5773,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+5775,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5783,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5784,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5792,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5798,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5829,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+5830,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5833,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5835,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5844,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5846,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5850,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5863,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5865,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5867,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5871,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5874,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5888,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5893,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5905,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5914,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5916,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5917,Tswana-Shweshwe,True,South,Xhosa,Umbhaco,False,False,True,True,True,False,False,False,False,False,3,False
+5925,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5928,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5931,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5939,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5940,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5981,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5982,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5984,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+5999,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6003,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6005,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6031,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6032,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6047,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6067,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6072,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6088,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6094,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6095,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6097,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6098,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6101,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6111,Tswana-Shweshwe,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+6126,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6132,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6133,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6139,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6142,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6151,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6153,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6155,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6156,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+6159,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6160,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6167,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6168,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6172,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6173,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6183,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6185,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6204,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6208,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6215,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6226,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6231,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6255,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6264,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6279,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+6283,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6288,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6292,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6294,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6295,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6299,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6302,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6305,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6314,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6329,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6358,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6360,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6398,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6409,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6413,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6414,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6424,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6435,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6455,Tswana-Shweshwe,True,South,Xhosa,Umbhaco,False,False,True,True,True,False,False,False,False,False,3,False
+6468,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6470,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6479,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6485,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6496,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+6497,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6502,Tswana-Shweshwe,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+6516,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6522,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6532,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6538,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6543,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6563,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6566,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6582,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6608,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6618,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6631,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6635,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6665,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6683,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6686,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6687,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6688,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6694,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+6701,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6726,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6730,Xhosa-South Africa,True,West,Igala,Achi,False,False,True,False,False,False,False,False,False,False,1,False
+6743,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6759,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6831,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6841,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6843,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6850,Xhosa-South Africa,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+6874,Xhosa-South Africa,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+6899,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6926,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6933,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6944,Xhosa-South Africa,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+6974,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6995,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+6996,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7003,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7004,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7010,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7013,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7036,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7038,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7042,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7051,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7056,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7075,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7079,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7091,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7099,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7100,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7104,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7114,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7116,Xhosa-South Africa,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+7117,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7120,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7121,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7133,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7135,Xhosa-South Africa,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+7145,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7156,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7174,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7184,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7185,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7186,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7196,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7200,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7209,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7220,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7221,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7230,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7246,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7253,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7254,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7255,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7261,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7262,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7264,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7269,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7270,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7278,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7289,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7300,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7304,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7311,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7318,Xhosa-South Africa,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+7323,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7330,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7331,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7340,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7346,Xhosa-South Africa,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+7363,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7401,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7414,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7429,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7445,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7485,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7494,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7509,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7515,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7531,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7542,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7551,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7564,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7592,Xhosa-South Africa,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+7603,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7612,Xhosa-South Africa,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+7615,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7659,Xhosa-South Africa,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+7714,Xhosa-South Africa,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+7740,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7741,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7777,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7787,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7789,Xhosa-South Africa,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+7798,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7819,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7831,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7841,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+7873,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+7876,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+7902,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+7904,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+7961,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+7965,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+7972,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+7974,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+7978,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+7990,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8070,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8092,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8097,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8107,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8128,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8129,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8140,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8153,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8171,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8179,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8216,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8220,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8230,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8232,Zulu,True,South,Xhosa,Umbhaco,False,False,True,True,False,False,False,False,False,False,2,False
+8234,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8250,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8258,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8290,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8303,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8312,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8313,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8315,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8324,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8326,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8354,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8361,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8369,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8382,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8386,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8408,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8411,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8427,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8431,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8433,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8467,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8471,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8475,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8480,Zulu,True,South,Xhosa,Umbhaco,False,False,True,True,False,False,False,False,False,False,2,False
+8486,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8513,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8518,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8520,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8522,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8526,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8539,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+8547,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8549,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8553,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8566,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8582,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8584,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8585,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8592,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8603,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8605,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8607,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8613,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8615,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8617,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8625,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8626,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8629,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8653,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8657,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+8681,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8682,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8688,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8694,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8699,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8703,Zulu,True,South,Xhosa,Umbhaco,False,False,True,True,False,False,False,False,False,False,2,False
+8706,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8710,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8712,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8715,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8724,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8745,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8748,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8756,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8758,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8774,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8783,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8796,Zulu,True,South,Xhosa,Umbhaco,False,False,True,True,False,False,False,False,False,False,2,False
+8814,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8824,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8827,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8828,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8849,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8853,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8866,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8872,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+8877,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8883,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8884,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8907,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8918,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8921,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8929,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8944,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8966,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8972,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8977,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+8998,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9004,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9013,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9014,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+9025,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9028,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9030,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9059,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9061,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9063,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9069,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9082,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9089,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+9091,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9130,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+9137,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+9142,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9146,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+9155,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9160,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9161,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9168,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9173,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9175,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9178,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9183,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9185,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9197,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9205,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9214,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9220,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9222,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9235,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9238,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9246,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9258,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9284,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9290,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9293,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9309,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9316,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9321,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9341,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9379,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9397,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+9407,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9409,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+9411,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+9424,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9444,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9471,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9483,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9529,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9538,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9542,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9555,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9571,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9580,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9589,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9639,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+9643,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9657,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9677,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9686,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9727,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+9740,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+9787,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9796,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9808,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9811,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9813,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9826,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9866,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9879,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9884,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9887,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9916,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9924,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9934,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9940,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9949,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9950,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9957,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9958,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9963,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9964,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9968,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9977,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9979,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9993,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+9994,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10002,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10004,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10009,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10013,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10016,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10035,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10046,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10048,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10050,Adire,True,West,Tiv,A'nger,False,False,True,True,False,False,False,False,False,False,2,False
+10051,Adire,True,West,Yoruba,Adire,False,False,True,True,True,True,False,False,False,False,3,False
+10079,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10083,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10089,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10090,Idoma,True,West,Igala,Achi,False,False,True,True,False,False,False,False,False,False,2,False
+10111,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10140,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10152,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10158,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10164,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10211,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10218,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10226,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10238,Idoma,True,West,Yoruba,Adire,False,False,True,True,False,False,False,False,False,False,2,False
+10257,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10273,Idoma,True,West,Idoma,Apa,False,False,True,True,True,True,False,False,False,False,3,False
+10281,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10318,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10339,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10353,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10385,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10402,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10431,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10436,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10437,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10454,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10459,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10464,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10470,Igala,True,West,Igala,Achi,False,False,True,True,True,True,False,False,False,False,3,False
+10494,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10495,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10501,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10509,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10510,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10515,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10520,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+10532,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10534,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10536,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10559,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10569,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10577,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10583,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10585,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10593,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10613,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10621,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10624,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10641,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10662,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10676,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10686,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10692,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10709,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10732,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10751,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10759,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10789,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10797,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10800,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10801,Igbo,True,West,Yoruba,Adire,False,False,True,True,False,False,False,False,False,False,2,False
+10817,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10820,Igbo,True,South,Tswana,Shweshwe,False,False,True,False,False,False,False,False,False,False,1,False
+10821,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10822,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10823,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10830,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10848,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10852,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10853,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10854,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10859,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10863,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10878,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10890,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10895,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10903,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10908,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10925,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10930,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10946,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10952,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10970,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10981,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+10987,Igbo,True,West,Yoruba,Adire,False,False,True,True,False,False,False,False,False,False,2,False
+10990,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11001,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+11003,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11006,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11021,Igbo,True,South,Zulu,Zulu Beadwork,False,False,True,False,False,False,False,False,False,False,1,False
+11028,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11030,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11040,Igbo,True,West,Tiv,A'nger,False,False,True,True,False,False,False,False,False,False,2,False
+11044,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11046,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11047,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11048,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11049,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11073,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11081,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11084,Igbo,True,West,Idoma,Apa,False,False,True,True,False,False,False,False,False,False,2,False
+11085,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11088,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11098,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11101,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11112,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11121,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11137,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11161,Igbo,True,West,Igbo,Isi agu,False,False,True,True,True,True,False,False,False,False,3,False
+11174,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11184,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11185,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11187,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11193,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11194,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11198,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11253,Tiv,True,West,Igbo,Isi agu,False,False,True,True,False,False,False,False,False,False,2,False
+11258,Tiv,True,South,Xhosa,Umbhaco,False,False,True,False,False,False,False,False,False,False,1,False
+11286,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11306,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11310,Tiv,True,West,Yoruba,Adire,False,False,True,True,False,False,False,False,False,False,2,False
+11325,Tiv,True,South,Xhosa,Umbhaco,False,False,True,False,False,False,False,False,False,False,1,False
+11327,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11345,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11360,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11361,Tiv,True,West,Tiv,A'nger,False,False,True,True,True,True,False,False,False,False,3,False
+11376,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11382,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11388,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11391,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11396,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11399,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+11415,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11419,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11427,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11428,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11432,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11435,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11436,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+11448,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11450,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11475,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11490,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11493,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11500,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11505,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11513,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11532,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11547,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11548,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11556,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11560,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11581,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11584,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11596,Tswana-Shweshwe,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+11608,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11620,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11622,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11623,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11628,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11639,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11642,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11648,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11654,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11661,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11663,Tswana-Shweshwe,True,South,Zulu,Zulu Beadwork,False,False,True,True,False,False,False,False,False,False,2,False
+11668,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11674,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11682,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11705,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11721,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11742,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11752,Tswana-Shweshwe,True,South,Tswana,Shweshwe,False,False,True,True,True,True,False,False,False,False,3,False
+11797,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11850,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11858,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11859,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11863,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11883,Xhosa-South Africa,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+11885,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11894,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11895,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11913,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11928,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11941,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11951,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+11972,Xhosa-South Africa,True,West,Tiv,A'nger,False,False,True,False,False,False,False,False,False,False,1,False
+12016,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12040,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12061,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12062,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12068,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12077,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12078,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12092,Xhosa-South Africa,True,South,Xhosa,Umbhaco,False,False,True,True,True,True,False,False,False,False,3,False
+12098,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12105,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12148,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12169,Zulu,True,South,Tswana,Shweshwe,False,False,True,True,False,False,False,False,False,False,2,False
+12174,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+12176,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12210,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+12242,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12243,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12277,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
+12287,Zulu,True,West,Igbo,Isi agu,False,False,True,False,False,False,False,False,False,False,1,False
+12338,Zulu,True,South,Zulu,Zulu Beadwork,False,False,True,True,True,True,False,False,False,False,3,False
