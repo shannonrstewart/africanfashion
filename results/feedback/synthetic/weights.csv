@@ -1,0 +1,15 @@
+submission_id,submitter,n_checked,n_contradictions,consistency_factor,quiz_factor,weight,reason
+SYNA01,sub-05c91b0b,0,0,1.0,1.0,1.0,
+SYNA02,sub-3c787a12,0,0,1.0,1.0,1.0,
+SYNA03,sub-d9c14b3b,0,0,1.0,1.0,1.0,
+SYNB04,sub-ab6c16f8,0,0,1.0,1.0,1.0,
+SYNB05,sub-eb917c25,0,0,1.0,1.0,1.0,
+SYNC06,sub-c564cd4d,0,0,1.0,1.0,1.0,
+SYNC07,sub-51d263a2,0,0,1.0,1.0,1.0,
+SYNC08,sub-89b8192e,0,0,1.0,1.0,1.0,
+SYNC09,sub-87cb2f5a,0,0,1.0,1.0,1.0,
+SYND10,sub-8cec979d,0,0,1.0,1.0,1.0,
+SYND11,sub-68b5d9f9,0,0,1.0,1.0,1.0,
+SYND12,sub-d9971956,0,0,1.0,1.0,1.0,
+SYND13,sub-a5c4c11b,1,1,0.0,1.0,0.0,"Apa is associated with Idoma in the verified taxonomy, but submission names Yoruba"
+SYNE14,sub-1af46285,0,0,1.0,1.0,1.0,

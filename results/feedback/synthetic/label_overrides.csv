@@ -1,0 +1,8 @@
+idx,cluster,old_label,new_label,evidence,submissions
+5402,5402,Tiv,Igbo,Igbo=4; Tiv=3,"SYNC06,SYNC07,SYNC08,SYNC09"
+5575,5402,Tiv,Igbo,Igbo=4; Tiv=3,"SYNC06,SYNC07,SYNC08,SYNC09"
+11216,5402,Tiv,Igbo,Igbo=4; Tiv=3,"SYNC06,SYNC07,SYNC08,SYNC09"
+11218,5402,Tiv,Igbo,Igbo=4; Tiv=3,"SYNC06,SYNC07,SYNC08,SYNC09"
+11241,5402,Tiv,Igbo,Igbo=4; Tiv=3,"SYNC06,SYNC07,SYNC08,SYNC09"
+8605,8605,Zulu,Xhosa-South Africa,Xhosa-South Africa=3; Zulu=1,"SYNA01,SYNA02,SYNA03"
+9380,8605,Zulu,Xhosa-South Africa,Xhosa-South Africa=3; Zulu=1,"SYNA01,SYNA02,SYNA03"

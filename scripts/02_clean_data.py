@@ -17,7 +17,6 @@ Usage:
 from __future__ import annotations
 
 import argparse
-import hashlib
 import io
 import os
 import sys
@@ -34,8 +33,8 @@ import pandas as pd  # noqa: E402
 from datasets import Image as HFImage  # noqa: E402
 from datasets import load_dataset  # noqa: E402
 from PIL import Image, ImageDraw  # noqa: E402
-from scipy.fft import dctn  # noqa: E402
 
+from benchmark.imghash import hash_bytes, transforms  # noqa: E402
 from benchmark.taxonomy import Taxonomy  # noqa: E402
 
 DATASET_ID = "inuwamobarak/african-atire"
@@ -45,41 +44,21 @@ HASH_FILE = CLEAN_DIR / "hashes.npy"
 BASE_FILE = CLEAN_DIR / "base.csv"
 THUMB_FILE = CLEAN_DIR / "thumbs.npy"
 MAX_CAND = 12          # record all pairs up to this Hamming distance (of 64 bits)
-FLAT_STD = 3.0         # near-constant images give meaningless hashes
 BUCKETS = [(0, 0), (1, 2), (3, 4), (5, 6), (7, 8), (9, 10), (11, 12)]
 
 
 # ----------------------------------------------------------------------------- hashing
-def _transforms(a: np.ndarray):
-    """The 8 elements of the dihedral group applied to a square array."""
-    for k in range(4):
-        r = np.rot90(a, k)
-        yield r
-        yield np.fliplr(r)
-
-
-def _phash_bits(a: np.ndarray) -> int:
-    d = dctn(a, norm="ortho")[:8, :8]
-    bits = (d > np.median(d)).flatten()
-    return int("".join("1" if b else "0" for b in bits), 2)
-
-
 def hash_one(args):
     idx, data = args
-    sha = hashlib.sha256(data).hexdigest()
-    try:
-        with Image.open(io.BytesIO(data)) as im:
-            w, h = im.size
-            rgb = im.convert("RGB")
-            g = rgb.convert("L").resize((32, 32), Image.LANCZOS)
-            thumb = np.asarray(rgb.resize((8, 8), Image.BOX), dtype=np.uint8)
-        a = np.asarray(g, dtype=np.float64)
-        hashes = [_phash_bits(t) for t in _transforms(a)]
-        flat = bool(a.std() < FLAT_STD)
-    except Exception:
-        w = h = -1
-        hashes, flat, thumb = [0] * 8, True, np.zeros((8, 8, 3), dtype=np.uint8)
-    return idx, sha, len(data), w, h, flat, hashes, thumb
+    r = hash_bytes(data)
+    thumb = np.zeros((8, 8, 3), dtype=np.uint8)
+    if r["w"] >= 0:
+        try:
+            with Image.open(io.BytesIO(data)) as im:
+                thumb = np.asarray(im.convert("RGB").resize((8, 8), Image.BOX), dtype=np.uint8)
+        except Exception:
+            pass
+    return idx, r["sha256"], len(data), r["w"], r["h"], r["flat"], r["hashes"], thumb
 
 
 def compute_base(tax: Taxonomy, rehash: bool):
@@ -118,7 +97,7 @@ def add_color_distance(pairs: pd.DataFrame, thumbs: np.ndarray) -> pd.DataFrame:
     separates e.g. the same product layout in different colours. (A mean over cells is too weak:
     white backgrounds dilute it.)"""
     ids = np.unique(np.r_[pairs.i, pairs.k])
-    lookup = {int(j): list(_transforms(thumbs[j].astype(np.float64))) for j in ids}
+    lookup = {int(j): list(transforms(thumbs[j].astype(np.float64))) for j in ids}
     cd = [float(np.abs(lookup[int(k)][t] - thumbs[i].astype(np.float64)).mean(axis=2).max())
           for i, k, t in zip(pairs.i, pairs.k, pairs["transform"])]
     return pairs.assign(cdist=cd)

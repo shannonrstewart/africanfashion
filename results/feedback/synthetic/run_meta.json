@@ -1,0 +1,51 @@
+{
+  "kind": "feedback",
+  "timestamp_utc": "2026-11-14T20:41:32+00:00",
+  "reconstructed": false,
+  "model": null,
+  "prompts": {},
+  "decoding": {},
+  "params": {
+    "input": "benchmark/feedback/synthetic_conflicts.csv",
+    "max_dist": 6,
+    "W_EXPERT": 3.0,
+    "W_SOURCE": 1.0,
+    "MIN_SUBMITTERS": 2,
+    "CONTRADICTION_FACTOR": 0.0
+  },
+  "split": {
+    "file": "data/splits/split_v1.csv",
+    "sha256": "6dc225af0e83c429f2e39b802354e39c6a1d9ae3ba0283b23a2d50eb4505b745"
+  },
+  "taxonomy": {
+    "version": "0.1-draft",
+    "status": "draft",
+    "sha256": "ab922bfcfcfcecced35032543a6b1b19a376883925a1362c7618e414a6409637"
+  },
+  "code_sha256": {
+    "scorer": "3d74867ede70ba4a2acad41f3861b4d2230e1df013d2c9a9190899d3e23ecd77",
+    "extractor": "9bc65f5bdebd03b8591783eaaf04cfbf68ba245e8ed313eada841aa05812a442",
+    "taxonomy_loader": "8dc91294a0849e3ce7d99101735568b7999ee0d244f3c17ad759291d31607680"
+  },
+  "libraries": {
+    "python": "3.12.16",
+    "torch": "2.15.0",
+    "transformers": "5.22.2",
+    "peft": "0.21.2",
+    "trl": "1.17.1",
+    "datasets": "5.2.0",
+    "scikit-learn": "1.9.1"
+  },
+  "git": {
+    "commit": "605f0bee596bc44ccc3abd427444311f0be66618",
+    "dirty": true
+  },
+  "argv": [
+    "scripts/14_feedback.py",
+    "--input",
+    "benchmark/feedback/synthetic_conflicts.csv",
+    "--run",
+    "synthetic"
+  ],
+  "notes": null
+}
