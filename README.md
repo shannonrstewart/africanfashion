@@ -27,7 +27,11 @@ Hugging Face downloads go to `data/hf_cache/`. The scripts set `HF_HOME` themsel
 5. **Report assets:** `uv run python scripts/06_report_assets.py` collects every metric into
    `results/report_assets/summary.json`, writes `tables/*.csv` (the table twin of each figure) and
    draws `figures/*.png`. Re-run after any upstream step.
-6. Qwen3-VL-4B, before and after fine-tuning (next).
+6. **Qwen3-VL-4B:** `scripts/07_qwen_zeroshot.py` (zero-shot; `--adapter DIR` evaluates a fine-tuned adapter) and
+   `scripts/10_qwen_finetune.py` (LoRA on the train split; needs `uv sync --group vision --group vlm`).
+7. **Model report assets:** `uv run python scripts/11_model_report_assets.py` writes the comparison figures (fig7-fig9),
+   per-model figures (fig10-fig13b), the example-image figures (fig14-fig15, seeded random draws) and
+   `summary_models.json` under `results/report_assets/`.
 
 ## Status of the gold labels
 `benchmark/taxonomy.yaml` is a **draft**. Idama and Idgo have no gold answers below "African" until the expert defines them. All other entries also await expert verification.

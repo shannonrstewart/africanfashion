@@ -1,0 +1,11 @@
+figure,group,group_n,dataset_idx,class
+fig14_examples_outcomes,"Zero-shot missed, fine-tuned got it",980,5273,Tiv
+fig14_examples_outcomes,Both got it,167,8824,Zulu
+fig14_examples_outcomes,"Zero-shot got it, fine-tuned missed",8,20,Adire
+fig14_examples_outcomes,Both missed,105,6156,Tswana-Shweshwe
+fig15_examples_errors,"fine-tuned error, class Idoma",10,4838,Idoma
+fig15_examples_errors,"fine-tuned error, class Igbo",21,11040,Igbo
+fig15_examples_errors,"fine-tuned error, class Tiv",13,5664,Tiv
+fig15_examples_errors,"fine-tuned error, class Tswana-Shweshwe",11,11596,Tswana-Shweshwe
+fig15_examples_errors,"fine-tuned error, class Xhosa-South Africa",15,6730,Xhosa-South Africa
+fig15_examples_errors,"fine-tuned error, class Zulu",34,12210,Zulu
