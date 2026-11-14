@@ -34,7 +34,7 @@
       "Xhosa-South Africa": "{\"continent\": \"Africa\", \"region\": \"South Africa\", \"country\": \"South Africa\", \"people\": \"Xhosa\", \"technique\": \"Umbhaco\", \"confidence\": 1.0}",
       "Zulu": "{\"continent\": \"Africa\", \"region\": \"South Africa\", \"country\": \"South Africa\", \"people\": \"Zulu\", \"technique\": \"Zulu Beadwork\", \"confidence\": 1.0}"
     },
-    "adapter_dir": "/home/vierth/africanfashion/data/models/gemma4_e4b_lora",
+    "adapter_dir": "data/models/gemma4_e4b_lora",
     "early_stopping": {
       "patience": 6,
       "min_delta": 0.0002,

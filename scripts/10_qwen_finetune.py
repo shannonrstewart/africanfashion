@@ -140,7 +140,7 @@ def main() -> None:
                    params={"epochs": args.epochs, "max_steps": args.max_steps, "total_steps": total,
                            "batch": args.batch, "accum": args.accum, "lr": args.lr, "lora_rank": args.rank,
                            "n_train": len(tr), "seed": args.seed, "targets": targets,
-                           "adapter_dir": str(adir)},
+                           "adapter_dir": str(adir.relative_to(ROOT)) if adir.is_relative_to(ROOT) else str(adir)},
                    notes="Targets use the FIRST listed country/people/technique per class from the draft "
                          "taxonomy; confidence fixed at 1.0. Taxonomy TODO(expert) entries are baked in.")
 

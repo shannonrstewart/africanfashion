@@ -194,7 +194,7 @@ def main() -> None:
                              "image_token_budget": args.image_tokens},
                    params={"epochs": args.epochs, "max_steps": args.max_steps, "total_steps_planned": total,
                            "batch": args.batch, "accum": args.accum, "lr": args.lr, "lora_rank": args.rank,
-                           "n_train": len(tr), "seed": args.seed, "targets": targets, "adapter_dir": str(adir),
+                           "n_train": len(tr), "seed": args.seed, "targets": targets, "adapter_dir": str(adir.relative_to(ROOT)) if adir.is_relative_to(ROOT) else str(adir),
                            "early_stopping": {"patience": args.patience, "min_delta": args.min_delta,
                                               "val_every": args.val_every, "val_items": len(va)},
                            "per_layer_embeddings_on_cpu": True},

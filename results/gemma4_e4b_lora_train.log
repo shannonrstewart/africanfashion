@@ -41,7 +41,7 @@ trainable params: 34,881,536 || all params: 7,975,982,368 || trainable%: 0.4373
 {'step': 37, 'epoch': 0.101, 'loss': 0.030227774288505316, 'lr': 9.999949064504249e-05, 'elapsed_s': 205}
 {'step': 38, 'epoch': 0.104, 'loss': 0.03633381240069866, 'lr': 9.999796259054765e-05, 'elapsed_s': 211}
 {'step': 39, 'epoch': 0.107, 'loss': 0.02901659021154046, 'lr': 9.999541586764836e-05, 'elapsed_s': 216}
-/home/vierth/africanfashion/.venv/lib/python3.12/site-packages/PIL/Image.py:1134: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+./.venv/lib/python3.12/site-packages/PIL/Image.py:1134: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
   warnings.warn(
 {'step': 40, 'epoch': 0.109, 'loss': 0.045771049335598946, 'lr': 9.999185052823207e-05, 'elapsed_s': 222, 'val_loss': 0.04118667472153902}
 {'step': 41, 'epoch': 0.112, 'loss': 0.051442778669297695, 'lr': 9.998726664493969e-05, 'elapsed_s': 252}
@@ -736,4 +736,4 @@ trainable params: 34,881,536 || all params: 7,975,982,368 || trainable%: 0.4373
 {'step': 730, 'epoch': 1.995, 'loss': 0.0011075267029809766, 'lr': 2.037409452360084e-09, 'elapsed_s': 4430}
 {'step': 731, 'epoch': 1.997, 'loss': 0.009400545648531988, 'lr': 5.093549575119205e-10, 'elapsed_s': 4435}
 {'step': 732, 'epoch': 2.0, 'loss': 0.017166060220915824, 'lr': 0.0, 'elapsed_s': 4439, 'val_loss': 0.008566201906214701}
-completed schedule. adapters saved to /home/vierth/africanfashion/data/models/gemma4_e4b_lora/final and /home/vierth/africanfashion/data/models/gemma4_e4b_lora/best
+completed schedule. adapters saved to ./data/models/gemma4_e4b_lora/final and ./data/models/gemma4_e4b_lora/best

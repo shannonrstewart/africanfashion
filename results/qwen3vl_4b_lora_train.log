@@ -29,7 +29,7 @@ trainable params: 33,030,144 || all params: 4,470,845,952 || trainable%: 0.7388
 {'step': 17, 'epoch': 0.046, 'loss': 0.32650598883628845, 'lr': 4.722222222222222e-05, 'elapsed_s': 133}
 {'step': 18, 'epoch': 0.049, 'loss': 0.26308130845427513, 'lr': 5e-05, 'elapsed_s': 140}
 {'step': 19, 'epoch': 0.052, 'loss': 0.23992032185196877, 'lr': 5.2777777777777784e-05, 'elapsed_s': 148}
-/home/vierth/africanfashion/.venv/lib/python3.12/site-packages/PIL/Image.py:1134: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
+./.venv/lib/python3.12/site-packages/PIL/Image.py:1134: UserWarning: Palette images with Transparency expressed in bytes should be converted to RGBA images
   warnings.warn(
 {'step': 20, 'epoch': 0.055, 'loss': 0.26841822639107704, 'lr': 5.555555555555556e-05, 'elapsed_s': 155, 'val_loss': 0.20202221254507702}
 {'step': 21, 'epoch': 0.057, 'loss': 0.22247666493058205, 'lr': 5.833333333333334e-05, 'elapsed_s': 211}
@@ -744,4 +744,4 @@ trainable params: 33,030,144 || all params: 4,470,845,952 || trainable%: 0.7388
 {'step': 730, 'epoch': 1.995, 'loss': 0.0018059094545606058, 'lr': 2.037409452360084e-09, 'elapsed_s': 6809}
 {'step': 731, 'epoch': 1.997, 'loss': 0.006394297815859318, 'lr': 5.093549575119205e-10, 'elapsed_s': 6814}
 {'step': 732, 'epoch': 2.0, 'loss': 0.011726891971193254, 'lr': 0.0, 'elapsed_s': 6817, 'val_loss': 0.006285130744411921}
-adapter saved to /home/vierth/africanfashion/data/models/qwen3vl_4b_lora
+adapter saved to ./data/models/qwen3vl_4b_lora
