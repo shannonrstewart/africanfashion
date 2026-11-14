@@ -33,6 +33,38 @@
         "Zulu": 0.49206349206349204
       }
     },
+    "gzs": {
+      "label": "Gemma 4 E4B, zero-shot",
+      "n": 1260,
+      "acc_l1_africa": 0.7365079365079366,
+      "acc_l2_region": 0.3007936507936508,
+      "acc_l3_people": 0.018253968253968255,
+      "acc_l4_technique": 0.007142857142857143,
+      "rung_dist": {
+        "0": 0.2634920634920635,
+        "1": 0.43492063492063493,
+        "2": 0.2777777777777778,
+        "3": 0.023809523809523808
+      },
+      "specific_rate": 0.023809523809523808,
+      "specific_rate_ci95": [
+        0.016727960518052185,
+        0.033785964644721375
+      ],
+      "wrong_specific_rate": 0.14126984126984127,
+      "monolithic_collapse_rate": 0.29365079365079366,
+      "generic_term_rate": 0.39444444444444443,
+      "per_class_specific_rate": {
+        "Adire": 0.13333333333333333,
+        "Idoma": 0.015151515151515152,
+        "Igala": 0.02,
+        "Igbo": 0.0175054704595186,
+        "Tiv": 0.0,
+        "Tswana-Shweshwe": 0.0,
+        "Xhosa-South Africa": 0.008264462809917356,
+        "Zulu": 0.005291005291005291
+      }
+    },
     "ft": {
       "label": "Qwen3-VL-4B, LoRA fine-tuned",
       "n": 1260,
@@ -63,6 +95,38 @@
         "Tswana-Shweshwe": 0.9329268292682927,
         "Xhosa-South Africa": 0.8760330578512396,
         "Zulu": 0.8201058201058201
+      }
+    },
+    "gft": {
+      "label": "Gemma 4 E4B, LoRA fine-tuned",
+      "n": 1260,
+      "acc_l1_africa": 1.0,
+      "acc_l2_region": 0.9603174603174603,
+      "acc_l3_people": 0.9079365079365079,
+      "acc_l4_technique": 0.9063492063492063,
+      "rung_dist": {
+        "0": 0.0,
+        "1": 0.03968253968253968,
+        "2": 0.05238095238095238,
+        "3": 0.9079365079365079
+      },
+      "specific_rate": 0.9079365079365079,
+      "specific_rate_ci95": [
+        0.8907086394663278,
+        0.9226844313108961
+      ],
+      "wrong_specific_rate": 0.03968253968253968,
+      "monolithic_collapse_rate": 0.0,
+      "generic_term_rate": 0.0,
+      "per_class_specific_rate": {
+        "Adire": 0.9407407407407408,
+        "Idoma": 0.8484848484848485,
+        "Igala": 0.9,
+        "Igbo": 0.9409190371991247,
+        "Tiv": 0.8333333333333334,
+        "Tswana-Shweshwe": 0.9512195121951219,
+        "Xhosa-South Africa": 0.9008264462809917,
+        "Zulu": 0.8253968253968254
       }
     },
     "dino": {
@@ -137,6 +201,27 @@
       "only_zs": 26,
       "both_wrong": 132,
       "mcnemar_exact_p": 4.1109340839058666e-244
+    },
+    "gzs_vs_zs": {
+      "both_right": 22,
+      "only_gzs": 8,
+      "only_zs": 153,
+      "both_wrong": 1077,
+      "mcnemar_exact_p": 6.769507367528149e-36
+    },
+    "gft_vs_ft": {
+      "both_right": 1106,
+      "only_gft": 38,
+      "only_ft": 41,
+      "both_wrong": 75,
+      "mcnemar_exact_p": 0.8221442424521855
+    },
+    "gft_vs_gzs": {
+      "both_right": 27,
+      "only_gft": 1117,
+      "only_gzs": 3,
+      "both_wrong": 113,
+      "mcnemar_exact_p": 0.0
     }
   }
 }

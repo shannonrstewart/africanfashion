@@ -1,0 +1,183 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+test items: 1260
+image_seq_length (processor default): 280
+Loading weights:   0%|          | 0/2076 [00:00<?, ?it/s]Loading weights:   6%|▌         | 128/2076 [00:00<00:01, 1230.49it/s]Loading weights:  12%|█▏        | 252/2076 [00:00<00:01, 1119.97it/s]Loading weights:  20%|█▉        | 412/2076 [00:00<00:01, 1323.91it/s]Loading weights:  28%|██▊       | 571/2076 [00:00<00:01, 1408.57it/s]Loading weights:  36%|███▌      | 749/2076 [00:00<00:00, 1448.30it/s]Loading weights:  43%|████▎     | 895/2076 [00:01<00:02, 529.24it/s] Loading weights:  48%|████▊     | 999/2076 [00:01<00:02, 378.07it/s]Loading weights:  52%|█████▏    | 1076/2076 [00:01<00:02, 346.19it/s]Loading weights:  55%|█████▍    | 1137/2076 [00:02<00:03, 295.88it/s]Loading weights:  57%|█████▋    | 1185/2076 [00:02<00:03, 258.10it/s]Loading weights:  59%|█████▉    | 1223/2076 [00:02<00:03, 255.38it/s]Loading weights:  61%|██████    | 1257/2076 [00:02<00:03, 244.22it/s]Loading weights:  62%|██████▏   | 1287/2076 [00:03<00:03, 242.98it/s]Loading weights:  67%|██████▋   | 1389/2076 [00:03<00:01, 376.18it/s]Loading weights:  76%|███████▌  | 1581/2076 [00:03<00:00, 677.22it/s]Loading weights:  87%|████████▋ | 1805/2076 [00:03<00:00, 1019.26it/s]Loading weights:  94%|█████████▎| 1942/2076 [00:03<00:00, 1100.41it/s]Loading weights: 100%|██████████| 2076/2076 [00:03<00:00, 582.41it/s] 
+GPU memory after load: 9.6 GB
+[structured] 1260 to run (0 cached)
+input shape: (8, 421) | keys: ['input_ids', 'attention_mask', 'mm_token_type_ids', 'pixel_values', 'image_position_ids']
+  8/1260  0.52s/img  peak 10.4 GB
+  16/1260  0.46s/img  peak 10.4 GB
+  24/1260  0.44s/img  peak 10.4 GB
+  32/1260  0.43s/img  peak 10.4 GB
+  40/1260  0.42s/img  peak 10.4 GB
+  48/1260  0.42s/img  peak 10.4 GB
+  56/1260  0.41s/img  peak 10.4 GB
+  64/1260  0.41s/img  peak 10.4 GB
+  72/1260  0.41s/img  peak 10.4 GB
+  80/1260  0.41s/img  peak 10.4 GB
+  88/1260  0.40s/img  peak 10.4 GB
+  96/1260  0.40s/img  peak 10.4 GB
+  104/1260  0.40s/img  peak 10.4 GB
+  112/1260  0.40s/img  peak 10.4 GB
+  120/1260  0.40s/img  peak 10.4 GB
+  128/1260  0.40s/img  peak 10.4 GB
+  136/1260  0.40s/img  peak 10.4 GB
+  144/1260  0.40s/img  peak 10.4 GB
+  152/1260  0.40s/img  peak 10.4 GB
+  160/1260  0.40s/img  peak 10.4 GB
+  168/1260  0.40s/img  peak 10.4 GB
+  176/1260  0.40s/img  peak 10.4 GB
+  184/1260  0.40s/img  peak 10.4 GB
+  192/1260  0.40s/img  peak 10.4 GB
+  200/1260  0.40s/img  peak 10.4 GB
+  208/1260  0.40s/img  peak 10.4 GB
+  216/1260  0.40s/img  peak 10.4 GB
+  224/1260  0.40s/img  peak 10.4 GB
+  232/1260  0.40s/img  peak 10.4 GB
+  240/1260  0.40s/img  peak 10.4 GB
+  248/1260  0.40s/img  peak 10.4 GB
+  256/1260  0.40s/img  peak 10.4 GB
+  264/1260  0.40s/img  peak 10.4 GB
+  272/1260  0.40s/img  peak 10.4 GB
+  280/1260  0.40s/img  peak 10.4 GB
+  288/1260  0.40s/img  peak 10.4 GB
+  296/1260  0.40s/img  peak 10.4 GB
+  304/1260  0.40s/img  peak 10.4 GB
+  312/1260  0.40s/img  peak 10.4 GB
+  320/1260  0.40s/img  peak 10.4 GB
+  328/1260  0.40s/img  peak 10.4 GB
+  336/1260  0.40s/img  peak 10.4 GB
+  344/1260  0.40s/img  peak 10.4 GB
+  352/1260  0.40s/img  peak 10.4 GB
+  360/1260  0.40s/img  peak 10.4 GB
+  368/1260  0.40s/img  peak 10.4 GB
+  376/1260  0.40s/img  peak 10.4 GB
+  384/1260  0.40s/img  peak 10.4 GB
+  392/1260  0.40s/img  peak 10.4 GB
+  400/1260  0.40s/img  peak 10.4 GB
+  408/1260  0.40s/img  peak 10.4 GB
+  416/1260  0.40s/img  peak 10.4 GB
+  424/1260  0.40s/img  peak 10.4 GB
+  432/1260  0.40s/img  peak 10.4 GB
+  440/1260  0.40s/img  peak 10.4 GB
+  448/1260  0.40s/img  peak 10.4 GB
+  456/1260  0.40s/img  peak 10.4 GB
+  464/1260  0.40s/img  peak 10.4 GB
+  472/1260  0.40s/img  peak 10.4 GB
+  480/1260  0.40s/img  peak 10.4 GB
+  488/1260  0.40s/img  peak 10.4 GB
+  496/1260  0.40s/img  peak 10.4 GB
+  504/1260  0.40s/img  peak 10.4 GB
+  512/1260  0.40s/img  peak 10.4 GB
+  520/1260  0.40s/img  peak 10.4 GB
+  528/1260  0.40s/img  peak 10.4 GB
+  536/1260  0.40s/img  peak 10.4 GB
+  544/1260  0.40s/img  peak 10.4 GB
+  552/1260  0.40s/img  peak 10.4 GB
+  560/1260  0.40s/img  peak 10.4 GB
+  568/1260  0.40s/img  peak 10.4 GB
+  576/1260  0.40s/img  peak 10.4 GB
+  584/1260  0.40s/img  peak 10.4 GB
+  592/1260  0.40s/img  peak 10.4 GB
+  600/1260  0.40s/img  peak 10.4 GB
+  608/1260  0.40s/img  peak 10.4 GB
+  616/1260  0.40s/img  peak 10.4 GB
+  624/1260  0.40s/img  peak 10.4 GB
+  632/1260  0.40s/img  peak 10.4 GB
+  640/1260  0.40s/img  peak 10.4 GB
+  648/1260  0.40s/img  peak 10.4 GB
+  656/1260  0.40s/img  peak 10.4 GB
+  664/1260  0.40s/img  peak 10.4 GB
+  672/1260  0.40s/img  peak 10.4 GB
+  680/1260  0.40s/img  peak 10.4 GB
+  688/1260  0.41s/img  peak 10.4 GB
+  696/1260  0.41s/img  peak 10.4 GB
+  704/1260  0.41s/img  peak 10.4 GB
+  712/1260  0.41s/img  peak 10.4 GB
+  720/1260  0.41s/img  peak 10.4 GB
+  728/1260  0.41s/img  peak 10.4 GB
+  736/1260  0.41s/img  peak 10.4 GB
+  744/1260  0.41s/img  peak 10.4 GB
+  752/1260  0.41s/img  peak 10.4 GB
+  760/1260  0.41s/img  peak 10.4 GB
+  768/1260  0.41s/img  peak 10.4 GB
+  776/1260  0.41s/img  peak 10.4 GB
+  784/1260  0.41s/img  peak 10.4 GB
+  792/1260  0.41s/img  peak 10.4 GB
+  800/1260  0.41s/img  peak 10.4 GB
+  808/1260  0.41s/img  peak 10.4 GB
+  816/1260  0.41s/img  peak 10.4 GB
+  824/1260  0.41s/img  peak 10.4 GB
+  832/1260  0.41s/img  peak 10.4 GB
+  840/1260  0.41s/img  peak 10.4 GB
+  848/1260  0.41s/img  peak 10.4 GB
+  856/1260  0.41s/img  peak 10.4 GB
+  864/1260  0.41s/img  peak 10.4 GB
+  872/1260  0.41s/img  peak 10.4 GB
+  880/1260  0.41s/img  peak 10.4 GB
+  888/1260  0.41s/img  peak 10.4 GB
+  896/1260  0.41s/img  peak 10.4 GB
+  904/1260  0.41s/img  peak 10.4 GB
+  912/1260  0.41s/img  peak 10.4 GB
+  920/1260  0.41s/img  peak 10.4 GB
+  928/1260  0.41s/img  peak 10.4 GB
+  936/1260  0.41s/img  peak 10.4 GB
+  944/1260  0.41s/img  peak 10.4 GB
+  952/1260  0.41s/img  peak 10.4 GB
+  960/1260  0.41s/img  peak 10.4 GB
+  968/1260  0.41s/img  peak 10.4 GB
+  976/1260  0.41s/img  peak 10.4 GB
+  984/1260  0.41s/img  peak 10.4 GB
+  992/1260  0.41s/img  peak 10.4 GB
+  1000/1260  0.41s/img  peak 10.4 GB
+  1008/1260  0.41s/img  peak 10.4 GB
+  1016/1260  0.41s/img  peak 10.4 GB
+  1024/1260  0.41s/img  peak 10.4 GB
+  1032/1260  0.41s/img  peak 10.4 GB
+  1040/1260  0.41s/img  peak 10.4 GB
+  1048/1260  0.41s/img  peak 10.4 GB
+  1056/1260  0.41s/img  peak 10.4 GB
+  1064/1260  0.41s/img  peak 10.4 GB
+  1072/1260  0.41s/img  peak 10.4 GB
+  1080/1260  0.41s/img  peak 10.4 GB
+  1088/1260  0.41s/img  peak 10.4 GB
+  1096/1260  0.41s/img  peak 10.4 GB
+  1104/1260  0.41s/img  peak 10.4 GB
+  1112/1260  0.41s/img  peak 10.4 GB
+  1120/1260  0.41s/img  peak 10.4 GB
+  1128/1260  0.41s/img  peak 10.4 GB
+  1136/1260  0.41s/img  peak 10.4 GB
+  1144/1260  0.41s/img  peak 10.4 GB
+  1152/1260  0.41s/img  peak 10.4 GB
+  1160/1260  0.41s/img  peak 10.4 GB
+  1168/1260  0.41s/img  peak 10.4 GB
+  1176/1260  0.41s/img  peak 10.4 GB
+  1184/1260  0.41s/img  peak 10.4 GB
+  1192/1260  0.41s/img  peak 10.4 GB
+  1200/1260  0.41s/img  peak 10.4 GB
+  1208/1260  0.41s/img  peak 10.4 GB
+  1216/1260  0.41s/img  peak 10.4 GB
+  1224/1260  0.41s/img  peak 10.4 GB
+  1232/1260  0.41s/img  peak 10.4 GB
+  1240/1260  0.41s/img  peak 10.4 GB
+  1248/1260  0.41s/img  peak 10.4 GB
+  1256/1260  0.41s/img  peak 10.4 GB
+  1260/1260  0.41s/img  peak 10.4 GB
+
+=== structured (unparseable JSON: 0) ===
+class                    n     L1    L2    L3    L4     r0    r1    r2    r3   mean
+-----------------------------------------------------------------------------------
+Adire                  135  100.0  97.0  94.1  94.1    0.0   3.0   3.0  94.1   2.91
+Idoma                   66  100.0 100.0  84.8  84.8    0.0   0.0  15.2  84.8   2.85
+Igala                   50  100.0  94.0  90.0  90.0    0.0   6.0   4.0  90.0   2.84
+Igbo                   457  100.0  96.7  94.1  94.1    0.0   3.3   2.6  94.1   2.91
+Tiv                     78  100.0  94.9  83.3  83.3    0.0   5.1  11.5  83.3   2.78
+Tswana-Shweshwe        164  100.0  98.8  95.1  93.9    0.0   1.2   3.7  95.1   2.94
+Xhosa-South Africa     121  100.0  98.3  90.1  90.1    0.0   1.7   8.3  90.1   2.88
+Zulu                   189  100.0  89.4  82.5  82.5    0.0  10.6   6.9  82.5   2.72
+OVERALL               1260  100.0  96.0  90.8  90.6    0.0   4.0   5.2  90.8   2.87
+
+Monolithic-collapse rate (said only 'African'):   0.0%
+Wrong-specific rate (named a wrong place/people):   4.0%
+Specific rate (people or technique correct):    90.8%
+Generic-term rate (ankara, wax print, ...):      0.0%

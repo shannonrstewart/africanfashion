@@ -54,6 +54,12 @@ MODELS = {
     "dino": {"label": "DINOv2 linear probe", "long": "DINOv2 linear probe", "color": "#1baf7a",
              "dir": RES / "dinov2_probe" / "ladder", "raw": None},
 }
+MODELS["gzs"] = {"label": "Gemma zero-shot", "long": "Gemma 4 E4B, zero-shot", "color": "#eda100",
+                 "dir": RES / "gemma4_e4b_zeroshot" / "structured", "raw": RES / "gemma4_e4b_zeroshot" / "structured_raw.jsonl"}
+MODELS["gft"] = {"label": "Gemma fine-tuned (LoRA)", "long": "Gemma 4 E4B, LoRA fine-tuned", "color": "#e87ba4",
+                 "dir": RES / "gemma4_e4b_lora_eval" / "structured", "raw": RES / "gemma4_e4b_lora_eval" / "structured_raw.jsonl"}
+# models whose results exist; display order groups zero-shot / fine-tuned / classifier
+MODELS = {k: MODELS[k] for k in ("zs", "gzs", "ft", "gft", "dino") if (MODELS[k]["dir"] / "metrics.json").exists()}
 KEYS = ["acc_l1_africa", "acc_l2_region", "acc_l3_people", "acc_l4_technique"]
 LEVELS = ["L1 Africa", "L2 Region", "L3 People", "L4 Textile"]
 RUNG_TXT = {3: "specific", 2: "region only", 1: "Africa only", 0: "no credit"}
@@ -111,7 +117,8 @@ def summarise(zso):
         **{k2: zo[k2] for k2 in KEYS}, "rung_dist": zo["rung_dist"], "specific_rate": zo["specific_rate"],
         "wrong_specific_rate": zo["wrong_specific_rate"], "monolithic_collapse_rate": zo["monolithic_collapse_rate"],
         "generic_term_rate": zo.get("generic_term_rate")}
-    for a, b in (("ft", "dino"), ("ft", "zs"), ("dino", "zs")):
+    for a, b in [(a, b) for a, b in (("ft", "dino"), ("ft", "zs"), ("dino", "zs"), ("gzs", "zs"), ("gft", "ft"), ("gft", "gzs"))
+                  if a in MODELS and b in MODELS]:
         ia = ok3(MODELS[a]).sort_index()
         ib = ok3(MODELS[b]).reindex(ia.index)
         both, only_a, only_b = int((ia & ib).sum()), int((ia & ~ib).sum()), int((~ia & ib).sum())
@@ -137,6 +144,10 @@ def write_tables(zso):
     files = {"zs": ("qwen_zeroshot_structured_per_class.csv", MODELS["zs"]["per_class"], MODELS["zs"]["overall"]),
              "ft": ("qwen_lora_per_class.csv", MODELS["ft"]["per_class"], MODELS["ft"]["overall"]),
              "zso": ("qwen_zeroshot_open_per_class.csv", zso["per_class"], zso["overall"])}
+    if "gzs" in MODELS:
+        files["gzs"] = ("gemma_zeroshot_structured_per_class.csv", MODELS["gzs"]["per_class"], MODELS["gzs"]["overall"])
+    if "gft" in MODELS:
+        files["gft"] = ("gemma_lora_per_class.csv", MODELS["gft"]["per_class"], MODELS["gft"]["overall"])
     for _, (fn, per, ov) in files.items():
         out = []
         for c, m in {**per, "OVERALL": ov}.items():
@@ -174,15 +185,23 @@ def rung_rows(m, per_class=True):
 
 
 # ============================================================================ comparison figures
+def title_people():
+    v = {k: 100 * m["overall"]["acc_l3_people"] for k, m in MODELS.items()}
+    if "gft" in v and "gzs" in v:
+        return f"Fine-tuning lifts people accuracy: Qwen {v['zs']:.0f}\u2192{v['ft']:.0f}%, Gemma {v['gzs']:.0f}\u2192{v['gft']:.0f}%"
+    if "gzs" in v:
+        return f"People accuracy: zero-shot Qwen {v['zs']:.0f}%, Gemma {v['gzs']:.0f}%; tuned Qwen {v['ft']:.0f}%"
+    return f"Fine-tuning lifts people-level accuracy from {v['zs']:.0f}% to {v['ft']:.0f}%"
+
+
 def fig_compare_ladder(S):
-    ms = [(k, MODELS[k]) for k in ("zs", "ft", "dino")]
+    ms = list(MODELS.items())
     rows = [(lv, [100 * m["overall"][key] for _, m in ms]) for lv, key in zip(LEVELS, KEYS)]
-    zs, ft = 100 * MODELS["zs"]["overall"]["acc_l3_people"], 100 * MODELS["ft"]["overall"]["acc_l3_people"]
-    pitch = 3 * 13 + 24
+    pitch = len(ms) * 13 + 24
     fig, ax = ra.new_fig(800, 150 + 4 * pitch, left=100, right=60, top=104, bottom=40)
-    ra.heading(fig, f"Fine-tuning lifts people-level accuracy from {zs:.0f}% to {ft:.0f}%",
-               f"Accuracy at each ladder level on {S['n_test']:,} held-out test images; same images, same scorer for all three systems",
-               "Sources: qwen3vl_4b_zeroshot, qwen3vl_4b_lora_eval, dinov2_probe results. "
+    ra.heading(fig, title_people(),
+               f"Accuracy at each ladder level on {S['n_test']:,} held-out test images; same images, same scorer for all {len(MODELS)} systems",
+               "Sources: results/qwen3vl_4b_*, gemma4_e4b_*, dinov2_probe. "
                "DINOv2 picks from a fixed class list, so Africa is 100% by design.")
     ra.legend_row(fig, [(m["color"], m["label"]) for _, m in ms], 64)
     grouped_hbars(fig, ax, rows, [(m["color"], m["label"]) for _, m in ms])
@@ -190,12 +209,13 @@ def fig_compare_ladder(S):
 
 
 def fig_compare_rungs(S):
-    order = ["zs", "ft", "dino"]
+    order = list(MODELS)
     rows = [(MODELS[k]["label"], [100 * MODELS[k]["overall"]["rung_dist"][str(r)] for r in (3, 2, 1, 0)]) for k in order]
     z0, zr3 = MODELS["zs"]["overall"]["rung_dist"], MODELS["zs"]["overall"]["specific_rate"]
     f = MODELS["ft"]["overall"]
-    fig, ax = ra.new_fig(800, 180 + 3 * 44, left=172, right=30, top=104, bottom=40)
-    ra.heading(fig, f"Specific answers: {100 * zr3:.0f}% zero-shot, {100 * f['specific_rate']:.0f}% after fine-tuning",
+    fig, ax = ra.new_fig(800, 180 + len(order) * 44, left=172, right=30, top=104, bottom=40)
+    ra.heading(fig, "Share of images reaching each rung, by system" if "ft" not in MODELS else
+               f"Specific answers: {100 * zr3:.0f}% Qwen zero-shot, {100 * f['specific_rate']:.0f}% after fine-tuning",
                "Deepest correct rung per test image. Rung 3 = people or textile named correctly.",
                "Rung 1 (Africa only) includes wrong-specific answers such as the wrong people; "
                "rung 0 = not credited as African or no answer.")
@@ -208,7 +228,7 @@ def fig_compare_rungs(S):
 
 
 def fig_compare_by_class(S):
-    ms = [MODELS[k] for k in ("zs", "ft", "dino")]
+    ms = list(MODELS.values())
     classes = list(MODELS["ft"]["per_class"])
     classes.sort(key=lambda c: -MODELS["ft"]["per_class"][c]["specific_rate"])
     rows = [(c, [100 * m["per_class"][c]["specific_rate"] for m in ms]) for c in classes]
@@ -219,14 +239,14 @@ def fig_compare_by_class(S):
     improved = all(ftv[c] > zsv[c] for c in classes)
     title = (f"Fine-tuning improves every class; the lowest is {worst} at {ftv[worst]:.0f}%" if improved else
              f"Fine-tuning helps most classes; the lowest is {worst} at {ftv[worst]:.0f}%")
-    pitch = 3 * 12 + 14
+    pitch = len(ms) * 12 + 14
     fig, ax = ra.new_fig(800, 150 + 8 * pitch, left=150, right=60, top=104, bottom=40)
     ra.heading(fig, title,
                f"Share of test images where the people or textile is named correctly (rung 3), per class. "
                f"Zero-shot best: {best_zs} ({zsv[best_zs]:.0f}%).",
                "Source: per-class metrics of each run. Gold for Tswana-Shweshwe, Xhosa and Zulu is still a draft.")
     ra.legend_row(fig, [(m["color"], m["label"]) for m in ms], 64)
-    grouped_hbars(fig, ax, rows, [(m["color"], m["label"]) for m in ms], thick=10)
+    grouped_hbars(fig, ax, rows, [(m["color"], m["label"]) for m in ms], thick=10 if len(ms) < 5 else 8)
     ra.save(fig, "fig9_specific_rate_by_class")
 
 
@@ -266,8 +286,9 @@ def fig_model_rungs(key, fname, title_fmt):
     ra.save(fig, fname)
 
 
-def fig_zs_named_peoples():
-    it = MODELS["zs"]["items"].copy()
+def fig_named_peoples(key, fname):
+    mdl = MODELS[key]
+    it = mdl["items"].copy()
     it["named"] = it.pred_people.where(it.pred_people.notna(), "(no answer)").astype(str)
     it["right"] = it.l3_people.astype(str) == "True"
     g = it.groupby("named").agg(n=("right", "size"), right=("right", "sum"))
@@ -284,15 +305,17 @@ def fig_zs_named_peoples():
     first = top.index[0]
     xmax = int(math.ceil(max(sum(r[1]) for r in rows) / 100) * 100)
     fig, ax = ra.new_fig(800, 168 + n * 30, left=150, right=60, top=104, bottom=40)
-    ra.heading(fig, f"Zero-shot Qwen names {first} most often ({100 * top.n.iloc[0] / N:.0f}% of images), right or wrong",
-               f"The people named by the zero-shot model for {N:,} test images, split by whether the answer was right for that image",
-               "Source: results/qwen3vl_4b_zeroshot/structured/per_item.csv. A name counts as right only if it matches the image's class.")
+    n_none = int(noans.n) if noans is not None else 0
+    ra.heading(fig, f"{mdl['label']} names {first} most often ({100 * top.n.iloc[0] / N:.0f}% of images)"
+                    + (f"; no people for {100 * n_none / N:.0f}%" if n_none > 0.2 * N else ""),
+               f"The people named for {N:,} test images, split by whether the answer was right for that image",
+               "Source: " + str(mdl["dir"].relative_to(ROOT)) + "/per_item.csv. A name counts as right only if it matches the class.")
     ra.legend_row(fig, [(BLUE, "Right people for this image"), (GRAY, "Wrong people for this image")], 64)
     ra.stacked_hbars(fig, ax, rows, [(BLUE, "right"), (GRAY, "wrong")], xmax=xmax, label_fmt=lambda v: f"{int(v):,}", pitch=30, thick=16)
     step = 100 if xmax <= 600 else 200
     ax.set_xticks(range(0, xmax + 1, step), [f"{t:,}" for t in range(0, xmax + 1, step)])
-    ra.save(fig, "fig12_zeroshot_named_peoples")
-    pd.DataFrame([{"answer": k, "right": v[0], "wrong": v[1]} for k, v in rows]).to_csv(TAB / "qwen_zeroshot_named_peoples.csv", index=False)
+    ra.save(fig, fname)
+    pd.DataFrame([{"answer": k, "right": v[0], "wrong": v[1]} for k, v in rows]).to_csv(TAB / f"named_peoples_{key}.csv", index=False)
 
 
 # ============================================================================ example images
@@ -371,14 +394,17 @@ def gold_lines(tax, cls):
     return region, " / ".join(g["peoples"]), " / ".join(g["techniques"])
 
 
-def answer_block(cv, x, y, pred, row):
+def answer_block(cv, x, y, pred, row, compact=False):
     """Region / people / textile as the model answered, plus the four ladder chips and the rung."""
     for i, (lab, key) in enumerate((("Region", "region"), ("People", "people"), ("Textile", "technique"))):
-        v = trunc(pred.get(key))
+        v = trunc(pred.get(key), 17 if compact else 30)
         cv.text(x, y + i * 15, f"{lab}:", size=7.6, color=MUTED)
         cv.text(x + 44, y + i * 15, v if v else "(no answer)", size=8, color=INK if v else MUTED)
     cv.chips(x, y + 52, flags(row))
-    cv.text(x + 100, y + 55, f"rung {int(row.rung)}: {RUNG_TXT[int(row.rung)]}", size=7.2, color=INK2)
+    if compact:
+        cv.text(x, y + 72, f"rung {int(row.rung)}: {RUNG_TXT[int(row.rung)]}", size=7.2, color=INK2)
+    else:
+        cv.text(x + 100, y + 55, f"rung {int(row.rung)}: {RUNG_TXT[int(row.rung)]}", size=7.2, color=INK2)
 
 
 def pick(rng, df, used):
@@ -435,6 +461,54 @@ def fig_examples_outcomes(ds, tax):
                            "Any value in the draft taxonomy's list counts as right.", size=7.2, color=MUTED, va="center")
     cv.save("fig14_examples_outcomes")
     return rows_out
+
+
+def fig_examples_systems(ds, tax):
+    """The same random test images answered by every Qwen/Gemma system (one image from each of 4 random classes)."""
+    keys = [k for k in ("zs", "gzs", "ft", "gft") if k in MODELS]
+    raws = {k: load_raw(MODELS[k]["raw"]) for k in keys}
+    items = MODELS["zs"]["items"]
+    rng = random.Random(SEED + 2)
+    classes = sorted(items.gold_class.unique())
+    rng.shuffle(classes)
+    classes = classes[:4]
+    chosen = []
+    for c in classes:
+        ids = sorted(items.index[items.gold_class == c])
+        chosen.append(ids[rng.randrange(len(ids))])
+    colw = (784 - 296) / len(keys)
+    RH = 150
+    cv = Canvas(800, 108 + RH * len(chosen) + 22)
+    cv.text(16, 14, "The same test image, answered by each system", size=11.5, weight="bold")
+    cv.text(16, 34, "One image drawn at random (seed 42) from each of four randomly chosen classes. No image was picked for its answers.",
+            size=8.2, color=INK2)
+    cv.text(16, 48, "Chips show which ladder levels were right: A Africa, R Region, P People, T Textile.", size=8.2, color=INK2)
+    cv.text(144, 74, "Answer key", size=8.5, weight="bold", color=INK2)
+    for j, k in enumerate(keys):
+        cv.text(296 + j * colw, 74, MODELS[k]["label"], size=8.5, weight="bold", color=INK2)
+    out = []
+    for r, i in enumerate(chosen):
+        y0 = 100 + r * RH
+        cv.line(16, y0 - 4, 784, y0 - 4)
+        cls = items.loc[i, "gold_class"]
+        cv.image(ds[int(i)]["image"].convert("RGB"), 16, y0 + 6, 118)
+        reg, peo, tec = gold_lines(tax, cls)
+        cv.text(144, y0 + 8, cls, size=8.4, weight="bold")
+        yy = y0 + 26
+        for lab, val in (("Region", reg), ("People", peo), ("Textile", tec)):
+            cv.text(144, yy, f"{lab}:", size=7.6, color=MUTED)
+            for ln in textwrap.wrap(val, 20)[:2]:
+                yy += 11
+                cv.text(144, yy, ln, size=8)
+            yy += 17
+        for j, k in enumerate(keys):
+            answer_block(cv, 296 + j * colw, y0 + 8, raws[k][i], MODELS[k]["items"].loc[i], compact=True)
+        out.append({"figure": "fig22_examples_systems", "group": "random image from random class", "group_n": "",
+                    "dataset_idx": i, "class": cls})
+    cv.text(16, cv.h - 14, "Sources: results/qwen3vl_4b_*, results/gemma4_e4b_* (structured prompt). "
+                           "Any value in the draft taxonomy's list counts as right.", size=7.2, color=MUTED, va="center")
+    cv.save("fig22_examples_systems")
+    return out
 
 
 def fig_examples_errors(ds, tax):
@@ -500,17 +574,28 @@ def main() -> None:
     fig_model_rungs("zs", "fig11_qwen_zeroshot_rungs",
                     lambda o: f"Zero-shot Qwen reaches the top rung on {100 * o['specific_rate']:.0f}% of images; "
                               f"{100 * o['rung_dist']['0']:.0f}% get no credit")
-    fig_zs_named_peoples()
+    fig_named_peoples("zs", "fig12_zeroshot_named_peoples")
     fig_model_ladder("ft", "fig13_qwen_lora_ladder",
                      lambda o: f"Fine-tuned Qwen: region {100 * o['acc_l2_region']:.0f}%, people {100 * o['acc_l3_people']:.0f}%, "
                                f"textile {100 * o['acc_l4_technique']:.0f}%")
     fig_model_rungs("ft", "fig13b_qwen_lora_rungs",
                     lambda o: f"Fine-tuned Qwen reaches the top rung on {100 * o['specific_rate']:.0f}% of images; "
                               f"{100 * (1 - o['specific_rate']):.0f}% stop short")
+    for k, tag in (("gzs", "16"), ("gft", "19")):
+        if k not in MODELS:
+            continue
+        lab = MODELS[k]["label"]
+        fig_model_ladder(k, f"fig{tag}_{k}_ladder",
+                         lambda o, lab=lab: f"{lab}: region {100 * o['acc_l2_region']:.0f}%, people {100 * o['acc_l3_people']:.0f}%, "
+                                            f"textile {100 * o['acc_l4_technique']:.0f}%")
+        fig_model_rungs(k, f"fig{int(tag) + 1}_{k}_rungs",
+                        lambda o, lab=lab: f"{lab} reaches the top rung on {100 * o['specific_rate']:.0f}% of images; "
+                                           f"{100 * o['monolithic_collapse_rate']:.0f}% collapse to Africa")
+        fig_named_peoples(k, f"fig{int(tag) + 2}_{k}_named_peoples")
     from datasets import load_dataset
     ds = load_dataset("inuwamobarak/african-atire", split="train")
     tax = Taxonomy.load()
-    sel = fig_examples_outcomes(ds, tax) + fig_examples_errors(ds, tax)
+    sel = fig_examples_outcomes(ds, tax) + fig_examples_errors(ds, tax) + fig_examples_systems(ds, tax)
     pd.DataFrame(sel).to_csv(TAB / "examples_selected.csv", index=False)
 
 

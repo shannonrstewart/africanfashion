@@ -9,3 +9,7 @@ fig15_examples_errors,"fine-tuned error, class Tiv",13,5664,Tiv
 fig15_examples_errors,"fine-tuned error, class Tswana-Shweshwe",11,11596,Tswana-Shweshwe
 fig15_examples_errors,"fine-tuned error, class Xhosa-South Africa",15,6730,Xhosa-South Africa
 fig15_examples_errors,"fine-tuned error, class Zulu",34,12210,Zulu
+fig22_examples_systems,random image from random class,,4933,Igala
+fig22_examples_systems,random image from random class,,11419,Tswana-Shweshwe
+fig22_examples_systems,random image from random class,,1292,Igbo
+fig22_examples_systems,random image from random class,,10273,Idoma
