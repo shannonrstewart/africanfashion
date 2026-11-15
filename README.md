@@ -121,6 +121,7 @@ Hugging Face downloads go to `data/hf_cache/`. The scripts set `HF_HOME` themsel
 | Feedback loop | `scripts/14_feedback.py --input CSV --run NAME [--apply]` | `results/feedback/NAME/`, optional `split_v2.csv` |
 | Synthetic feedback set | `scripts/15_make_synthetic_feedback.py` | `benchmark/feedback/synthetic_conflicts.csv` |
 | Concept figure | `scripts/16_feedback_concept_figure.py` | `fig23_feedback_concept.png` |
+| Fine-tuning composite figure | `scripts/17_ladder_composite_figure.py` | `fig24_finetuning_ladder_composite.png` |
 
 `scripts/09_backfill_run_meta.py` adds `run_meta.json` to results folders created before run metadata existed. To score any model's predictions with the benchmark:
 
