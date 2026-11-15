@@ -13,3 +13,7 @@ results/**/*.jsonl
 results/**/review/images/
 results/qwen3vl_4b_smoke/
 !results/**/*_raw.jsonl
+
+# Raw form export (contains signed upload URLs) and a local download log
+benchmark/feedback/community-cultural-knowledge-verification-submissions.csv
+results/gemma4_e4b_download.log

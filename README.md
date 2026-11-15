@@ -62,7 +62,7 @@ The full design and list of gaps are in [benchmark/FEEDBACK.md](benchmark/FEEDBA
 
 ## What we learned
 
-**The zero-shot failure was not the one we expected.** We built the benchmark to measure collapse to "Africa". Gemma does this: 29% of its answers stop at "Africa", and 39% use a pan-African term such as "wax print". Qwen almost never collapses. It reaches West or Southern Africa and stops (48% of images end at rung 2), or it names a people that is usually wrong. Qwen named "Yoruba" 592 times, and 525 of those were wrong. That flattens Nigerian textiles into the best-known Nigerian tradition rather than into "Africa". This is why the benchmark reports the wrong-specific rate separately from collapse.
+**The zero-shot failure was not the one we expected.** We built the benchmark to evaluate how accurately VLMs identify and classify culturally specific textile and style expressions across African traditions, particularly at the most granular enthic level. Gemma tends to collapse to the most generic output: 29% of its answers stop at "Africa", and 39% use a pan-African term such as "wax print". Qwen almost never collapses. It names a people, which is in line with the prompt instructions, but it is usually wrong. Qwen named "Yoruba" 592 times, and 525 of those were wrong. That flattens Nigerian textiles into the best-known Nigerian tradition rather than into "Africa." This is why the benchmark reports the wrong-specific rate separately from collapse.
 
 **Recognition is uneven across communities.** Zero-shot Qwen named the people or technique correctly for 52% of Adire images and 49% of Zulu images, but for 2% or fewer of Idoma, Igala, Igbo, Tiv, Tswana-Shweshwe and Xhosa images. Per-class reporting is part of the benchmark for this reason.
 
